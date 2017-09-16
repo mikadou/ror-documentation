@@ -1,0 +1,27 @@
+<map id="source/main/gameplay/LandVehicleSimulation.cpp" name="source/main/gameplay/LandVehicleSimulation.cpp">
+<area shape="rect" id="node2" href="$_land_vehicle_simulation_8h.html" title="LandVehicleSimulation.h" alt="" coords="5,171,169,197"/>
+<area shape="rect" id="node4" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="738,171,835,197"/>
+<area shape="rect" id="node21" href="$_beam_8h.html" title="Beam.h" alt="" coords="1335,245,1401,272"/>
+<area shape="rect" id="node28" href="$_beam_engine_8h.html" title="BeamEngine.h" alt="" coords="679,96,785,123"/>
+<area shape="rect" id="node29" href="$_g_u_i___game_console_8h.html" title="GUI_GameConsole.h" alt="" coords="260,171,407,197"/>
+<area shape="rect" id="node33" href="$_input_engine_8h.html" title="Input logic. " alt="" coords="2217,245,2319,272"/>
+<area shape="rect" id="node42" href="$_language_8h.html" title="Language.h" alt="" coords="563,245,652,272"/>
+<area shape="rect" id="node45" href="$_sound_script_manager_8h.html" title="SoundScriptManager.h" alt="" coords="1012,96,1165,123"/>
+<area shape="rect" id="node46" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="3009,245,3116,272"/>
+<area shape="rect" id="node50" href="$_vehicle_a_i_8h.html" title="Simple waypoint AI. " alt="" coords="1191,96,1280,123"/>
+<area shape="rect" id="node3" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="46,544,199,571"/>
+<area shape="rect" id="node5" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="865,395,1000,421"/>
+<area shape="rect" id="node19" href="$_settings_8h.html" title="Settings.h" alt="" coords="746,245,827,272"/>
+<area shape="rect" id="node17" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="161,469,303,496"/>
+<area shape="rect" id="node18" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1071,469,1241,496"/>
+<area shape="rect" id="node20" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="715,320,801,347"/>
+<area shape="rect" id="node22" href="$_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="929,320,1023,347"/>
+<area shape="rect" id="node23" href="$_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="1760,395,1845,421"/>
+<area shape="rect" id="node24" href="$_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="1142,320,1329,347"/>
+<area shape="rect" id="node25" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="1405,320,1563,347"/>
+<area shape="rect" id="node30" href="$_inter_thread_store_vector_8h.html" title="InterThreadStoreVector.h" alt="" coords="371,245,539,272"/>
+<area shape="rect" id="node31" href="$_base_layout_8h.html" title="mygui/BaseLayout.h" alt="" coords="155,320,295,347"/>
+<area shape="rect" id="node32" href="$_g_u_i___game_console_layout_8h.html" title="GUI_GameConsoleLayout.h" alt="" coords="59,245,245,272"/>
+<area shape="rect" id="node34" href="$_ro_r_window_event_utilities_8h.html" title="RoRWindowEventUtilities.h" alt="" coords="2083,320,2268,347"/>
+<area shape="rect" id="node47" href="$_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="2888,320,3023,347"/>
+</map>

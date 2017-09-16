@@ -1,0 +1,9 @@
+<map id="RoR::ConfigFile::GetColourValue" name="RoR::ConfigFile::GetColourValue">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_terrn2_parser.html#aaf74ce663f16609faf6f139d4bf256e4" title="RoR::Terrn2Parser::\lLoadTerrn2" alt="" coords="238,34,378,75"/>
+<area shape="rect" id="node3" href="$class_cache_system.html#a8c919d3618cc1b8924fc17f2c8cf4155" title="CacheSystem::fillTerrain\lDetailInfo" alt="" coords="435,5,602,46"/>
+<area shape="rect" id="node4" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="427,71,611,97"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="659,71,867,97"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="915,71,1176,97"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1224,71,1275,97"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1323,71,1397,97"/>
+</map>

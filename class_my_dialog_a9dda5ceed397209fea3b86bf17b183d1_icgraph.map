@@ -1,0 +1,9 @@
+<map id="MyDialog::getSettingsControls" name="MyDialog::getSettingsControls">
+<area shape="rect" id="node2" href="$class_my_dialog.html#a30829bbf050a53f6d5c0e1d6abcd29e8" title="MyDialog::SetDefaults" alt="" coords="253,56,408,83"/>
+<area shape="rect" id="node6" href="$class_my_dialog.html#a9a7ec676289d323dc4fa0f0766b30c12" title="MyDialog::SaveConfig" alt="" coords="254,107,407,133"/>
+<area shape="rect" id="node3" href="$class_my_dialog.html#ac878405673c6177b80014e3ea1db6af7" title="MyDialog::MyDialog" alt="" coords="470,5,610,32"/>
+<area shape="rect" id="node5" href="$class_my_dialog.html#afa8e7d3e2cd36f78d391eed394413fc5" title="MyDialog::OnButRestore" alt="" coords="456,56,624,83"/>
+<area shape="rect" id="node4" href="$class_ro_r_config_app.html#a2a0306257bf33d25102a9ace3b2ff59a" title="RoRConfigApp::OnInit" alt="" coords="673,5,826,32"/>
+<area shape="rect" id="node7" href="$class_my_dialog.html#a9b49bcd44430e4de9b82daa8a97885f6" title="MyDialog::OnButPlay" alt="" coords="466,107,614,133"/>
+<area shape="rect" id="node8" href="$class_my_dialog.html#a296eb00017a644c6bedb925dbad7fd25" title="MyDialog::OnButSave" alt="" coords="464,157,616,184"/>
+</map>

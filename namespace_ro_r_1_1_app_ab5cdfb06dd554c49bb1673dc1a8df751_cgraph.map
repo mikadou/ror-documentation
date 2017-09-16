@@ -1,0 +1,5 @@
+<map id="RoR::App::SetGfxSkyMode" name="RoR::App::SetGfxSkyMode">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ae7ca05a9e2c04da99c1305919b3002b3" title="RoR::App::SetVarEnum" alt="" coords="263,5,425,32"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a55f2b8559d7388dc9e63ba8d874f551b" title="RoR::App::GfxSkyModeToString" alt="" coords="237,56,451,83"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a3492dc6307a9d930ac73578e0d1f005e" title="RoR::App::LogVarUpdate" alt="" coords="499,5,669,32"/>
+</map>

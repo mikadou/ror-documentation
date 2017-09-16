@@ -1,0 +1,5 @@
+<map id="RoR::BeamFactory::removeCurrentTruck" name="RoR::BeamFactory::removeCurrentTruck">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#ac8a9a6f08309a8a30f714e0480eaded6" title="Call this after simulation loop finishes. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#aaff4dc9bb034a75b63059308fb7f8075" title="RoR::BeamFactory::FindTruck\lInsideBox" alt="" coords="475,5,677,46"/>
+<area shape="rect" id="node4" href="$class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="726,12,858,39"/>
+</map>

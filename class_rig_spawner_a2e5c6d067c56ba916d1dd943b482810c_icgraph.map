@@ -1,0 +1,4 @@
+<map id="RigSpawner::GetRig" name="RigSpawner::GetRig">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_flex_factory.html#a41b5f9177e83f8769b3b52d75f9fa741" title="RoR::FlexFactory::Create\lFlexBody" alt="" coords="197,5,371,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_flex_factory.html#af11df4b94b6c1815aaecc6e634416df9" title="RoR::FlexFactory::Create\lFlexMeshWheel" alt="" coords="197,70,371,111"/>
+</map>

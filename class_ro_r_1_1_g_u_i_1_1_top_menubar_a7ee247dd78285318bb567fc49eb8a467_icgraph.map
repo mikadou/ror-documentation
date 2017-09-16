@@ -1,0 +1,10 @@
+<map id="RoR::GUI::TopMenubar::SetVisible" name="RoR::GUI::TopMenubar::SetVisible">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#ae032ae0ac0445e1b4bd8db096ab4802c" title="RoR::GUIManager::SetVisible\l_TopMenubar" alt="" coords="217,67,415,109"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="225,133,407,174"/>
+<area shape="rect" id="node3" href="$class_g_u_i_input_manager.html#af743c86f4405a5d1d500411986acc9a8" title="GUIInputManager::WakeUpGUI" alt="" coords="464,65,672,92"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="543,140,593,167"/>
+<area shape="rect" id="node4" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="728,5,939,32"/>
+<area shape="rect" id="node5" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="723,56,943,83"/>
+<area shape="rect" id="node6" href="$class_g_u_i_input_manager.html#a5f096906671c8b2fc404353cb0cc3cf4" title="GUIInputManager::mouseReleased" alt="" coords="720,107,947,133"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="797,157,870,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SurveyMapEntity" name="SurveyMapEntity">
+<area shape="rect" id="node2" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="5,83,139,109"/>
+<area shape="rect" id="node4" href="$class_survey_map_manager.html" title="SurveyMapManager" alt="" coords="123,173,261,200"/>
+<area shape="rect" id="node3" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="296,5,455,32"/>
+<area shape="rect" id="node5" href="$class_survey_map_texture_creator.html" title="SurveyMapTextureCreator" alt="" coords="163,83,337,109"/>
+</map>

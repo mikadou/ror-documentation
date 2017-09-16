@@ -1,0 +1,8 @@
+<map id="ShadowManager::updateTerrainMaterial" name="ShadowManager::updateTerrainMaterial">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#afcd8aada760188c69fedc4ee0bb39e70" title="RoR::App::GetGfxShadowType" alt="" coords="279,5,486,32"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a64393b0dea5d6369bffe54eb64b2402b" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetReceiveDynamicShadowsDepth" alt="" coords="268,56,497,112"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a38ace1660cd14278384f1b8d8ffb20d6" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetReceiveDynamicShadowsLowLod" alt="" coords="263,136,502,192"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a5ee5ddc009e4cb01c7a1fb02386edb12" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetReceiveDynamicShadowsEnabled" alt="" coords="262,216,503,272"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#ab5bc01c8574779a1073f60ff7c15a45f" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetReceiveDynamicShadowsPSSM" alt="" coords="267,296,499,352"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a8c22548270433a277218f68d4fff0540" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetLightmapEnabled" alt="" coords="291,376,474,432"/>
+</map>

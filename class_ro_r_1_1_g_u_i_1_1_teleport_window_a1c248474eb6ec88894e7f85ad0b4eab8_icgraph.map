@@ -1,0 +1,12 @@
+<map id="RoR::GUI::TeleportWindow::SetVisible" name="RoR::GUI::TeleportWindow::SetVisible">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#afd3db6ab5e84e3db8dca41a7e8629475" title="RoR::GUIManager::SetVisible\l_TeleportWindow" alt="" coords="238,5,437,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="757,93,939,134"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a135f8c66e05e6d66a7faedb12af85c51" title="RoR::GUI::TeleportWindow\l::WindowButtonClicked" alt="" coords="246,122,429,163"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#aed43676dadbaed9c5834036384a08bc0" title="RoR::GUI::TeleportWindow\l::TelepointIconClicked" alt="" coords="246,253,429,294"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#ac008aab0ca2d7d5cc6ab54db3ce62ca4" title="RoR::GUI::TeleportWindow\l::MinimapMouseClick" alt="" coords="246,187,429,229"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1027,144,1077,171"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1126,144,1199,171"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a09839bd0d122825f6ae2fbd75cd8bfcb" title="RoR::GUI::TeleportWindow\l::TeleportWindow" alt="" coords="486,138,669,179"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a9292807baa0f323baaa1a4d632b537d9" title="RoR::GUI::TeleportWindow\l::SetupMap" alt="" coords="486,235,669,277"/>
+<area shape="rect" id="node10" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="717,187,979,213"/>
+</map>

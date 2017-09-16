@@ -1,0 +1,8 @@
+<map id="BeamEngine::getRPM" name="BeamEngine::getRPM">
+<area shape="rect" id="node2" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a20e0e3bfb3deaa213ffb06d283ae81c8" title="RoR::LandVehicleSimulation\l::UpdateCruiseControl" alt="" coords="208,5,397,46"/>
+<area shape="rect" id="node4" href="$class_out_protocol.html#ae17e602d236aaeb1cafb79d984f6fadd" title="OutProtocol::Update" alt="" coords="232,71,373,97"/>
+<area shape="rect" id="node6" href="$class_overlay_wrapper.html#a980f106951b91e11f14a1f23c6f678bc" title="OverlayWrapper::UpdateLand\lVehicleHUD" alt="" coords="205,122,400,163"/>
+<area shape="rect" id="node7" href="$class_game_script.html#adf964fe38e8cb870870466b183670da3" title="GameScript::boostCurrent\lTruck" alt="" coords="215,187,390,229"/>
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="461,5,651,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="449,100,663,127"/>
+</map>

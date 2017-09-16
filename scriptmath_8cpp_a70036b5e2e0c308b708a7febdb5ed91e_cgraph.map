@@ -1,0 +1,9 @@
+<map id="RegisterScriptMath" name="RegisterScriptMath">
+<area shape="rect" id="node2" href="$scriptmath_8cpp.html#a5064f3eba0630ae469e3dc7b7c4106f3" title="RegisterScriptMath\l_Generic" alt="" coords="190,17,325,58"/>
+<area shape="rect" id="node4" href="$scriptmath_8cpp.html#ad035a4c21e55af2efa59318531dae3e4" title="RegisterScriptMath\l_Native" alt="" coords="190,99,325,141"/>
+<area shape="rect" id="node3" href="$scriptmath_8cpp.html#afe2051cadc530ef9ed1dc75cd8d84221" title="atan2f_generic" alt="" coords="373,5,480,32"/>
+<area shape="rect" id="node5" href="$scriptmath_8cpp.html#acbb765a41af85ae7e72882b07bef3370" title="fpFromIEEE" alt="" coords="379,56,474,83"/>
+<area shape="rect" id="node6" href="$scriptmath_8cpp.html#a1dd4653459c9fd11e12d6895fb699a55" title="fpToIEEE" alt="" coords="387,107,466,133"/>
+<area shape="rect" id="node7" href="$scriptmath_8cpp.html#a5c96b7215802489e0cfa2134d73a1efa" title="closeTo" alt="" coords="393,157,461,184"/>
+<area shape="rect" id="node8" href="$scriptmath_8cpp.html#a7fbd37e3ddab7ea8ae5dfe45c8142d52" title="fractionf" alt="" coords="392,208,461,235"/>
+</map>

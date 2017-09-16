@@ -1,0 +1,5 @@
+<map id="RoR::ContentManager::AddResourcePack" name="RoR::ContentManager::AddResourcePack">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a931f2dc742b47c4891f8e2fc92801aa7" title="RoR::App::GetSysResourcesDir" alt="" coords="209,5,421,32"/>
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_platform_utils.html#a4cce0acacfc7fcb262da2e7abcc38355" title="RoR::PlatformUtils\l::FileExists" alt="" coords="248,57,381,98"/>
+<area shape="rect" id="node4" href="$struct_ro_r_1_1_platform_utils.html#a1bf4d0b15332a9d583e75b25d5b16cab" title="RoR::PlatformUtils\l::FolderExists" alt="" coords="248,122,381,163"/>
+</map>

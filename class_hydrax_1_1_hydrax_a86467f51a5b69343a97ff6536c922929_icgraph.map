@@ -1,0 +1,8 @@
+<map id="Hydrax::Hydrax::setSunPosition" name="Hydrax::Hydrax::setSunPosition">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_cfg_file_manager.html#a6717ef4e731b3c22d71260aaa6d0336a" title="Hydrax::CfgFileManager\l::_loadComponentsSettings" alt="" coords="270,5,453,46"/>
+<area shape="rect" id="node4" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a8d7a8efcd6b7fd0e4313c9114bd2c061" title="Hydrax::Module::Projected\lGrid::update" alt="" coords="273,70,450,111"/>
+<area shape="rect" id="node5" href="$class_hydrax_water.html#aa179b211992ec42447dc861ece4b3e3e" title="HydraxWater::update" alt="" coords="288,136,435,163"/>
+<area shape="rect" id="node7" href="$class_hydrax_water.html#a283fbde037aa39623f121f2877b15d06" title="HydraxWater::setSunPosition" alt="" coords="264,187,459,213"/>
+<area shape="rect" id="node3" href="$class_hydrax_1_1_cfg_file_manager.html#a7d283a6b6b61ad70292c7cb24cd3543c" title="Hydrax::CfgFileManager\l::load" alt="" coords="507,5,671,46"/>
+<area shape="rect" id="node6" href="$class_hydrax_water.html#a00888728a3ac027b68807892c1ec614b" title="HydraxWater::framestep" alt="" coords="507,136,672,163"/>
+</map>

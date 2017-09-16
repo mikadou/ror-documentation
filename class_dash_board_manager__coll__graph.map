@@ -1,0 +1,7 @@
+<map id="DashBoardManager" name="DashBoardManager">
+<area shape="rect" id="node5" href="$class_dash_board.html" title="DashBoard" alt="" coords="154,277,240,304"/>
+<area shape="rect" id="node2" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="5,96,164,123"/>
+<area shape="rect" id="node3" href="$structdash_data__t.html" title="dashData_t" alt="" coords="190,96,279,123"/>
+<area shape="rect" id="node4" href="$uniondata_container__t.html" title="dataContainer_t" alt="" coords="177,5,292,32"/>
+<area shape="rect" id="node6" href="$struct_dash_board_1_1layout_link__t.html" title="DashBoard::layoutLink_t" alt="" coords="285,187,449,213"/>
+</map>

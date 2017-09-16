@@ -1,0 +1,11 @@
+<map id="RoR::SceneMouse::mousePressed" name="RoR::SceneMouse::mousePressed">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a7d08f57d04e928e5acd0258383a53efc" title="RoR::App::GetActiveSimState" alt="" coords="295,5,495,32"/>
+<area shape="rect" id="node3" href="$class_camera_manager.html#a213c263271f91e4eca01182f034e8a04" title="CameraManager::getCurrent\lBehavior" alt="" coords="301,57,488,98"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="297,122,492,163"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="293,187,497,229"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_scene_mouse.html#ac09143f60df04b55807fbe8550404b00" title="RoR::SceneMouse::getMouseRay" alt="" coords="283,253,506,280"/>
+<area shape="rect" id="node8" href="$class_beam.html#a93c645a832090e83bf44cd98f8b43e27" title="Beam::calculateAveragePosition" alt="" coords="289,304,500,331"/>
+<area shape="rect" id="node9" href="$class_camera_manager.html#a0c27870e9affd6a9098abb4114c14bdf" title="CameraManager::NotifyContext\lChange" alt="" coords="291,355,498,397"/>
+<area shape="rect" id="node10" href="$class_camera_manager.html#afa0ba157753ed2a02f2355a43675c95e" title="CameraManager::mousePressed" alt="" coords="288,421,501,448"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="555,195,749,221"/>
+</map>

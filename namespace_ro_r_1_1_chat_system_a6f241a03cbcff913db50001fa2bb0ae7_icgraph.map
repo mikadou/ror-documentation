@@ -1,0 +1,5 @@
+<map id="RoR::ChatSystem::SendStreamSetup" name="RoR::ChatSystem::SendStreamSetup">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_main_menu.html#a3ede6d5d9f3f60f90aeec1f92a2ab7b2" title="RoR::MainMenu::JoinMultiplayer\lServer" alt="" coords="265,5,477,46"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="525,12,576,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="625,12,698,39"/>
+</map>

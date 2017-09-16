@@ -1,0 +1,141 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_aero_engine.html" title="AeroEngine" alt="" coords="73,2445,162,2472"/>
+<area shape="rect" id="node2" href="$class_turbojet.html" title="Turbojet" alt="" coords="359,2471,428,2497"/>
+<area shape="rect" id="node3" href="$class_turboprop.html" title="Turboprop" alt="" coords="353,2420,433,2447"/>
+<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="50,660,185,687"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_debug_options_layout.html" title="RoR::GUI::DebugOptionsLayout" alt="" coords="288,56,499,83"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_dialog.html" title="RoR::GUI::Dialog" alt="" coords="330,107,457,133"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_game_about_layout.html" title="RoR::GUI::GameAboutLayout" alt="" coords="295,157,492,184"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_game_chat_box_layout.html" title="RoR::GUI::GameChatBoxLayout" alt="" coords="286,559,501,585"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_game_console_layout.html" title="RoR::GUI::GameConsoleLayout" alt="" coords="288,259,499,285"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_g_u_i_1_1_game_main_menu_layout.html" title="RoR::GUI::GameMainMenuLayout" alt="" coords="282,609,505,636"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_g_u_i_1_1_game_pause_menu_layout.html" title="RoR::GUI::GamePauseMenuLayout" alt="" coords="277,660,509,687"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_g_u_i_1_1_game_settings_layout.html" title="RoR::GUI::GameSettingsLayout" alt="" coords="288,711,499,737"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_g_u_i_1_1_loading_window.html" title="RoR::GUI::LoadingWindow" alt="" coords="303,1199,484,1225"/>
+<area shape="rect" id="node22" href="$class_ro_r_1_1_g_u_i_1_1_main_selector_layout.html" title="RoR::GUI::MainSelectorLayout" alt="" coords="291,761,495,788"/>
+<area shape="rect" id="node24" href="$class_ro_r_1_1_g_u_i_1_1_message_box_layout.html" title="RoR::GUI::MessageBoxLayout" alt="" coords="291,812,495,839"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_g_u_i_1_1_multiplayer_selector_layout.html" title="RoR::GUI::MultiplayerSelector\lLayout" alt="" coords="293,863,493,905"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_g_u_i_1_1_rig_spawner_report_window_layout.html" title="RoR::GUI::RigSpawnerReport\lWindowLayout" alt="" coords="294,375,493,417"/>
+<area shape="rect" id="node30" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils_layout.html" title="RoR::GUI::SimUtilsLayout" alt="" coords="304,929,483,956"/>
+<area shape="rect" id="node32" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window_layout.html" title="RoR::GUI::TeleportWindow\lLayout" alt="" coords="302,493,485,534"/>
+<area shape="rect" id="node34" href="$class_ro_r_1_1_g_u_i_1_1_texture_tool_window.html" title="RoR::GUI::TextureToolWindow" alt="" coords="291,1097,496,1124"/>
+<area shape="rect" id="node35" href="$class_ro_r_1_1_g_u_i_1_1_vehicle_description_layout.html" title="RoR::GUI::VehicleDescription\lLayout" alt="" coords="294,981,493,1022"/>
+<area shape="rect" id="node37" href="$class_survey_map_entity.html" title="SurveyMapEntity" alt="" coords="332,1047,455,1073"/>
+<area shape="rect" id="node38" href="$class_survey_map_manager.html" title="SurveyMapManager" alt="" coords="324,5,463,32"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_debug_options.html" title="RoR::GUI::DebugOptions" alt="" coords="575,56,747,83"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html" title="RoR::GUI::OpenSaveFileDialog" alt="" coords="557,107,765,133"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_game_about.html" title="RoR::GUI::GameAbout" alt="" coords="582,157,741,184"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_g_u_i_1_1_game_chat_box.html" title="RoR::GUI::GameChatBox" alt="" coords="574,559,749,585"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_console.html" title="RoR::Console" alt="" coords="609,288,714,315"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_g_u_i_1_1_game_main_menu.html" title="RoR::GUI::GameMainMenu" alt="" coords="569,609,753,636"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_g_u_i_1_1_game_pause_menu.html" title="RoR::GUI::GamePauseMenu" alt="" coords="565,660,758,687"/>
+<area shape="rect" id="node20" href="$class_ro_r_1_1_g_u_i_1_1_game_settings.html" title="RoR::GUI::GameSettings" alt="" coords="575,711,747,737"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_g_u_i_1_1_main_selector.html" title="RoR::GUI::MainSelector" alt="" coords="579,761,744,788"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_g_u_i_1_1g_message_box.html" title="RoR::GUI::gMessageBox" alt="" coords="575,812,747,839"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html" title="RoR::GUI::MultiplayerSelector" alt="" coords="561,871,761,897"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_g_u_i_1_1_rig_spawner_report_window.html" title="RoR::GUI::RigSpawnerReport\lWindow" alt="" coords="562,405,761,446"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html" title="RoR::GUI::SimUtils" alt="" coords="592,929,731,956"/>
+<area shape="rect" id="node33" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html" title="RoR::GUI::TeleportWindow" alt="" coords="570,485,753,512"/>
+<area shape="rect" id="node36" href="$class_ro_r_1_1_g_u_i_1_1_vehicle_description.html" title="RoR::GUI::VehicleDescription" alt="" coords="562,988,761,1015"/>
+<area shape="rect" id="node40" href="$class_ogre_script_builder.html" title="OgreScriptBuilder" alt="" coords="331,2521,455,2548"/>
+<area shape="rect" id="node42" href="$class_d_o_f_manager.html" title="DOFManager" alt="" coords="343,1351,443,1377"/>
+<area shape="rect" id="node43" href="$class_ro_r_1_1_g_u_i_manager.html" title="RoR::GUIManager" alt="" coords="328,1249,459,1276"/>
+<area shape="rect" id="node44" href="$class_ro_r_frame_listener.html" title="RoRFrameListener" alt="" coords="327,1300,459,1327"/>
+<area shape="rect" id="node45" href="$class_g_u_i_input_manager.html" title="GUIInputManager" alt="" coords="55,1224,180,1251"/>
+<area shape="rect" id="node46" href="$class_ro_r_1_1_gui_panel_base.html" title="RoR::GuiPanelBase" alt="" coords="323,441,463,468"/>
+<area shape="rect" id="node47" href="$class_i_height_finder.html" title="IHeightFinder" alt="" coords="67,2572,167,2599"/>
+<area shape="rect" id="node48" href="$class_terrain_geometry_manager.html" title="this class handles all interactions with the Ogre Terrain system " alt="" coords="309,2572,478,2599"/>
+<area shape="rect" id="node49" href="$class_inter_thread_store_vector.html" title="InterThreadStoreVector\l\&lt; ConsoleMessage \&gt;" alt="" coords="315,310,472,351"/>
+<area shape="rect" id="node50" href="$class_i_water.html" title="IWater" alt="" coords="87,1579,148,1605"/>
+<area shape="rect" id="node51" href="$class_hydrax_water.html" title="HydraxWater" alt="" coords="344,1503,443,1529"/>
+<area shape="rect" id="node52" href="$class_water.html" title="Water" alt="" coords="365,1553,422,1580"/>
+<area shape="rect" id="node54" href="$class_input_engine.html" title="InputEngine" alt="" coords="348,1401,439,1428"/>
+<area shape="rect" id="node57" href="$class_mesh_object.html" title="MeshObject" alt="" coords="347,1452,439,1479"/>
+<area shape="rect" id="node60" href="$class_depth_of_field_effect.html" title="DepthOfFieldEffect" alt="" coords="326,1671,461,1697"/>
+<area shape="rect" id="node61" href="$class_h_d_r_listener.html" title="HDRListener" alt="" coords="344,2049,443,2076"/>
+<area shape="rect" id="node62" href="$class_hydrax_1_1_material_manager_1_1_underwater_compositor_listener.html" title="Hydrax::MaterialManager\l::UnderwaterCompositorListener" alt="" coords="288,1605,499,1646"/>
+<area shape="rect" id="node64" href="$class_glow_material_listener.html" title="GlowMaterialListener" alt="" coords="321,2623,465,2649"/>
+<area shape="rect" id="node69" href="$class_dashboard_listener.html" title="DashboardListener" alt="" coords="328,2319,459,2345"/>
+<area shape="rect" id="node70" href="$class_heat_haze_listener.html" title="HeatHazeListener" alt="" coords="330,2369,457,2396"/>
+<area shape="rect" id="node71" href="$class_hydrax_1_1_god_rays_manager_1_1_depth_map_listener.html" title="Hydrax::GodRaysManager\l::DepthMapListener" alt="" coords="305,2101,482,2142"/>
+<area shape="rect" id="node72" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_listener.html" title="Hydrax::RttManager\l::CDepthListener" alt="" coords="323,1722,463,1763"/>
+<area shape="rect" id="node73" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_reflection_listener.html" title="Hydrax::RttManager\l::CDepthReflectionListener" alt="" coords="303,1787,483,1829"/>
+<area shape="rect" id="node74" href="$class_hydrax_1_1_rtt_manager_1_1_c_g_p_u_normal_map_listener.html" title="Hydrax::RttManager\l::CGPUNormalMapListener" alt="" coords="302,1853,485,1894"/>
+<area shape="rect" id="node75" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener.html" title="Hydrax::RttManager\l::CReflectionListener" alt="" coords="321,1918,466,1959"/>
+<area shape="rect" id="node76" href="$class_hydrax_1_1_rtt_manager_1_1_c_refraction_listener.html" title="Hydrax::RttManager\l::CRefractionListener" alt="" coords="320,1983,467,2025"/>
+<area shape="rect" id="node77" href="$class_reflection_texture_listener.html" title="ReflectionTextureListener" alt="" coords="308,2167,479,2193"/>
+<area shape="rect" id="node78" href="$class_refraction_texture_listener.html" title="RefractionTextureListener" alt="" coords="307,2217,479,2244"/>
+<area shape="rect" id="node79" href="$class_survey_map_texture_creator.html" title="SurveyMapTextureCreator" alt="" coords="306,2268,481,2295"/>
+<area shape="rect" id="node81" href="$class_ro_r_1_1_content_manager.html" title="RoR::ContentManager" alt="" coords="317,2673,470,2700"/>
+<area shape="rect" id="node82" href="$structrig__t.html" title="&lt; A simulation actor; typically a vehicle " alt="" coords="94,5324,141,5351"/>
+<area shape="rect" id="node83" href="$class_beam.html" title="Beam" alt="" coords="365,5324,421,5351"/>
+<area shape="rect" id="node84" href="$class_ro_r_singleton.html" title="RoRSingleton\&lt; LanguageEngine \&gt;" alt="" coords="6,5375,229,5401"/>
+<area shape="rect" id="node85" href="$class_language_engine.html" title="LanguageEngine" alt="" coords="334,5375,453,5401"/>
+<area shape="rect" id="node86" href="$class_ro_r_singleton.html" title="RoRSingleton\&lt; OutProtocol \&gt;" alt="" coords="19,5425,215,5452"/>
+<area shape="rect" id="node87" href="$class_out_protocol.html" title="OutProtocol" alt="" coords="348,5425,439,5452"/>
+<area shape="rect" id="node88" href="$class_ro_r_singleton.html" title="RoRSingleton\&lt; Settings \&gt;" alt="" coords="30,5476,205,5503"/>
+<area shape="rect" id="node89" href="$class_settings.html" title="Settings" alt="" coords="358,5476,429,5503"/>
+<area shape="rect" id="node91" href="$class_forests_1_1_random_tree_loader.html" title="Forests::RandomTreeLoader" alt="" coords="299,5527,487,5553"/>
+<area shape="rect" id="node93" href="$class_ro_r_1_1_main_menu.html" title="RoR::MainMenu" alt="" coords="335,1148,452,1175"/>
+<area shape="rect" id="node95" href="$class_ro_r_window_event_utilities.html" title="RoRWindowEventUtilities" alt="" coords="306,5577,481,5604"/>
+<area shape="rect" id="node96" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="37,3585,197,3612"/>
+<area shape="rect" id="node97" href="$class_advanced_screen.html" title="AdvancedScreen" alt="" coords="333,3636,454,3663"/>
+<area shape="rect" id="node98" href="$class_airbrake.html" title="Airbrake" alt="" coords="358,3687,429,3713"/>
+<area shape="rect" id="node99" href="$class_airfoil.html" title="Represents an airfoil http://en.wikipedia.org/wiki/Airfoil. " alt="" coords="366,3737,421,3764"/>
+<area shape="rect" id="node100" href="$class_autopilot.html" title="Autopilot" alt="" coords="357,3788,430,3815"/>
+<area shape="rect" id="node101" href="$class_axle.html" title="class created from a struct will be ugly for a while. " alt="" coords="369,3839,417,3865"/>
+<area shape="rect" id="node102" href="$class_beam_engine.html" title="BeamEngine" alt="" coords="345,3889,441,3916"/>
+<area shape="rect" id="node103" href="$class_cache_system.html" title="CacheSystem" alt="" coords="341,3940,446,3967"/>
+<area shape="rect" id="node104" href="$class_character.html" title="Character" alt="" coords="354,3991,433,4017"/>
+<area shape="rect" id="node105" href="$class_cmd_key_inertia.html" title="CmdKeyInertia" alt="" coords="339,4041,448,4068"/>
+<area shape="rect" id="node106" href="$class_collisions.html" title="Collisions" alt="" coords="354,4092,433,4119"/>
+<area shape="rect" id="node107" href="$class_dash_board.html" title="DashBoard" alt="" coords="350,4143,437,4169"/>
+<area shape="rect" id="node108" href="$class_dashboard.html" title="Dashboard" alt="" coords="351,4193,436,4220"/>
+<area shape="rect" id="node109" href="$class_dash_board_manager.html" title="DashBoardManager" alt="" coords="325,4244,462,4271"/>
+<area shape="rect" id="node110" href="$class_decal_manager.html" title="DecalManager" alt="" coords="340,4295,447,4321"/>
+<area shape="rect" id="node111" href="$class_decal_spline.html" title="DecalSpline" alt="" coords="347,4345,439,4372"/>
+<area shape="rect" id="node112" href="$class_dust_manager.html" title="DustManager" alt="" coords="343,4396,443,4423"/>
+<area shape="rect" id="node113" href="$class_dust_pool.html" title="DustPool" alt="" coords="355,4447,431,4473"/>
+<area shape="rect" id="node114" href="$class_flex_airfoil.html" title="FlexAirfoil" alt="" coords="353,4497,433,4524"/>
+<area shape="rect" id="node115" href="$class_flex_obj.html" title="FlexObj" alt="" coords="360,4548,427,4575"/>
+<area shape="rect" id="node116" href="$class_game_script.html" title="Proxy class that can be called by script functions. " alt="" coords="348,4599,439,4625"/>
+<area shape="rect" id="node117" href="$class_heat_haze.html" title="HeatHaze" alt="" coords="353,4649,434,4676"/>
+<area shape="rect" id="node118" href="$class_i_behavior.html" title="IBehavior\&lt; context \&gt;" alt="" coords="321,4700,465,4727"/>
+<area shape="rect" id="node119" href="$class_i_behavior.html" title="IBehavior\&lt; CameraManager\l::CameraContext \&gt;" alt="" coords="301,4751,486,4793"/>
+<area shape="rect" id="node129" href="$class_landusemap.html" title="Landusemap" alt="" coords="345,4817,441,4844"/>
+<area shape="rect" id="node130" href="$class_lens.html" title="Lens" alt="" coords="368,4868,419,4895"/>
+<area shape="rect" id="node131" href="$class_m_o_c_1_1_collision_tools.html" title="MOC::CollisionTools" alt="" coords="322,4919,465,4945"/>
+<area shape="rect" id="node132" href="$class_overlay_wrapper.html" title="OverlayWrapper" alt="" coords="335,4969,451,4996"/>
+<area shape="rect" id="node133" href="$class_point_col_detector.html" title="PointColDetector" alt="" coords="332,5020,455,5047"/>
+<area shape="rect" id="node134" href="$class_position_storage.html" title="PositionStorage" alt="" coords="336,5071,451,5097"/>
+<area shape="rect" id="node135" href="$class_precision_timer.html" title="PrecisionTimer" alt="" coords="339,5121,448,5148"/>
+<area shape="rect" id="node136" href="$class_procedural_manager.html" title="ProceduralManager" alt="" coords="326,5172,461,5199"/>
+<area shape="rect" id="node137" href="$class_procedural_object.html" title="ProceduralObject" alt="" coords="332,5223,455,5249"/>
+<area shape="rect" id="node138" href="$class_procedural_point.html" title="ProceduralPoint" alt="" coords="336,5273,451,5300"/>
+<area shape="rect" id="node139" href="$class_rail.html" title="Rail" alt="" coords="371,2775,416,2801"/>
+<area shape="rect" id="node140" href="$class_rail_builder.html" title="RailBuilder" alt="" coords="351,2825,436,2852"/>
+<area shape="rect" id="node141" href="$class_rail_group.html" title="RailGroup" alt="" coords="353,2876,433,2903"/>
+<area shape="rect" id="node142" href="$class_replay.html" title="Replay" alt="" coords="362,2927,425,2953"/>
+<area shape="rect" id="node143" href="$class_road.html" title="Road" alt="" coords="367,2977,420,3004"/>
+<area shape="rect" id="node144" href="$class_road2.html" title="Road2" alt="" coords="363,3028,423,3055"/>
+<area shape="rect" id="node145" href="$class_ro_r_1_1_c_s_h_a1.html" title="RoR::CSHA1" alt="" coords="342,3079,445,3105"/>
+<area shape="rect" id="node146" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html" title="RoR::GUI::FrictionSettings" alt="" coords="303,3129,483,3156"/>
+<area shape="rect" id="node147" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html" title="RoR::GUI::TopMenubar" alt="" coords="313,3180,474,3207"/>
+<area shape="rect" id="node148" href="$class_ro_r_1_1_ogre_subsystem.html" title="RoR::OgreSubsystem" alt="" coords="318,3231,469,3257"/>
+<area shape="rect" id="node149" href="$class_ro_r_1_1_scene_mouse.html" title="RoR::SceneMouse" alt="" coords="327,3281,460,3308"/>
+<area shape="rect" id="node150" href="$class_screwprop.html" title="Screwprop" alt="" coords="351,3332,435,3359"/>
+<area shape="rect" id="node151" href="$class_shadow_manager.html" title="ShadowManager" alt="" coords="334,3383,453,3409"/>
+<area shape="rect" id="node152" href="$class_slide_node.html" title="SlideNode" alt="" coords="352,3433,435,3460"/>
+<area shape="rect" id="node153" href="$class_terrain_manager.html" title="TerrainManager" alt="" coords="337,3484,449,3511"/>
+<area shape="rect" id="node154" href="$class_terrain_object_manager.html" title="TerrainObjectManager" alt="" coords="318,3535,469,3561"/>
+<area shape="rect" id="node155" href="$class_torque_curve.html" title="This class loads and processes a torque curve for a truck. " alt="" coords="345,3585,442,3612"/>
+<area shape="rect" id="node120" href="$class_camera_behavior_fixed.html" title="CameraBehaviorFixed" alt="" coords="586,4657,737,4684"/>
+<area shape="rect" id="node121" href="$class_camera_behavior_free.html" title="CameraBehaviorFree" alt="" coords="589,4708,734,4735"/>
+<area shape="rect" id="node122" href="$class_camera_behavior_isometric.html" title="CameraBehaviorIsometric" alt="" coords="575,4759,748,4785"/>
+<area shape="rect" id="node123" href="$class_camera_behavior_orbit.html" title="CameraBehaviorOrbit" alt="" coords="588,4809,735,4836"/>
+<area shape="rect" id="node128" href="$class_camera_behavior_static.html" title="CameraBehaviorStatic" alt="" coords="585,4860,738,4887"/>
+<area shape="rect" id="node124" href="$class_camera_behavior_character.html" title="CameraBehaviorCharacter" alt="" coords="813,4784,989,4811"/>
+<area shape="rect" id="node125" href="$class_camera_behavior_vehicle.html" title="CameraBehaviorVehicle" alt="" coords="820,4835,983,4861"/>
+<area shape="rect" id="node126" href="$class_camera_behavior_vehicle_cine_cam.html" title="CameraBehaviorVehicleCineCam" alt="" coords="1038,4809,1255,4836"/>
+<area shape="rect" id="node127" href="$class_camera_behavior_vehicle_spline.html" title="CameraBehaviorVehicleSpline" alt="" coords="1047,4860,1246,4887"/>
+</map>

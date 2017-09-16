@@ -1,0 +1,7 @@
+<map id="CameraBehaviorCharacter::mouseMoved" name="CameraBehaviorCharacter::mouseMoved">
+<area shape="rect" id="node2" href="$class_character.html#a7e18e6ea7965b2e32946a06256ec8984" title="Character::getRotation" alt="" coords="229,5,384,32"/>
+<area shape="rect" id="node3" href="$class_character.html#a305f94b58e7e8b61cc6829e4aba7a060" title="Character::setRotation" alt="" coords="229,56,384,83"/>
+<area shape="rect" id="node4" href="$class_camera_behavior_orbit.html#ae3a8adebed6a9bc24029c30328d5ecce" title="CameraBehaviorOrbit\l::mouseMoved" alt="" coords="233,107,380,149"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="432,89,611,116"/>
+<area shape="rect" id="node6" href="$class_input_engine.html#a31083a87d361611caf4ded6955565d18" title="InputEngine::isKeyDown" alt="" coords="438,140,605,167"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Beam::updateDashBoards" name="Beam::updateDashBoards">
+<area shape="rect" id="node2" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="243,5,419,46"/>
+<area shape="rect" id="node3" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="242,71,419,97"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="229,121,432,148"/>
+</map>

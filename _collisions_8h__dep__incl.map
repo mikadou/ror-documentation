@@ -1,0 +1,18 @@
+<map id="source/main/physics/collision/Collisions.h" name="source/main/physics/collision/Collisions.h">
+<area shape="rect" id="node2" href="$_character_8cpp.html" title="source/main/gameplay\l/Character.cpp" alt="" coords="5,97,157,138"/>
+<area shape="rect" id="node3" href="$_landusemap_8cpp.html" title="source/main/gameplay\l/Landusemap.cpp" alt="" coords="182,97,335,138"/>
+<area shape="rect" id="node4" href="$_road2_8cpp.html" title="source/main/gameplay\l/Road2.cpp" alt="" coords="359,97,512,138"/>
+<area shape="rect" id="node5" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="537,97,697,138"/>
+<area shape="rect" id="node6" href="$_camera_behavior_orbit_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorOrbit.cpp" alt="" coords="723,97,899,138"/>
+<area shape="rect" id="node7" href="$_g_u_i___friction_settings_8cpp.html" title="source/main/gui/panels\l/GUI_FrictionSettings.cpp" alt="" coords="923,97,1096,138"/>
+<area shape="rect" id="node8" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="1121,97,1263,138"/>
+<area shape="rect" id="node9" href="$_beam_factory_8cpp.html" title="source/main/physics\l/BeamFactory.cpp" alt="" coords="1287,97,1429,138"/>
+<area shape="rect" id="node10" href="$_beam_forces_euler_8cpp.html" title="source/main/physics\l/BeamForcesEuler.cpp" alt="" coords="1455,97,1608,138"/>
+<area shape="rect" id="node11" href="$_collisions_8cpp.html" title="source/main/physics\l/collision/Collisions.cpp" alt="" coords="1634,97,1792,138"/>
+<area shape="rect" id="node12" href="$_dynamic_collisions_8cpp.html" title="source/main/physics\l/collision/DynamicCollisions.cpp" alt="" coords="1817,97,2027,138"/>
+<area shape="rect" id="node13" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="2051,97,2193,138"/>
+<area shape="rect" id="node14" href="$_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="2219,97,2365,138"/>
+<area shape="rect" id="node15" href="$_script_engine_8cpp.html" title="source/main/scripting\l/ScriptEngine.cpp" alt="" coords="2389,97,2536,138"/>
+<area shape="rect" id="node16" href="$_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="2560,97,2700,138"/>
+<area shape="rect" id="node17" href="$_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="2725,97,2904,138"/>
+</map>

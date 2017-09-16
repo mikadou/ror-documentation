@@ -1,0 +1,6 @@
+<map id="RoR::GUIManager::SetSimController" name="RoR::GUIManager::SetSimController">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a1a4c2b4a27eb2a018b6b8ea49528f22a" title="RoR::GUI::TopMenubar\l::SetSimController" alt="" coords="319,5,481,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_console.html#ada753eaf5c09b8b55680f9180092692f" title="RoR::Console::SetSimController" alt="" coords="294,71,506,97"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#a2e232721104f59fdd46ffe33b7a91e89" title="RoR::GUI::MpClientList\l::SetSimController" alt="" coords="319,122,481,163"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_vehicle_description.html#a85c400359fd29bfe797e863282d40401" title="RoR::GUI::VehicleDescription\l::SetSimController" alt="" coords="301,187,499,229"/>
+</map>

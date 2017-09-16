@@ -1,0 +1,26 @@
+<map id="source/main/gameplay/CharacterFactory.h" name="source/main/gameplay/CharacterFactory.h">
+<area shape="rect" id="node2" href="$_ro_r_frame_listener_8h.html" title="source/main/gameplay\l/RoRFrameListener.h" alt="" coords="1977,97,2129,138"/>
+<area shape="rect" id="node4" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="5,187,165,229"/>
+<area shape="rect" id="node14" href="$main_8cpp.html" title="source/main/main.cpp" alt="" coords="3758,195,3908,221"/>
+<area shape="rect" id="node15" href="$_main_menu_8cpp.html" title="source/main/MainMenu.cpp" alt="" coords="3933,195,4115,221"/>
+<area shape="rect" id="node25" href="$_character_factory_8cpp.html" title="source/main/gameplay\l/CharacterFactory.cpp" alt="" coords="3089,97,3241,138"/>
+<area shape="rect" id="node3" href="$_character_8cpp.html" title="source/main/gameplay\l/Character.cpp" alt="" coords="1977,187,2129,229"/>
+<area shape="rect" id="node5" href="$_scene_mouse_8cpp.html" title="source/main/gameplay\l/SceneMouse.cpp" alt="" coords="2154,187,2307,229"/>
+<area shape="rect" id="node6" href="$_depth_of_field_effect_8cpp.html" title="source/main/gfx/dof\l/DepthOfFieldEffect.cpp" alt="" coords="2332,187,2495,229"/>
+<area shape="rect" id="node7" href="$_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="2519,195,2755,221"/>
+<area shape="rect" id="node8" href="$_g_u_i___game_console_8cpp.html" title="source/main/gui/panels\l/GUI_GameConsole.cpp" alt="" coords="2780,187,2944,229"/>
+<area shape="rect" id="node9" href="$_g_u_i___main_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MainSelector.cpp" alt="" coords="2970,187,3128,229"/>
+<area shape="rect" id="node10" href="$_g_u_i___multiplayer_client_list_8cpp.html" title="source/main/gui/panels\l/GUI_MultiplayerClientList.cpp" alt="" coords="3153,187,3352,229"/>
+<area shape="rect" id="node11" href="$_g_u_i___teleport_window_8cpp.html" title="source/main/gui/panels\l/GUI_TeleportWindow.cpp" alt="" coords="3377,187,3553,229"/>
+<area shape="rect" id="node12" href="$_g_u_i___top_menubar_8cpp.html" title="source/main/gui/panels\l/GUI_TopMenubar.cpp" alt="" coords="3578,187,3733,229"/>
+<area shape="rect" id="node13" href="$_g_u_i___vehicle_description_8cpp.html" title="source/main/gui/panels\l/GUI_VehicleDescription.cpp" alt="" coords="190,187,380,229"/>
+<area shape="rect" id="node16" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="405,187,547,229"/>
+<area shape="rect" id="node17" href="$_beam_factory_8cpp.html" title="source/main/physics\l/BeamFactory.cpp" alt="" coords="571,187,713,229"/>
+<area shape="rect" id="node18" href="$_beam_forces_euler_8cpp.html" title="source/main/physics\l/BeamForcesEuler.cpp" alt="" coords="739,187,892,229"/>
+<area shape="rect" id="node19" href="$_beam_slide_node_8cpp.html" title="source/main/physics\l/BeamSlideNode.cpp" alt="" coords="918,187,1063,229"/>
+<area shape="rect" id="node20" href="$_collisions_8cpp.html" title="source/main/physics\l/collision/Collisions.cpp" alt="" coords="1087,187,1245,229"/>
+<area shape="rect" id="node21" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="1270,187,1412,229"/>
+<area shape="rect" id="node22" href="$_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="1437,187,1584,229"/>
+<area shape="rect" id="node23" href="$_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="1608,187,1748,229"/>
+<area shape="rect" id="node24" href="$_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="1773,187,1952,229"/>
+</map>

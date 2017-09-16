@@ -1,0 +1,8 @@
+<map id="SurveyMapEntity::setPosition" name="SurveyMapEntity::setPosition">
+<area shape="rect" id="node2" href="$class_survey_map_entity.html#af393a262b4094ca586036e08943b6d72" title="SurveyMapEntity::update" alt="" coords="249,96,418,123"/>
+<area shape="rect" id="node3" href="$class_survey_map_manager.html#a959f28a84f3b54803983c734bcc849e1" title="SurveyMapManager::getMap\lEntitiesVisible" alt="" coords="491,5,680,46"/>
+<area shape="rect" id="node4" href="$class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="471,71,700,97"/>
+<area shape="rect" id="node6" href="$class_survey_map_manager.html#afdabdbdf87d39f253ecd17af1770a516" title="SurveyMapManager::getWindowSize" alt="" coords="467,121,704,148"/>
+<area shape="rect" id="node7" href="$class_survey_map_manager.html#aec8d2ee435b736ae628d3924a6d2b29d" title="SurveyMapManager::getMapSize" alt="" coords="478,172,693,199"/>
+<area shape="rect" id="node5" href="$class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="753,63,922,105"/>
+</map>

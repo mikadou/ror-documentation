@@ -1,0 +1,6 @@
+<map id="BeamEngine::hasContact" name="BeamEngine::hasContact">
+<area shape="rect" id="node2" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a20e0e3bfb3deaa213ffb06d283ae81c8" title="RoR::LandVehicleSimulation\l::UpdateCruiseControl" alt="" coords="224,5,413,46"/>
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="475,30,664,71"/>
+<area shape="rect" id="node4" href="$class_out_protocol.html#ae17e602d236aaeb1cafb79d984f6fadd" title="OutProtocol::Update" alt="" coords="248,121,389,148"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="462,121,677,148"/>
+</map>

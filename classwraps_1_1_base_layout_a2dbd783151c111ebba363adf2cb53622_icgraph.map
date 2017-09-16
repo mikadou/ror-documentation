@@ -1,0 +1,21 @@
+<map id="wraps::BaseLayout::assignWidget" name="wraps::BaseLayout::assignWidget">
+<area shape="rect" id="node2" href="$classwraps_1_1_base_layout.html#aa6f806c099807cf01b238dff74538f7b" title="wraps::BaseLayout::\linitialiseByAttributes" alt="" coords="230,527,373,569"/>
+<area shape="rect" id="node20" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a14c64d9f8f06ca966e37cb11d63fe28b" title="RoR::GUI::OpenSaveFileDialog\l::OpenSaveFileDialog" alt="" coords="197,593,405,634"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_debug_options_layout.html#a1a1ad6dd54af7eeaaee8187da42532b1" title="RoR::GUI::DebugOptionsLayout\l::DebugOptionsLayout" alt="" coords="464,5,675,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_game_about_layout.html#a36e21a95b99f558600cb9e4fe7b1539b" title="RoR::GUI::GameAboutLayout\l::GameAboutLayout" alt="" coords="471,70,668,111"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_game_chat_box_layout.html#a81f2ed163ed219bc38a70b20491722fc" title="RoR::GUI::GameChatBoxLayout\l::GameChatBoxLayout" alt="" coords="462,135,677,177"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_game_console_layout.html#a10309dc3e63f9c27fd46fe939d385ba0" title="RoR::GUI::GameConsoleLayout\l::GameConsoleLayout" alt="" coords="464,201,675,242"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_game_main_menu_layout.html#a3de0b8e25ebb02ab85a1d58fce1a3c03" title="RoR::GUI::GameMainMenuLayout\l::GameMainMenuLayout" alt="" coords="458,266,681,307"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_game_pause_menu_layout.html#aa8a86f0bbe7120c724ff08a1114b64fd" title="RoR::GUI::GamePauseMenuLayout\l::GamePauseMenuLayout" alt="" coords="453,331,685,373"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_game_settings_layout.html#a24618c05e36beb6da47c5a2adbc92b06" title="RoR::GUI::GameSettingsLayout\l::GameSettingsLayout" alt="" coords="464,397,675,438"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_loading_window.html#a46482d9458812d8abcdc883c8eedcdda" title="RoR::GUI::LoadingWindow\l::LoadingWindow" alt="" coords="479,462,660,503"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_main_selector_layout.html#a9f9d5ddb03582b032db18dfcbf9b9a01" title="RoR::GUI::MainSelectorLayout\l::MainSelectorLayout" alt="" coords="467,527,671,569"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_g_u_i_1_1_message_box_layout.html#a61a47d5efab2e34bd90c9ab6ebb87da6" title="RoR::GUI::MessageBoxLayout\l::MessageBoxLayout" alt="" coords="467,593,671,634"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_multiplayer_selector_layout.html#aec0c9c664628549aa22026e5e1b2bb4b" title="RoR::GUI::MultiplayerSelector\lLayout::MultiplayerSelectorLayout" alt="" coords="460,658,679,699"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_g_u_i_1_1_rig_spawner_report_window_layout.html#ac50c03ff065001480c477be9619e9401" title="RoR::GUI::RigSpawnerReport\lWindowLayout::RigSpawnerReport\lWindowLayout" alt="" coords="456,723,683,779"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils_layout.html#ae1122724b7c4e2af9e1adfeb0bcc0fb1" title="RoR::GUI::SimUtilsLayout\l::SimUtilsLayout" alt="" coords="480,802,659,843"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window_layout.html#a241fbce07a4d5f8bd2708b52d9dbbcad" title="RoR::GUI::TeleportWindow\lLayout::TeleportWindowLayout" alt="" coords="468,867,671,909"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_g_u_i_1_1_vehicle_description_layout.html#a2c8869906689b16b409e526063f5dcbb" title="RoR::GUI::VehicleDescription\lLayout::VehicleDescriptionLayout" alt="" coords="461,933,678,974"/>
+<area shape="rect" id="node18" href="$class_survey_map_entity.html#a8b649c8dd5a60c6ee04cffa7673f7170" title="SurveyMapEntity::SurveyMap\lEntity" alt="" coords="471,998,667,1039"/>
+<area shape="rect" id="node19" href="$class_survey_map_manager.html#a68d4e0db3e913d1176cdfcd5a02d0b8b" title="SurveyMapManager::Survey\lMapManager" alt="" coords="476,1063,663,1105"/>
+</map>

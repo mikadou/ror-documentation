@@ -1,0 +1,6 @@
+<map id="registerOgreDegree" name="registerOgreDegree">
+<area shape="rect" id="node2" href="$_ogre_angelscript_8cpp.html#aeeac2add64e3fd04cbf21315ad121884" title="DegreeDefaultConstructor" alt="" coords="190,5,365,32"/>
+<area shape="rect" id="node3" href="$_ogre_angelscript_8cpp.html#a61665b66588f8bb0843833d2740b45c6" title="DegreeInitConstructor" alt="" coords="202,56,353,83"/>
+<area shape="rect" id="node4" href="$_ogre_angelscript_8cpp.html#ad05898d814fca7de22250cb403d82454" title="DegreeCopyConstructor" alt="" coords="196,107,359,133"/>
+<area shape="rect" id="node5" href="$_ogre_angelscript_8cpp.html#a68eb96d0bd975774ac5f40403872d70a" title="DegreeCmp" alt="" coords="231,157,323,184"/>
+</map>

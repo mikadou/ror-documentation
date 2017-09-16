@@ -1,0 +1,11 @@
+<map id="RoR::App::GetSceneMouse" name="RoR::App::GetSceneMouse">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="262,5,477,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="240,56,499,83"/>
+<area shape="rect" id="node6" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="264,107,475,133"/>
+<area shape="rect" id="node7" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="259,157,479,184"/>
+<area shape="rect" id="node8" href="$class_g_u_i_input_manager.html#a5f096906671c8b2fc404353cb0cc3cf4" title="GUIInputManager::mouseReleased" alt="" coords="256,208,483,235"/>
+<area shape="rect" id="node9" href="$class_g_u_i_input_manager.html#a4c3aeb879697d033b9c34fb3500fa1d5" title="GUIInputManager::keyPressed" alt="" coords="268,259,471,285"/>
+<area shape="rect" id="node10" href="$class_g_u_i_input_manager.html#af91b81999edcbd65c317f0b5912e19b0" title="GUIInputManager::keyReleased" alt="" coords="265,309,474,336"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="547,56,597,83"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="646,56,719,83"/>
+</map>

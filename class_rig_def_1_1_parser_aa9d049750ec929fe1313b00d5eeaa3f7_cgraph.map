@@ -1,0 +1,15 @@
+<map id="RigDef::Parser::ParseTriggers" name="RigDef::Parser::ParseTriggers">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="526,162,709,204"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="771,111,965,138"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#a57b7efa0a566ae343d6148a05d420eae" title="RigDef::Parser::GetArgNodeRef" alt="" coords="253,263,464,290"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="530,228,705,255"/>
+<area shape="rect" id="node8" href="$class_rig_def_1_1_parser.html#ae77a4970494c116e98a92be7a0160a16" title="RigDef::Parser::GetArgFloat" alt="" coords="524,10,711,36"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a635bdc3c7493275fc05f91d51c11945b" title="RigDef::Parser::GetArgInt" alt="" coords="272,60,445,87"/>
+<area shape="rect" id="node11" href="$struct_rig_def_1_1_trigger.html#a781493c1eee518042e4503faa8f8697b" title="RigDef::Trigger::IsHookToggle\lTrigger" alt="" coords="259,314,459,356"/>
+<area shape="rect" id="node12" href="$struct_rig_def_1_1_trigger.html#a7f888aa93af0849b9001984f0e92853e" title="RigDef::Trigger::SetHook\lToggleTrigger" alt="" coords="273,380,444,421"/>
+<area shape="rect" id="node13" href="$struct_rig_def_1_1_trigger.html#abfab32a2d0b6f2147f7baf4af0819e7a" title="RigDef::Trigger::SetEngine\lTrigger" alt="" coords="269,445,448,486"/>
+<area shape="rect" id="node14" href="$struct_rig_def_1_1_trigger.html#a2a6404798b52dabae2c07079fd9e5e6c" title="RigDef::Trigger::SetCommand\lKeyTrigger" alt="" coords="259,510,458,552"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="512,279,723,306"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="778,272,958,313"/>
+<area shape="rect" id="node10" href="$class_rig_def_1_1_parser.html#a81784a06397ed377c39759981d6c700b" title="RigDef::Parser::GetArgLong" alt="" coords="524,60,711,87"/>
+</map>

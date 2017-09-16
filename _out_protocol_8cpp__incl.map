@@ -1,0 +1,30 @@
+<map id="source/main/gameplay/OutProtocol.cpp" name="source/main/gameplay/OutProtocol.cpp">
+<area shape="rect" id="node2" href="$_out_protocol_8h.html" title="OutProtocol.h" alt="" coords="689,469,791,496"/>
+<area shape="rect" id="node22" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="850,395,947,421"/>
+<area shape="rect" id="node23" href="$_settings_8h.html" title="Settings.h" alt="" coords="815,469,896,496"/>
+<area shape="rect" id="node24" href="$_beam_engine_8h.html" title="BeamEngine.h" alt="" coords="895,320,1001,347"/>
+<area shape="rect" id="node25" href="$_beam_factory_8h.html" title="BeamFactory.h" alt="" coords="978,96,1088,123"/>
+<area shape="rect" id="node49" href="$_ro_r_version_8h.html" title="RoRVersion.h" alt="" coords="1113,96,1217,123"/>
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1205,619,1340,645"/>
+<area shape="rect" id="node21" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1023,544,1109,571"/>
+<area shape="rect" id="node15" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1514,768,1667,795"/>
+<area shape="rect" id="node16" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="501,693,643,720"/>
+<area shape="rect" id="node17" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="136,693,307,720"/>
+<area shape="rect" id="node18" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="1655,693,1736,720"/>
+<area shape="rect" id="node26" href="$_beam_8h.html" title="Beam.h" alt="" coords="2336,171,2403,197"/>
+<area shape="rect" id="node47" href="$_dust_manager_8h.html" title="DustManager.h" alt="" coords="1074,469,1184,496"/>
+<area shape="rect" id="node48" href="$_network_8h.html" title="Network.h" alt="" coords="945,171,1027,197"/>
+<area shape="rect" id="node27" href="$_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="1802,245,1896,272"/>
+<area shape="rect" id="node39" href="$_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="2377,619,2463,645"/>
+<area shape="rect" id="node43" href="$_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="2458,245,2645,272"/>
+<area shape="rect" id="node44" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="2671,245,2828,272"/>
+<area shape="rect" id="node28" href="$_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="2253,320,2331,347"/>
+<area shape="rect" id="node30" href="$_slide_node_8h.html" title="SlideNode.h" alt="" coords="1465,469,1559,496"/>
+<area shape="rect" id="node32" href="$_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="1938,320,2064,347"/>
+<area shape="rect" id="node33" href="$node__t_8h.html" title="datatypes/node_t.h" alt="" coords="2017,544,2151,571"/>
+<area shape="rect" id="node34" href="$shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="2089,320,2228,347"/>
+<area shape="rect" id="node35" href="$beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="1642,544,1779,571"/>
+<area shape="rect" id="node36" href="$wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="1855,544,1993,571"/>
+<area shape="rect" id="node37" href="$rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="1693,320,1811,347"/>
+<area shape="rect" id="node31" href="$_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1362,544,1464,571"/>
+</map>

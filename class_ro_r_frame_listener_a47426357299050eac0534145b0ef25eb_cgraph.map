@@ -1,0 +1,5 @@
+<map id="RoRFrameListener::UpdateDirectionArrow" name="RoRFrameListener::UpdateDirectionArrow">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="241,5,444,32"/>
+<area shape="rect" id="node3" href="$class_overlay_wrapper.html#a581b30b171c031156c074e70d697ee20" title="OverlayWrapper::HideDirection\lOverlay" alt="" coords="241,57,444,98"/>
+<area shape="rect" id="node4" href="$class_overlay_wrapper.html#a35c215f8caaaf797303809ebab194c08" title="OverlayWrapper::ShowDirection\lOverlay" alt="" coords="238,122,447,163"/>
+</map>

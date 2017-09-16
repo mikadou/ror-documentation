@@ -1,0 +1,18 @@
+<map id="source/version_info/RoRVersion.h" name="source/version_info/RoRVersion.h">
+<area shape="rect" id="node2" href="$conf__file_8cpp.html" title="source/configurator\l/conf_file.cpp" alt="" coords="5,97,139,138"/>
+<area shape="rect" id="node3" href="$_configurator_8cpp.html" title="source/configurator\l/Configurator.cpp" alt="" coords="163,97,296,138"/>
+<area shape="rect" id="node4" href="$_out_protocol_8cpp.html" title="source/main/gameplay\l/OutProtocol.cpp" alt="" coords="321,97,473,138"/>
+<area shape="rect" id="node5" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="498,97,659,138"/>
+<area shape="rect" id="node6" href="$_ogre_subsystem_8cpp.html" title="source/main/gfx/OgreSubsystem.cpp" alt="" coords="683,104,921,131"/>
+<area shape="rect" id="node7" href="$_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="947,104,1183,131"/>
+<area shape="rect" id="node8" href="$_g_u_i___debug_options_8cpp.html" title="source/main/gui/panels\l/GUI_DebugOptions.cpp" alt="" coords="1208,97,1372,138"/>
+<area shape="rect" id="node9" href="$_g_u_i___game_about_8cpp.html" title="source/main/gui/panels\l/GUI_GameAbout.cpp" alt="" coords="1398,97,1553,138"/>
+<area shape="rect" id="node10" href="$_g_u_i___game_console_8cpp.html" title="source/main/gui/panels\l/GUI_GameConsole.cpp" alt="" coords="1579,97,1743,138"/>
+<area shape="rect" id="node11" href="$_g_u_i___game_settings_8cpp.html" title="source/main/gui/panels\l/GUI_GameSettings.cpp" alt="" coords="1768,97,1932,138"/>
+<area shape="rect" id="node12" href="$_g_u_i___message_box_8cpp.html" title="source/main/gui/panels\l/GUI_MessageBox.cpp" alt="" coords="1958,97,2116,138"/>
+<area shape="rect" id="node13" href="$_g_u_i___multiplayer_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MultiplayerSelector.cpp" alt="" coords="2141,97,2333,138"/>
+<area shape="rect" id="node14" href="$_g_u_i___sim_utils_8cpp.html" title="source/main/gui/panels\l/GUI_SimUtils.cpp" alt="" coords="2358,97,2513,138"/>
+<area shape="rect" id="node15" href="$_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="2539,97,2685,138"/>
+<area shape="rect" id="node16" href="$_settings_8cpp.html" title="source/main/utils/Settings.cpp" alt="" coords="2710,104,2908,131"/>
+<area shape="rect" id="node17" href="$_utils_8cpp.html" title="source/main/utils/Utils.cpp" alt="" coords="2933,104,3109,131"/>
+</map>

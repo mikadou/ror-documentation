@@ -1,0 +1,5 @@
+<map id="OverlayWrapper::showDashboardOverlays" name="OverlayWrapper::showDashboardOverlays">
+<area shape="rect" id="node2" href="$class_dash_board_manager.html#aab1c20ed732f3e11ea290a2f90be99e0" title="DashBoardManager::wasLoaded" alt="" coords="272,5,483,32"/>
+<area shape="rect" id="node3" href="$class_dash_board_manager.html#a21ffd946b6843df16ca7b3ef704b596a" title="DashBoardManager::setVisible" alt="" coords="276,56,479,83"/>
+<area shape="rect" id="node4" href="$class_dash_board.html#a650c134fdce0c84a77d84d2c23bdccbe" title="DashBoard::setVisible" alt="" coords="531,56,683,83"/>
+</map>

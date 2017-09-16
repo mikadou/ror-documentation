@@ -1,0 +1,7 @@
+<map id="RoR::GUI::SimUtils::HideNotificationBox" name="RoR::GUI::SimUtils::HideNotificationBox">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#a72256f0d49ba24f2c2aee93432e16220" title="RoR::GUIManager::HideNotification" alt="" coords="435,5,667,32"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_manager.html#ae6376fb591e87d8aedff5fc5e5655191" title="RoR::GUIManager::hideGUI" alt="" coords="200,56,387,83"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="715,23,898,65"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="947,31,1162,57"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#a519eb1268f9cc62d177d723bdb8190e1" title="RoRFrameListener::HideGUI" alt="" coords="455,56,646,83"/>
+</map>

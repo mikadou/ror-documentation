@@ -1,0 +1,7 @@
+<map id="RigDef::Parser::ProcessChangeModuleLine" name="RigDef::Parser::ProcessChangeModuleLine">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="761,31,954,57"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="525,23,707,65"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="281,73,455,100"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a43ac79981018f0134d0fe0eb81862554" title="RigDef::Parser::ChangeSection" alt="" coords="265,124,471,151"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_parser.html#a9dfba6b6520265a6bc20919f0d06b9fb" title="RigDef::Parser::ExitSections" alt="" coords="521,107,711,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GameScript::moveObjectVisuals" name="GameScript::moveObjectVisuals">
+<area shape="rect" id="node2" href="$class_terrain_manager.html#a55891b7908baf6be96220a227596028c" title="TerrainManager::getObject\lManager" alt="" coords="267,5,443,46"/>
+<area shape="rect" id="node3" href="$class_terrain_object_manager.html#acbae9e5334183b04cd2df3f02bb4b331" title="TerrainObjectManager\l::moveObjectVisuals" alt="" coords="279,70,430,111"/>
+</map>

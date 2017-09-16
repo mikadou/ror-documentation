@@ -1,0 +1,12 @@
+<map id="approx_exp" name="approx_exp">
+<area shape="rect" id="node2" href="$_collisions_8cpp.html#a9933836f15db1958d035f7d773aefd06" title="primitiveCollision" alt="" coords="145,56,266,83"/>
+<area shape="rect" id="node3" href="$class_collisions.html#aa2c8d77c6ff7001821d497c689c28e6b" title="Collisions::nodeCollision" alt="" coords="320,5,485,32"/>
+<area shape="rect" id="node5" href="$class_collisions.html#af1028e2b9de09140265d02b66654f78f" title="Collisions::groundCollision" alt="" coords="315,56,491,83"/>
+<area shape="rect" id="node6" href="$_dynamic_collisions_8cpp.html#a4bdbf1c122bd5a10b8768a44aaf2b698" title="Calculate collision forces and apply them to the collision node and the three vertex nodes of the col..." alt="" coords="323,107,483,133"/>
+<area shape="rect" id="node4" href="$class_beam.html#af88caf907f8ac18ea02b135d9ea5cce5" title="Beam::calcNodes" alt="" coords="545,5,671,32"/>
+<area shape="rect" id="node7" href="$_dynamic_collisions_8h.html#a2e06e402bcfbf043fcf34f1105bcd5a4" title="interTruckCollisions" alt="" coords="539,81,677,108"/>
+<area shape="rect" id="node11" href="$_dynamic_collisions_8h.html#a99a047f3ac95e36f940d6665816e6087" title="intraTruckCollisions" alt="" coords="539,132,677,159"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_beam_factory.html#ac25b17e65074996433c472da5028fed1" title="RoR::BeamFactory::Update\lPhysicsSimulation" alt="" coords="726,99,911,141"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="961,107,1143,133"/>
+<area shape="rect" id="node10" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1193,107,1407,133"/>
+</map>

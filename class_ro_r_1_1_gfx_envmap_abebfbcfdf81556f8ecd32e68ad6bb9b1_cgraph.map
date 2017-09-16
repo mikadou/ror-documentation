@@ -1,0 +1,7 @@
+<map id="RoR::GfxEnvmap::UpdateEnvMap" name="RoR::GfxEnvmap::UpdateEnvMap">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a6927c74509958996fb8fb165bd9fcec4" title="RoR::App::GetGfxEnvmapEnabled" alt="" coords="278,5,503,32"/>
+<area shape="rect" id="node3" href="$class_beam.html#a40b0d12b3a37d2a509d67b3a15607d03" title="Beam::setMeshVisibility" alt="" coords="309,56,472,83"/>
+<area shape="rect" id="node4" href="$class_beam.html#a4103f7be28c35c665b552aa92720c308" title="Beam::setBeamVisibility" alt="" coords="308,107,473,133"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_app.html#ad563b1b12e43b748fc91a4b5cd5b36e3" title="RoR::App::GetGfxEnvmapRate" alt="" coords="287,157,494,184"/>
+<area shape="rect" id="node6" href="$class_terrain_manager.html#a0bb96107715bd022c13c86ed2b76b7ad" title="TerrainManager::getSkyManager" alt="" coords="285,208,496,235"/>
+</map>

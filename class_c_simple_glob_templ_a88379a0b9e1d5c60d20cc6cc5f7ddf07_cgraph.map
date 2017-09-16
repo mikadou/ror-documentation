@@ -1,0 +1,6 @@
+<map id="CSimpleGlobTempl::Add" name="CSimpleGlobTempl::Add">
+<area shape="rect" id="node2" href="$class_simple_glob_util.html#ace9420b2bf97030881f5ee7f0a1fc2e3" title="SimpleGlobUtil::strcpy_s" alt="" coords="230,5,397,32"/>
+<area shape="rect" id="node3" href="$class_simple_glob_util.html#a6edb60b2341bceeee948b0dc36b2191e" title="SimpleGlobUtil::strchr" alt="" coords="238,56,389,83"/>
+<area shape="rect" id="node4" href="$class_simple_glob_util.html#ab2e7cf5172256e09b934143e86dce428" title="SimpleGlobUtil::strrchr" alt="" coords="236,107,391,133"/>
+<area shape="rect" id="node5" href="$struct_simple_glob_base.html#a3f0450b82b123a70cb8603409c94e276" title="SimpleGlobBase::FindDone" alt="" coords="222,157,405,184"/>
+</map>

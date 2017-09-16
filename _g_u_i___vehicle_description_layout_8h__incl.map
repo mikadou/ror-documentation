@@ -1,0 +1,10 @@
+<map id="source/main/gui/panels/GUI_VehicleDescriptionLayout.h" name="source/main/gui/panels/GUI_VehicleDescriptionLayout.h">
+<area shape="rect" id="node2" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="5,469,157,496"/>
+<area shape="rect" id="node3" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="913,96,1015,123"/>
+<area shape="rect" id="node4" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1059,320,1193,347"/>
+<area shape="rect" id="node22" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1027,171,1147,197"/>
+<area shape="rect" id="node16" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1783,395,1925,421"/>
+<area shape="rect" id="node17" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1951,395,2121,421"/>
+<area shape="rect" id="node18" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2146,395,2227,421"/>
+<area shape="rect" id="node23" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1125,245,1207,272"/>
+</map>

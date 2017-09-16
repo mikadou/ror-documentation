@@ -1,0 +1,14 @@
+<map id="approx_pow" name="approx_pow">
+<area shape="rect" id="node2" href="$class_beam.html#a6c440445640a12a8bf52fa0127365708" title="Beam::calcForcesEulerCompute" alt="" coords="147,10,357,37"/>
+<area shape="rect" id="node6" href="$_collisions_8cpp.html#a9933836f15db1958d035f7d773aefd06" title="primitiveCollision" alt="" coords="191,73,313,99"/>
+<area shape="rect" id="node13" href="$class_flex_airfoil.html#ab22acddd047ec2aa2d35c4b3bbd92642" title="FlexAirfoil::updateForces" alt="" coords="169,123,335,150"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#ac25b17e65074996433c472da5028fed1" title="RoR::BeamFactory::Update\lPhysicsSimulation" alt="" coords="817,91,1002,132"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="1051,98,1234,125"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1283,98,1498,125"/>
+<area shape="rect" id="node7" href="$class_collisions.html#aa2c8d77c6ff7001821d497c689c28e6b" title="Collisions::nodeCollision" alt="" coords="411,47,576,74"/>
+<area shape="rect" id="node9" href="$class_collisions.html#af1028e2b9de09140265d02b66654f78f" title="Collisions::groundCollision" alt="" coords="405,98,581,125"/>
+<area shape="rect" id="node10" href="$_dynamic_collisions_8cpp.html#a4bdbf1c122bd5a10b8768a44aaf2b698" title="Calculate collision forces and apply them to the collision node and the three vertex nodes of the col..." alt="" coords="413,149,573,175"/>
+<area shape="rect" id="node8" href="$class_beam.html#af88caf907f8ac18ea02b135d9ea5cce5" title="Beam::calcNodes" alt="" coords="635,47,762,74"/>
+<area shape="rect" id="node11" href="$_dynamic_collisions_8h.html#a2e06e402bcfbf043fcf34f1105bcd5a4" title="interTruckCollisions" alt="" coords="630,98,767,125"/>
+<area shape="rect" id="node12" href="$_dynamic_collisions_8h.html#a99a047f3ac95e36f940d6665816e6087" title="intraTruckCollisions" alt="" coords="630,149,767,175"/>
+</map>

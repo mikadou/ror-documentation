@@ -1,0 +1,43 @@
+<map id="source/main/gui/GUIInputManager.h" name="source/main/gui/GUIInputManager.h">
+<area shape="rect" id="node2" href="$_g_u_i_input_manager_8cpp.html" title="source/main/gui/GUIInput\lManager.cpp" alt="" coords="5,171,176,213"/>
+<area shape="rect" id="node3" href="$_g_u_i_manager_8h.html" title="source/main/gui/GUIManager.h" alt="" coords="3789,96,3992,123"/>
+<area shape="rect" id="node4" href="$_application_8cpp.html" title="source/main/Application.cpp" alt="" coords="200,179,387,205"/>
+<area shape="rect" id="node5" href="$_chat_system_8cpp.html" title="source/main/gameplay\l/ChatSystem.cpp" alt="" coords="411,171,564,213"/>
+<area shape="rect" id="node6" href="$_land_vehicle_simulation_8cpp.html" title="source/main/gameplay\l/LandVehicleSimulation.cpp" alt="" coords="589,171,771,213"/>
+<area shape="rect" id="node7" href="$_replay_8cpp.html" title="source/main/gameplay\l/Replay.cpp" alt="" coords="795,171,948,213"/>
+<area shape="rect" id="node8" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="973,171,1133,213"/>
+<area shape="rect" id="node9" href="$_scene_mouse_8cpp.html" title="source/main/gameplay\l/SceneMouse.cpp" alt="" coords="1158,171,1311,213"/>
+<area shape="rect" id="node10" href="$_camera_behavior_fixed_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorFixed.cpp" alt="" coords="1335,171,1515,213"/>
+<area shape="rect" id="node11" href="$_camera_behavior_free_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorFree.cpp" alt="" coords="1539,171,1713,213"/>
+<area shape="rect" id="node12" href="$_camera_behavior_isometric_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorIsometric.cpp" alt="" coords="1739,171,1941,213"/>
+<area shape="rect" id="node13" href="$_camera_behavior_orbit_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorOrbit.cpp" alt="" coords="1965,171,2141,213"/>
+<area shape="rect" id="node14" href="$_camera_behavior_vehicle_spline_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleSpline.cpp" alt="" coords="2165,171,2392,213"/>
+<area shape="rect" id="node15" href="$_camera_manager_8cpp.html" title="source/main/gfx/camera\l/CameraManager.cpp" alt="" coords="2416,171,2579,213"/>
+<area shape="rect" id="node16" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="2603,179,2820,205"/>
+<area shape="rect" id="node17" href="$_g_u_i___friction_settings_8cpp.html" title="source/main/gui/panels\l/GUI_FrictionSettings.cpp" alt="" coords="2845,171,3019,213"/>
+<area shape="rect" id="node18" href="$_g_u_i___game_about_8cpp.html" title="source/main/gui/panels\l/GUI_GameAbout.cpp" alt="" coords="3043,171,3199,213"/>
+<area shape="rect" id="node19" href="$_g_u_i___game_chat_box_8cpp.html" title="source/main/gui/panels\l/GUI_GameChatBox.cpp" alt="" coords="3224,171,3392,213"/>
+<area shape="rect" id="node20" href="$_g_u_i___game_console_8cpp.html" title="source/main/gui/panels\l/GUI_GameConsole.cpp" alt="" coords="3416,171,3580,213"/>
+<area shape="rect" id="node21" href="$_g_u_i___game_main_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GameMainMenu.cpp" alt="" coords="3606,171,3783,213"/>
+<area shape="rect" id="node22" href="$_g_u_i___game_settings_8cpp.html" title="source/main/gui/panels\l/GUI_GameSettings.cpp" alt="" coords="3808,171,3972,213"/>
+<area shape="rect" id="node23" href="$_g_u_i___loading_window_8cpp.html" title="source/main/gui/panels\l/GUI_LoadingWindow.cpp" alt="" coords="3998,171,4172,213"/>
+<area shape="rect" id="node24" href="$_g_u_i___main_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MainSelector.cpp" alt="" coords="4197,171,4355,213"/>
+<area shape="rect" id="node25" href="$_g_u_i___message_box_8cpp.html" title="source/main/gui/panels\l/GUI_MessageBox.cpp" alt="" coords="4379,171,4537,213"/>
+<area shape="rect" id="node26" href="$_g_u_i___multiplayer_client_list_8cpp.html" title="source/main/gui/panels\l/GUI_MultiplayerClientList.cpp" alt="" coords="4563,171,4761,213"/>
+<area shape="rect" id="node27" href="$_g_u_i___multiplayer_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MultiplayerSelector.cpp" alt="" coords="4787,171,4980,213"/>
+<area shape="rect" id="node28" href="$_g_u_i___sim_utils_8cpp.html" title="source/main/gui/panels\l/GUI_SimUtils.cpp" alt="" coords="5005,171,5160,213"/>
+<area shape="rect" id="node29" href="$_g_u_i___teleport_window_8cpp.html" title="source/main/gui/panels\l/GUI_TeleportWindow.cpp" alt="" coords="5185,171,5361,213"/>
+<area shape="rect" id="node30" href="$_g_u_i___top_menubar_8cpp.html" title="source/main/gui/panels\l/GUI_TopMenubar.cpp" alt="" coords="5386,171,5541,213"/>
+<area shape="rect" id="node31" href="$_g_u_i___vehicle_description_8cpp.html" title="source/main/gui/panels\l/GUI_VehicleDescription.cpp" alt="" coords="5566,171,5756,213"/>
+<area shape="rect" id="node32" href="$main_8cpp.html" title="source/main/main.cpp" alt="" coords="5781,179,5931,205"/>
+<area shape="rect" id="node33" href="$_main_menu_8cpp.html" title="source/main/MainMenu.cpp" alt="" coords="5955,179,6137,205"/>
+<area shape="rect" id="node34" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="6162,171,6304,213"/>
+<area shape="rect" id="node35" href="$_beam_factory_8cpp.html" title="source/main/physics\l/BeamFactory.cpp" alt="" coords="6329,171,6471,213"/>
+<area shape="rect" id="node36" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="6495,171,6637,213"/>
+<area shape="rect" id="node37" href="$_cache_system_8cpp.html" title="source/main/resources\l/CacheSystem.cpp" alt="" coords="6663,171,6816,213"/>
+<area shape="rect" id="node38" href="$_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="6841,171,6988,213"/>
+<area shape="rect" id="node39" href="$_terrain_geometry_manager_8cpp.html" title="source/main/terrain\l/TerrainGeometryManager.cpp" alt="" coords="7013,171,7211,213"/>
+<area shape="rect" id="node40" href="$_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="7235,171,7375,213"/>
+<area shape="rect" id="node41" href="$_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="7400,171,7579,213"/>
+<area shape="rect" id="node42" href="$_input_engine_8cpp.html" title="source/main/utils/InputEngine.cpp" alt="" coords="7603,179,7821,205"/>
+</map>

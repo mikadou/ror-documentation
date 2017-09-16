@@ -1,0 +1,10 @@
+<map id="RoR::GUI::TeleportWindow::TelepointIconClicked" name="RoR::GUI::TeleportWindow::TelepointIconClicked">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a1c248474eb6ec88894e7f85ad0b4eab8" title="RoR::GUI::TeleportWindow\l::SetVisible" alt="" coords="253,5,435,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a8ca72a4cb1b9b2b50b7bea29972b2c06" title="RoRFrameListener::Teleport\lPlayer" alt="" coords="251,70,437,111"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_g_u_i.html#a7ca4dff31ec293bd641f4ed18d0ccde1" title="RoR::GUI::GetTeleIconUserdata" alt="" coords="237,136,451,163"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="499,41,703,82"/>
+<area shape="rect" id="node6" href="$class_character.html#a1884d7f3e305d9b23164fdbf208f1cc6" title="Character::setPosition" alt="" coords="525,107,677,133"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="752,48,947,75"/>
+<area shape="rect" id="node7" href="$class_survey_map_manager.html#a17809f36c8b9291270ced418f222faab" title="SurveyMapManager::getMap\lEntityByName" alt="" coords="755,99,944,141"/>
+<area shape="rect" id="node8" href="$class_survey_map_entity.html#a781ecb998f41521324088cd3ce66d9ce" title="SurveyMapEntity::setPosition" alt="" coords="752,165,947,192"/>
+</map>

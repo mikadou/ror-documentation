@@ -1,0 +1,11 @@
+<map id="RoR::MainMenu::JoinMultiplayerServer" name="RoR::MainMenu::JoinMultiplayerServer">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="283,5,461,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_chat_system.html#a6f241a03cbcff913db50001fa2bb0ae7" title="RoR::ChatSystem::SendStream\lSetup" alt="" coords="267,57,477,98"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#af4b16dd2fadb7771dae5f0d97f93eed8" title="RoR::App::SetSimNextTerrain" alt="" coords="273,123,471,149"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#a9c821dcc2190b100f4003e72e0b924b1" title="RoR::App::SetPendingAppState" alt="" coords="267,173,477,200"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_app.html#ace3cf184630c4e8380fb9abdc2fd9c4e" title="RoR::App::GetDiagPreselected\lTerrain" alt="" coords="269,225,475,266"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_app.html#a14508a8885a04713a5a39d5628be83c9" title="RoR::App::SetVarStr" alt="" coords="541,123,686,149"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#ae7ca05a9e2c04da99c1305919b3002b3" title="RoR::App::SetVarEnum" alt="" coords="532,173,695,200"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#a18ba521dde82ec933a84f3dd87d372e9" title="RoR::App::AppStateToStr" alt="" coords="526,224,701,251"/>
+<area shape="rect" id="node8" href="$namespace_ro_r_1_1_app.html#a3492dc6307a9d930ac73578e0d1f005e" title="RoR::App::LogVarUpdate" alt="" coords="749,173,920,200"/>
+</map>

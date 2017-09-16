@@ -1,0 +1,12 @@
+<map id="wxValueChoice::getSelectedValue" name="wxValueChoice::getSelectedValue">
+<area shape="rect" id="node2" href="$class_my_dialog.html#a9dda5ceed397209fea3b86bf17b183d1" title="MyDialog::getSettingsControls" alt="" coords="485,81,685,108"/>
+<area shape="rect" id="node10" href="$classwx_value_choice.html#a929749fefe92945893e8fc62107c770f" title="wxValueChoice::getSelected\lValueAsSTDString" alt="" coords="246,129,437,170"/>
+<area shape="rect" id="node3" href="$class_my_dialog.html#a30829bbf050a53f6d5c0e1d6abcd29e8" title="MyDialog::SetDefaults" alt="" coords="733,56,888,83"/>
+<area shape="rect" id="node7" href="$class_my_dialog.html#a9a7ec676289d323dc4fa0f0766b30c12" title="MyDialog::SaveConfig" alt="" coords="734,107,887,133"/>
+<area shape="rect" id="node4" href="$class_my_dialog.html#ac878405673c6177b80014e3ea1db6af7" title="MyDialog::MyDialog" alt="" coords="950,5,1090,32"/>
+<area shape="rect" id="node6" href="$class_my_dialog.html#afa8e7d3e2cd36f78d391eed394413fc5" title="MyDialog::OnButRestore" alt="" coords="936,56,1104,83"/>
+<area shape="rect" id="node5" href="$class_ro_r_config_app.html#a2a0306257bf33d25102a9ace3b2ff59a" title="RoRConfigApp::OnInit" alt="" coords="1153,5,1306,32"/>
+<area shape="rect" id="node8" href="$class_my_dialog.html#a9b49bcd44430e4de9b82daa8a97885f6" title="MyDialog::OnButPlay" alt="" coords="946,107,1094,133"/>
+<area shape="rect" id="node9" href="$class_my_dialog.html#a296eb00017a644c6bedb925dbad7fd25" title="MyDialog::OnButSave" alt="" coords="944,157,1096,184"/>
+<area shape="rect" id="node11" href="$class_my_dialog.html#a03cb551bc2ccd5c4a60af1617a987fe3" title="MyDialog::OnChoiceRenderer" alt="" coords="487,136,683,163"/>
+</map>

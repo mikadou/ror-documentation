@@ -1,0 +1,5 @@
+<map id="RigDef::Serializer::ProcessDirectiveAddAnimation" name="RigDef::Serializer::ProcessDirectiveAddAnimation">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_serializer.html#aa6de6f512d870e0e36d5771d702a388a" title="RigDef::Serializer\l::ProcessFlexbodies" alt="" coords="293,5,435,46"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_serializer.html#a524359ee58350f5ac4f207b7aca1a0c5" title="RigDef::Serializer\l::ProcessPropsAndAnimations" alt="" coords="264,70,464,111"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_serializer.html#a0d25ba7124bac77109b3251d0d5014ec" title="RigDef::Serializer\l::Serialize" alt="" coords="512,70,637,111"/>
+</map>

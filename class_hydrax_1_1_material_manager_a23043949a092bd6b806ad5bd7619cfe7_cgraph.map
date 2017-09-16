@@ -1,0 +1,20 @@
+<map id="Hydrax::MaterialManager::_createUnderwaterMaterial" name="Hydrax::MaterialManager::_createUnderwaterMaterial">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_material_manager.html#ae7b2cfea68cac81f2a366f005410e0d9" title="Hydrax::MaterialManager\l::_isComponent" alt="" coords="267,5,435,46"/>
+<area shape="rect" id="node3" href="$class_hydrax_1_1_material_manager.html#a648e7cd626194ea34c31a4bf422cdf4d" title="Hydrax::MaterialManager\l::getMaterial" alt="" coords="267,70,435,111"/>
+<area shape="rect" id="node4" href="$class_hydrax_1_1_material_manager.html#a9374e09a2d918becab5db16240d2b8e1" title="Hydrax::MaterialManager\l::fillGpuProgramsToPass" alt="" coords="267,135,435,177"/>
+<area shape="rect" id="node6" href="$class_hydrax_1_1_hydrax.html#aac55c7b84c7d6e067010526a91d1ee00" title="Hydrax::Hydrax::getFullReflection\lDistance" alt="" coords="241,201,461,242"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#a9f71ca1190dd56802a9a0d5e6fe7b73d" title="Hydrax::Hydrax::getGlobal\lTransparency" alt="" coords="262,266,439,307"/>
+<area shape="rect" id="node8" href="$class_hydrax_1_1_hydrax.html#a129ecf4478ecca15299d9f25e9074b90" title="Hydrax::Hydrax::getNormal\lDistortion" alt="" coords="259,331,442,373"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#a11c8fdf94b2cd7e7a4d52caff5e83b29" title="Hydrax::Hydrax::getDistLimit" alt="" coords="255,397,447,424"/>
+<area shape="rect" id="node10" href="$class_hydrax_1_1_hydrax.html#a0e0da539fe181e84a115368e97eff0c6" title="Hydrax::Hydrax::getWater\lColor" alt="" coords="263,449,438,490"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_hydrax.html#a1940a144c486915885ed19026839d381" title="Hydrax::Hydrax::getMesh" alt="" coords="265,515,437,541"/>
+<area shape="rect" id="node12" href="$class_hydrax_1_1_mesh.html#a999d2b1a4ce0ccc1b23ebe80541e4a97" title="Hydrax::Mesh::getObjectSpace\lPosition" alt="" coords="248,566,453,607"/>
+<area shape="rect" id="node14" href="$class_hydrax_1_1_hydrax.html#a6391180e70faf46ee681466620a85f4d" title="Hydrax::Hydrax::getSunPosition" alt="" coords="245,632,456,659"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_hydrax.html#aacad398f575cb867b93eee4c7397c14b" title="Hydrax::Hydrax::getSunStrength" alt="" coords="245,683,457,709"/>
+<area shape="rect" id="node16" href="$class_hydrax_1_1_hydrax.html#a881b74b5c9a3c830317174cf610d6867" title="Hydrax::Hydrax::getSunArea" alt="" coords="255,733,446,760"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_hydrax.html#a7b40b2febde3f65bf5b2532a9cb752ff" title="Hydrax::Hydrax::getSunColor" alt="" coords="253,784,448,811"/>
+<area shape="rect" id="node18" href="$class_hydrax_1_1_hydrax.html#a03b8b82e6223f7e3ec47d845957ec5e3" title="Hydrax::Hydrax::getDepth\lLimit" alt="" coords="263,835,438,877"/>
+<area shape="rect" id="node19" href="$class_hydrax_1_1_hydrax.html#ad857d60009cbc99335081bc65a25b719" title="Hydrax::Hydrax::getCaustics\lPower" alt="" coords="255,901,447,942"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_material_manager.html#ac0f7c351a7df142a04023c3409d6d871" title="Hydrax::MaterialManager\l::createGpuProgram" alt="" coords="519,135,687,177"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_hydrax.html#a011da649ae072cce9c6db28620b67a42" title="Hydrax::Hydrax::getPosition" alt="" coords="509,573,696,600"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="RoR::BeamFactory::FindTruckInsideBox" name="RoR::BeamFactory::FindTruckInsideBox">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#a508cb7a834236ed7786f780bbe6f84f6" title="RoR::BeamFactory::repair\lTruck" alt="" coords="262,5,437,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#ac8a9a6f08309a8a30f714e0480eaded6" title="Call this after simulation loop finishes. " alt="" coords="256,70,443,111"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#afa248b1ef2e676da82dc5aa71a572d32" title="RoR::BeamFactory::remove\lCurrentTruck" alt="" coords="491,70,677,111"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="955,25,1138,66"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a74e44d8907e7f6ffddedd260f307a764" title="RoRFrameListener::Reload\lCurrentTruck" alt="" coords="725,70,907,111"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="966,103,1127,145"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1187,32,1402,59"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="1214,103,1375,145"/>
+</map>

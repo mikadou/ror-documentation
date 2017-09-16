@@ -1,0 +1,5 @@
+<map id="CameraBehaviorVehicle::mousePressed" name="CameraBehaviorVehicle::mousePressed">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="216,5,395,32"/>
+<area shape="rect" id="node3" href="$class_input_engine.html#a31083a87d361611caf4ded6955565d18" title="InputEngine::isKeyDown" alt="" coords="222,56,389,83"/>
+<area shape="rect" id="node4" href="$class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="238,107,373,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RoR::BeamFactory::checkStreamsOK" name="RoR::BeamFactory::checkStreamsOK">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#a39f1ace97e41e7f020fb11add7d32ccc" title="RoR::GUI::MpClientList\l::updateSlot" alt="" coords="301,27,464,69"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#ac6a46c70604c2aa7a8c451282aa03450" title="RoR::GUI::MpClientList\l::update" alt="" coords="512,27,675,69"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="723,5,938,32"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_main_menu.html#a4c0e4e0344e537643147ae798304ee8e" title="RoR::MainMenu::MainMenuLoop\lUpdate" alt="" coords="724,57,937,98"/>
+</map>

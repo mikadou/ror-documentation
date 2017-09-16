@@ -1,0 +1,5 @@
+<map id="RoR::GUIManager::SetVisible_TopMenubar" name="RoR::GUIManager::SetVisible_TopMenubar">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a7ee247dd78285318bb567fc49eb8a467" title="RoR::GUI::TopMenubar\l::SetVisible" alt="" coords="254,23,415,65"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="479,5,657,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_manager.html#aa9d9cf9d3a246eb3200f4a1c1e299b5b" title="RoR::GUIManager::UnfocusGui" alt="" coords="464,56,672,83"/>
+</map>

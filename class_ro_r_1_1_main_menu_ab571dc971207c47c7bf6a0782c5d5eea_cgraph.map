@@ -1,0 +1,13 @@
+<map id="RoR::MainMenu::LeaveMultiplayerServer" name="RoR::MainMenu::LeaveMultiplayerServer">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="283,5,477,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="291,56,469,83"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_manager.html#acd7e141e9a6cb9cef2f8a7c4a6822a58" title="RoR::GUIManager::GetLoading\lWindow" alt="" coords="277,107,483,149"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_loading_window.html#afbe80d0309f58dcbcabd4c99de3cb6ff" title="RoR::GUI::LoadingWindow\l::setAutotrack" alt="" coords="289,173,471,214"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_manager.html#a97e4d355c4e857bde82d70735a8ded96" title="RoR::GUIManager::SetVisible\l_MpClientList" alt="" coords="281,238,479,279"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_manager.html#a1d838e0f2bbb9cd4c70507aadce7a4dd" title="RoR::GUIManager::SetVisible\l_LoadingWindow" alt="" coords="281,303,479,345"/>
+<area shape="rect" id="node6" href="$_utils_8h.html#a23744b3f0e07a907bc9993afbcf37c2d" title="convertToMyGUIString" alt="" coords="543,121,699,148"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_loading_window.html#a7e766d284e97fe928222c35ec5b1a573" title="RoR::GUI::LoadingWindow\l::renderOneFrame" alt="" coords="531,173,712,214"/>
+<area shape="rect" id="node7" href="$_utils_8h.html#abe6f6cf9ad4e672e6f4db9fe552b6bcf" title="ANSI_TO_WCHAR" alt="" coords="760,121,899,148"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#a9b584f54029546d06eccf2e1e60a1d3e" title="RoR::GUI::MpClientList\l::SetVisible" alt="" coords="540,238,703,279"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_g_u_i_1_1_loading_window.html#af9aae9d856104ee68ef331d772c7f4bb" title="RoR::GUI::LoadingWindow\l::SetVisible" alt="" coords="531,303,712,345"/>
+</map>

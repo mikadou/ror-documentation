@@ -1,0 +1,11 @@
+<map id="Collisions::getGroundModels" name="Collisions::getGroundModels">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#af4e99e9b8a4f883ecb08028ac0f4bf5a" title="RoR::GUI::FrictionSettings\l::SetVisible" alt="" coords="243,70,423,111"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_manager.html#ae89d3a59ef05cca75790e75ff6afea37" title="RoR::GUIManager::SetVisible\l_FrictionSettings" alt="" coords="473,5,671,46"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="481,70,663,111"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#ace2a240c0a4a7e86efb1b60d471e9cee" title="RoR::GUI::FrictionSettings\l::notifyWindowButtonPressed" alt="" coords="475,135,669,177"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="730,5,891,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="950,5,1111,46"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="785,77,836,104"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="994,77,1067,104"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a30be992e44b908881ce9e5ccbe691bf9" title="RoR::GUI::FrictionSettings\l::FrictionSettings" alt="" coords="721,135,901,177"/>
+</map>

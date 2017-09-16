@@ -1,0 +1,12 @@
+<map id="RoR::App::SimStateToStr" name="RoR::App::SimStateToStr">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ae09ad99f49c2645ae9ea47b9e94a98bd" title="RoR::App::SetActiveSimState" alt="" coords="235,130,434,156"/>
+<area shape="rect" id="node11" href="$namespace_ro_r_1_1_app.html#adb0cf783d662e1256097eedd3904fafe" title="RoR::App::SetPendingSimState" alt="" coords="230,50,439,76"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="526,28,709,69"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="795,35,1010,62"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#a57679664f6f2299add5b6ba7fcbb1b11" title="RoRFrameListener::ShowLoaderGUI" alt="" coords="499,195,735,222"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="488,94,747,120"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="537,246,698,288"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="877,94,928,120"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1059,94,1133,120"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="822,246,983,288"/>
+</map>

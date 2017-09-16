@@ -1,0 +1,6 @@
+<map id="RigDef::Prop" name="RigDef::Prop">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_node_1_1_ref.html" title="RigDef::Node::Ref" alt="" coords="47,24,177,51"/>
+<area shape="rect" id="node3" href="$struct_rig_def_1_1_prop_1_1_beacon_special.html" title="RigDef::Prop::BeaconSpecial" alt="" coords="15,75,209,101"/>
+<area shape="rect" id="node4" href="$struct_rig_def_1_1_camera_settings.html" title="RigDef::CameraSettings" alt="" coords="29,125,195,152"/>
+<area shape="rect" id="node5" href="$struct_rig_def_1_1_prop_1_1_dashboard_special.html" title="RigDef::Prop::DashboardSpecial" alt="" coords="6,176,218,203"/>
+</map>

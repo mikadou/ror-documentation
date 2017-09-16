@@ -1,0 +1,4 @@
+<map id="TerrainManager::initCamera" name="TerrainManager::initCamera">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#aba94f35b27638b6e02e56556aff2963e" title="RoR::App::GetGfxSightRange" alt="" coords="238,5,437,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a02caa3283775ee9aae51910208d3e7cc" title="RoR::App::GetGfxWaterMode" alt="" coords="239,56,436,83"/>
+</map>

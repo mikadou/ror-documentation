@@ -1,0 +1,10 @@
+<map id="RoR::GUI::RigSpawnerReportWindow::SetVisible" name="RoR::GUI::RigSpawnerReportWindow::SetVisible">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#a7765693a2f58011208923948747deef3" title="RoR::GUIManager::SetVisible\l_SpawnerReport" alt="" coords="254,55,453,97"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="263,121,444,162"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="502,5,663,46"/>
+<area shape="rect" id="node5" href="$class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="520,71,645,97"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="713,5,874,46"/>
+<area shape="rect" id="node6" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="744,71,843,97"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="557,128,608,155"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="757,128,830,155"/>
+</map>

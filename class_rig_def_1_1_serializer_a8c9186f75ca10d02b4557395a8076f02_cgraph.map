@@ -1,0 +1,8 @@
+<map id="RigDef::Serializer::ProcessNodes" name="RigDef::Serializer::ProcessNodes">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_node_1_1_id.html#a83e169095cd7d288c1b94fb952a83f9b" title="RigDef::Node::Id::Str" alt="" coords="185,5,332,32"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_node_1_1_id.html#a43bc911c3609a030eef1be677d0555bc" title="RigDef::Node::Id::Num" alt="" coords="180,56,337,83"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_serializer.html#a3ade0fe6ada67faf9374877081daf9d4" title="RigDef::Serializer\l::ProcessNodeDefaults" alt="" coords="179,107,338,149"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_serializer.html#a3380d217628f4e98d4b83db314de6fae" title="RigDef::Serializer\l::ProcessNode" alt="" coords="196,173,321,214"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_serializer.html#aa11d814db6fa5b7c1d3549641a432f06" title="RigDef::Serializer\l::ProcessNodeOptions" alt="" coords="399,111,553,153"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_node_1_1_id.html#a2e84af09c5b954252ed2af4a4bcfdeeb" title="RigDef::Node::Id::ToString" alt="" coords="387,180,565,207"/>
+</map>

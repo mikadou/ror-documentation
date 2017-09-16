@@ -1,0 +1,5 @@
+<map id="RoR::SceneMouse::update" name="RoR::SceneMouse::update">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a7d08f57d04e928e5acd0258383a53efc" title="RoR::App::GetActiveSimState" alt="" coords="247,5,447,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_scene_mouse.html#ac09143f60df04b55807fbe8550404b00" title="RoR::SceneMouse::getMouseRay" alt="" coords="235,56,458,83"/>
+<area shape="rect" id="node4" href="$class_beam.html#a465164195a8158babeaa9506f91d52de" title="Beam::mouseMove" alt="" coords="279,107,414,133"/>
+</map>

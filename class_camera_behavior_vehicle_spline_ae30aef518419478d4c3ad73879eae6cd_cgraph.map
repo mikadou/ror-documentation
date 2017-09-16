@@ -1,0 +1,26 @@
+<map id="CameraBehaviorVehicleSpline::update" name="CameraBehaviorVehicleSpline::update">
+<area shape="rect" id="node2" href="$class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNext\lBehavior" alt="" coords="254,5,461,46"/>
+<area shape="rect" id="node5" href="$class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="290,71,425,97"/>
+<area shape="rect" id="node6" href="$class_beam.html#a93991998d4398e5502eeb4f314e0bc50" title="Beam::getAllLinkedBeams" alt="" coords="539,159,715,185"/>
+<area shape="rect" id="node7" href="$class_camera_behavior_vehicle_spline.html#a4c1bbdd426bd74cd545ec8314ed66c71" title="CameraBehaviorVehicleSpline\l::createSpline" alt="" coords="258,122,457,163"/>
+<area shape="rect" id="node8" href="$class_camera_behavior_vehicle_spline.html#aac8c4d8c8f242fdb6110f8f0f100e6bc" title="CameraBehaviorVehicleSpline\l::updateSpline" alt="" coords="258,239,457,281"/>
+<area shape="rect" id="node9" href="$class_camera_behavior_vehicle_spline.html#a6cb085200be81ba667afd5a7cf5bd66c" title="CameraBehaviorVehicleSpline\l::updateSplineDisplay" alt="" coords="258,305,457,346"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="537,371,716,397"/>
+<area shape="rect" id="node11" href="$namespace_ro_r_1_1_app.html#aa04ed1e7b697aa1f33f1bb1297cb3e48" title="RoR::App::GetConsole" alt="" coords="548,421,705,448"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_console.html#a6883dfc6a1d760581a917e101b6357c5" title="RoR::Console::putMessage" alt="" coords="535,472,719,499"/>
+<area shape="rect" id="node15" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="537,523,716,549"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_g_u_i_manager.html#a534a8e82d1b92384767ab1c555126bba" title="RoR::GUIManager::PushNotification" alt="" coords="509,807,744,833"/>
+<area shape="rect" id="node18" href="$class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="293,691,422,717"/>
+<area shape="rect" id="node19" href="$class_camera_behavior_orbit.html#ac2fbf5b905645faf54092ef1c081ef55" title="CameraBehaviorOrbit\l::update" alt="" coords="284,574,431,615"/>
+<area shape="rect" id="node3" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="519,12,734,39"/>
+<area shape="rect" id="node4" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="807,12,985,39"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_g_u_i_manager.html#a982bc848eb4330aa9e57a54bfc60d975" title="RoR::GUIManager::GetConsole" alt="" coords="792,417,1000,444"/>
+<area shape="rect" id="node14" href="$class_inter_thread_store_vector.html#a88d3f7e3e3ce109e13af1c46a12a50b0" title="InterThreadStoreVector\l\&lt; ConsoleMessage \&gt;::push" alt="" coords="805,469,987,510"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ac18f8c423994b93276f5f33b22e53d41" title="RoR::GUI::SimUtils\l::PushNotification" alt="" coords="827,799,965,841"/>
+<area shape="rect" id="node20" href="$class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="535,624,719,651"/>
+<area shape="rect" id="node23" href="$class_camera_behavior_orbit.html#ac2c38d7776bb50ffb4a0d267c11acb2c" title="CameraBehaviorOrbit\l::reset" alt="" coords="553,675,700,717"/>
+<area shape="rect" id="node24" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="539,741,715,782"/>
+<area shape="rect" id="node25" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="538,573,715,600"/>
+<area shape="rect" id="node21" href="$class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="810,599,982,625"/>
+<area shape="rect" id="node22" href="$class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="818,649,974,676"/>
+</map>

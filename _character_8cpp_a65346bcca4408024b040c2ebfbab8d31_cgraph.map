@@ -1,0 +1,14 @@
+<map id="calculate_collision_depth" name="calculate_collision_depth">
+<area shape="rect" id="node2" href="$class_collisions.html#a265e80a2a5e77dd57ce94ae62c2a11ab" title="Collisions::collisionCorrect" alt="" coords="182,156,359,183"/>
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="408,17,637,44"/>
+<area shape="rect" id="node5" href="$class_collisions.html#a4d438eb211fe0953343dc39f478e14e0" title="Collisions::hash_find" alt="" coords="451,72,594,99"/>
+<area shape="rect" id="node7" href="$class_collisions.html#a169c711864e32721fb5daab7d7d01df4" title="Collisions::permitEvent" alt="" coords="444,127,601,153"/>
+<area shape="rect" id="node11" href="$class_collisions.html#afab554d00436aa9157c93a4eaecf8d74" title="Collisions::envokeScript\lCallback" alt="" coords="441,178,604,219"/>
+<area shape="rect" id="node12" href="$class_collisions.html#accb10540c3aa849f57b7fd3b9da2e1c6" title="Collisions::calcCollidedSide" alt="" coords="431,244,615,271"/>
+<area shape="rect" id="node13" href="$class_collisions.html#ad12c4976773ee3a8034b02fe1cd0212d" title="Collisions::clearEventCache" alt="" coords="429,295,616,321"/>
+<area shape="rect" id="node4" href="$class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="703,5,873,46"/>
+<area shape="rect" id="node6" href="$class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Collisions::hashfunc" alt="" coords="718,71,858,97"/>
+<area shape="rect" id="node8" href="$class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="691,122,885,163"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="686,187,890,229"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="939,195,1133,221"/>
+</map>

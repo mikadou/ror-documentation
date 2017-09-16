@@ -1,0 +1,7 @@
+<map id="RailBuilder" name="RailBuilder">
+<area shape="rect" id="node2" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="5,109,164,136"/>
+<area shape="rect" id="node3" href="$class_rail.html" title="Rail" alt="" coords="123,201,168,228"/>
+<area shape="rect" id="node4" href="$structbeam__t.html" title="beam_t" alt="" coords="189,109,253,136"/>
+<area shape="rect" id="node5" href="$structnode__t.html" title="node_t" alt="" coords="145,5,207,32"/>
+<area shape="rect" id="node6" href="$structshock__t.html" title="shock_t" alt="" coords="231,5,299,32"/>
+</map>

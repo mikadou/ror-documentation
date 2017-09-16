@@ -1,0 +1,8 @@
+<map id="Beam::reset" name="Beam::reset">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="377,5,559,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#a74e44d8907e7f6ffddedd260f307a764" title="RoRFrameListener::Reload\lCurrentTruck" alt="" coords="147,63,328,105"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_beam_factory.html#a508cb7a834236ed7786f780bbe6f84f6" title="RoR::BeamFactory::repair\lTruck" alt="" coords="150,129,325,170"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="609,12,823,39"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="387,70,549,111"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="635,70,797,111"/>
+</map>

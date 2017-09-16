@@ -1,0 +1,6 @@
+<map id="RoR::GUI::GameChatBox::SetVisible" name="RoR::GUI::GameChatBox::SetVisible">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#a56e100350e83de521214d5d201b671ae" title="RoR::GUIManager::SetVisible\l_ChatBox" alt="" coords="230,5,429,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="239,70,420,111"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="477,77,528,104"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="577,77,650,104"/>
+</map>

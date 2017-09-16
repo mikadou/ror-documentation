@@ -1,0 +1,7 @@
+<map id="Beam::updateFlexbodiesPrepare" name="Beam::updateFlexbodiesPrepare">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#abc123f9d1e56e13a72e5f80fdaa5a17e" title="RoRFrameListener::Finalize\lTruckSpawning" alt="" coords="265,5,450,46"/>
+<area shape="rect" id="node5" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="308,71,407,97"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_beam_factory.html#a422abac5067d57e32e2a586062d52742" title="RoR::BeamFactory::update\lFlexbodiesPrepare" alt="" coords="499,93,682,134"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="499,17,682,58"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="731,63,946,89"/>
+</map>

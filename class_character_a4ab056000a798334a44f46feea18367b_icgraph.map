@@ -1,0 +1,6 @@
+<map id="Character::SetSimController" name="Character::SetSimController">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_character_factory.html#ad71015f567d69271e88269e994da747b" title="RoR::CharacterFactory\l::createLocal" alt="" coords="241,5,399,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="448,12,709,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="757,12,808,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="857,12,930,39"/>
+</map>

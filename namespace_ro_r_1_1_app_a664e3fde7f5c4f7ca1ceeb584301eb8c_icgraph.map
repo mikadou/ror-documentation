@@ -1,0 +1,6 @@
+<map id="RoR::App::DeleteSceneMouse" name="RoR::App::DeleteSceneMouse">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#a1610b21686ae680582623cde69b85f2b" title="RoRFrameListener::Cleanup\lAfterSimulation" alt="" coords="257,5,445,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="493,12,752,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="800,12,851,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="899,12,973,39"/>
+</map>

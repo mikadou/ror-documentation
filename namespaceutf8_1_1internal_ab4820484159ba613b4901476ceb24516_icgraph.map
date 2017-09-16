@@ -1,0 +1,51 @@
+<map id="utf8::internal::is_trail" name="utf8::internal::is_trail">
+<area shape="rect" id="node2" href="$namespaceutf8.html#a07dcd36a2185e5c9f0b19dd88859cd6c" title="utf8::replace_invalid" alt="" coords="172,480,311,507"/>
+<area shape="rect" id="node44" href="$namespaceutf8.html#a9a599fdd8a16ce65e3e72192db9d499b" title="utf8::prior" alt="" coords="203,531,280,557"/>
+<area shape="rect" id="node46" href="$namespaceutf8.html#aedaf9315740d4f25b43c188b02b5bcd0" title="Deprecated in versions that include &quot;prior&quot;. " alt="" coords="191,581,292,608"/>
+<area shape="rect" id="node47" href="$namespaceutf8_1_1internal.html#a369641e705a3d7c91eb160868a6705f7" title="Helper for get_sequence_x. " alt="" coords="166,633,317,674"/>
+<area shape="rect" id="node48" href="$namespaceutf8_1_1unchecked.html#ad2c0e4b9693713ac18ee543e214b3ef9" title="utf8::unchecked::prior" alt="" coords="167,699,315,725"/>
+<area shape="rect" id="node3" href="$conf__file_8h.html#a153caa3fe3ddc7deff2c5e14d1dd4f71" title="SanitizeUtf8String" alt="" coords="409,531,537,557"/>
+<area shape="rect" id="node40" href="$class_rig_def_1_1_parser.html#ad1920ba0a8dc23ac5043b2c270ef5f47" title="RigDef::Parser::ProcessRawLine" alt="" coords="365,177,581,204"/>
+<area shape="rect" id="node42" href="$namespaceutf8.html#a13db09b6629724205302c623b76db028" title="utf8::replace_invalid" alt="" coords="404,480,543,507"/>
+<area shape="rect" id="node43" href="$namespace_ro_r_1_1_utils.html#ac62ee4a4a513a67cba1bdc7d9eb9c7a4" title="RoR::Utils::SanitizeUtf8\lString" alt="" coords="391,414,555,455"/>
+<area shape="rect" id="node4" href="$class_settings.html#a3610937cea22837c48e59a1c9493f295" title="Settings::loadSettings" alt="" coords="658,820,809,847"/>
+<area shape="rect" id="node5" href="$class_my_dialog.html#a3a49421662fe7600e722c3ca32b48a4d" title="MyDialog::LoadConfig" alt="" coords="658,1064,809,1091"/>
+<area shape="rect" id="node7" href="$class_character.html#a56efcb1702c8ea823659e5106cc03333" title="Character::receiveStreamData" alt="" coords="634,871,833,897"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_skin_manager.html#adeace12c6ab5f60f8c3ee860204d352c" title="RoR::SkinManager::parseScript" alt="" coords="630,617,837,644"/>
+<area shape="rect" id="node9" href="$class_torque_curve.html#a68e95142e6044ef86a4b0509fcecc1d3" title="TorqueCurve::loadDefault\lTorqueModels" alt="" coords="648,202,819,243"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_skidmark_config.html#a2939c7181345ac52adaa2bc3c2fab3c3" title="RoR::SkidmarkConfig\l::loadDefaultModels" alt="" coords="658,435,809,477"/>
+<area shape="rect" id="node12" href="$class_cmd_key_inertia.html#a5fc5946c4e0023b8ce1fa7fd58fa9b23" title="CmdKeyInertia::loadDefault\lInertiaModels" alt="" coords="642,501,825,542"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_terrn2_parser.html#aaf74ce663f16609faf6f139d4bf256e4" title="RoR::Terrn2Parser::\lLoadTerrn2" alt="" coords="906,381,1046,422"/>
+<area shape="rect" id="node16" href="$class_terrain_geometry_manager.html#a5d955662dda8b746d97fe586997f2471" title="TerrainGeometryManager\l::getPageHeightmap" alt="" coords="649,71,818,113"/>
+<area shape="rect" id="node18" href="$class_terrain_geometry_manager.html#ad130c4517d56ebd061d7c2d17d4308bb" title="TerrainGeometryManager\l::loadLayers" alt="" coords="649,267,818,309"/>
+<area shape="rect" id="node21" href="$class_terrain_object_manager.html#a62a108ad201e16585ab3115befedae60" title="TerrainObjectManager\l::loadObject" alt="" coords="658,137,809,178"/>
+<area shape="rect" id="node24" href="$class_ro_r_1_1_config_file.html#abfd892376697c81b3636c52a19fd89a4" title="RoR::ConfigFile::GetStringEx" alt="" coords="636,769,831,796"/>
+<area shape="rect" id="node37" href="$class_settings.html#aa8257000628d4086aa8e792b26b35445" title="Settings::LoadSettings" alt="" coords="656,668,811,695"/>
+<area shape="rect" id="node38" href="$_utils_8h.html#aef4983bfed18d57951ada0cdaf1c4690" title="tryConvertUTF" alt="" coords="679,384,788,411"/>
+<area shape="rect" id="node39" href="$_utils_8cpp.html#aebe76599ecdd7fc4db8b64cba0beb94e" title="ANSI_TO_UTF" alt="" coords="677,567,789,593"/>
+<area shape="rect" id="node6" href="$class_my_dialog.html#ac878405673c6177b80014e3ea1db6af7" title="MyDialog::MyDialog" alt="" coords="906,1204,1046,1231"/>
+<area shape="rect" id="node10" href="$class_torque_curve.html#a326a84416643c9745752cc99bacd5211" title="Constructor. " alt="" coords="886,212,1066,239"/>
+<area shape="rect" id="node14" href="$class_cache_system.html#a8c919d3618cc1b8924fc17f2c8cf4155" title="CacheSystem::fillTerrain\lDetailInfo" alt="" coords="1123,381,1290,422"/>
+<area shape="rect" id="node15" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="1115,447,1299,473"/>
+<area shape="rect" id="node17" href="$class_terrain_geometry_manager.html#a2b69c5f50a8c619b28a0f9d2ccb8eb84" title="TerrainGeometryManager\l::getTerrainImage" alt="" coords="891,29,1061,70"/>
+<area shape="rect" id="node19" href="$class_terrain_geometry_manager.html#a3433648af8303236ea2d3435ab2b279b" title="TerrainGeometryManager\l::initTerrain" alt="" coords="1122,315,1291,357"/>
+<area shape="rect" id="node20" href="$class_terrain_geometry_manager.html#a10e78d511f72ed2ba109ff691cdc0ffb" title="TerrainGeometryManager\l::configureTerrainDefaults" alt="" coords="890,315,1062,357"/>
+<area shape="rect" id="node22" href="$class_game_script.html#adc155d46516906fb9bfddde649c02ee6" title="GameScript::spawnObject" alt="" coords="889,95,1063,121"/>
+<area shape="rect" id="node23" href="$class_terrain_object_manager.html#a45ccbf51f9c0ecac68927fed5e52eaa4" title="TerrainObjectManager\l::loadObjectConfigFile" alt="" coords="901,146,1051,187"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_terrn2_parser.html#a429ed59869305a1fee5cf6a14d953d21" title="RoR::Terrn2Parser::\lProcessTeleport" alt="" coords="906,759,1046,801"/>
+<area shape="rect" id="node26" href="$class_local_storage.html#a69a915ab4ac7cbe08e36e2e1935c220b" title="LocalStorage::get" alt="" coords="914,825,1038,852"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_config_file.html#a958d11a898703248fb908127888b85c0" title="RoR::ConfigFile::GetString" alt="" coords="887,447,1065,473"/>
+<area shape="rect" id="node28" href="$class_improved_config_file.html#a5ac0b10fd60f3c9fcf758ed402287d78" title="ImprovedConfigFile\l::getSettingRadian" alt="" coords="909,877,1043,918"/>
+<area shape="rect" id="node29" href="$class_improved_config_file.html#a41981e09cefdedd05285654eedce5963" title="ImprovedConfigFile\l::getSettingBool" alt="" coords="909,942,1043,983"/>
+<area shape="rect" id="node30" href="$class_improved_config_file.html#a22d7135be548e31a9e84ce370db6b159" title="ImprovedConfigFile\l::getSettingReal" alt="" coords="909,1007,1043,1049"/>
+<area shape="rect" id="node31" href="$class_improved_config_file.html#a86cb43a15c0cb79ac1bdc63c3a8a4042" title="ImprovedConfigFile\l::getSettingInt" alt="" coords="909,1073,1043,1114"/>
+<area shape="rect" id="node32" href="$class_improved_config_file.html#a3f431dbcada90c5750fd937c25198a1c" title="ImprovedConfigFile\l::getSettingUnsignedInt" alt="" coords="897,1138,1055,1179"/>
+<area shape="rect" id="node33" href="$class_improved_config_file.html#af91261e570e113299af795c1bcfe3950" title="ImprovedConfigFile\l::getSettingLong" alt="" coords="909,498,1043,539"/>
+<area shape="rect" id="node34" href="$class_improved_config_file.html#aea6d634f95ad1d1aa4fa6684ba6e4740" title="ImprovedConfigFile\l::getSettingUnsignedLong" alt="" coords="890,563,1062,605"/>
+<area shape="rect" id="node35" href="$class_improved_config_file.html#a20c1f93d3a9d9ff15e15353e2d0135ce" title="ImprovedConfigFile\l::getSettingVector3" alt="" coords="909,629,1043,670"/>
+<area shape="rect" id="node36" href="$class_improved_config_file.html#ad2a05f88b2b64cf9418a192a7277b800" title="ImprovedConfigFile\l::getSettingMatrix3" alt="" coords="909,694,1043,735"/>
+<area shape="rect" id="node41" href="$class_rig_def_1_1_parser.html#ab08d0ba4ffb90b72cb351014bb7861bd" title="RigDef::Parser::ProcessOgre\lStream" alt="" coords="637,6,830,47"/>
+<area shape="rect" id="node45" href="$classutf8_1_1iterator.html#a7781099a85323b5a3ff4dc1015ca5af0" title="utf8::iterator::operator&#45;&#45;" alt="" coords="396,581,551,608"/>
+<area shape="rect" id="node49" href="$namespaceutf8_1_1unchecked.html#a454cdd8f6b6771bd0425be1ccd94f788" title="utf8::unchecked::previous" alt="" coords="387,728,559,755"/>
+<area shape="rect" id="node50" href="$classutf8_1_1unchecked_1_1iterator.html#a8b50b3a0d7b2c2506e135db73a636c7b" title="utf8::unchecked::iterator\l::operator&#45;&#45;" alt="" coords="392,662,555,703"/>
+</map>

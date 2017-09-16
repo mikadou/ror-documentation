@@ -1,0 +1,8 @@
+<map id="BeamEngine::getGear" name="BeamEngine::getGear">
+<area shape="rect" id="node2" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a20e0e3bfb3deaa213ffb06d283ae81c8" title="RoR::LandVehicleSimulation\l::UpdateCruiseControl" alt="" coords="208,5,397,46"/>
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="461,63,651,105"/>
+<area shape="rect" id="node4" href="$struct_ro_r_1_1_land_vehicle_simulation.html#aeb311b9e9cb93cb4a55f58af0cf8c8a8" title="RoR::LandVehicleSimulation\l::CheckSpeedLimit" alt="" coords="208,122,397,163"/>
+<area shape="rect" id="node5" href="$class_out_protocol.html#ae17e602d236aaeb1cafb79d984f6fadd" title="OutProtocol::Update" alt="" coords="232,188,373,215"/>
+<area shape="rect" id="node7" href="$class_overlay_wrapper.html#a980f106951b91e11f14a1f23c6f678bc" title="OverlayWrapper::UpdateLand\lVehicleHUD" alt="" coords="205,239,400,281"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="449,217,663,244"/>
+</map>

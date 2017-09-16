@@ -1,0 +1,8 @@
+<map id="Character::setBeamCoupling" name="Character::setBeamCoupling">
+<area shape="rect" id="node2" href="$class_character.html#ad78f70dcdb7ed4ccd8e97824f62847e1" title="Character::setPhysicsEnabled" alt="" coords="246,5,445,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="248,56,443,83"/>
+<area shape="rect" id="node4" href="$class_beam.html#adfe810237f6498de41657429ad35ee38" title="Beam::hasDriverSeat" alt="" coords="272,107,419,133"/>
+<area shape="rect" id="node5" href="$class_character.html#a9431f9de49989e5bbf7e02810aca1f14" title="Character::setVisible" alt="" coords="273,157,417,184"/>
+<area shape="rect" id="node6" href="$class_survey_map_manager.html#a17809f36c8b9291270ced418f222faab" title="SurveyMapManager::getMap\lEntityByName" alt="" coords="497,121,687,162"/>
+<area shape="rect" id="node7" href="$class_survey_map_entity.html#ad3cc1cb8f1e71f876290abb0eb004c05" title="SurveyMapEntity::setVisibility" alt="" coords="493,187,691,213"/>
+</map>

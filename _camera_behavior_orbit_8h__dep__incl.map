@@ -1,0 +1,12 @@
+<map id="source/main/gfx/camera/CameraBehaviorOrbit.h" name="source/main/gfx/camera/CameraBehaviorOrbit.h">
+<area shape="rect" id="node2" href="$_camera_behavior_character_8h.html" title="source/main/gfx/camera\l/CameraBehaviorCharacter.h" alt="" coords="168,97,358,138"/>
+<area shape="rect" id="node4" href="$_camera_manager_8cpp.html" title="source/main/gfx/camera\l/CameraManager.cpp" alt="" coords="186,278,349,319"/>
+<area shape="rect" id="node5" href="$_camera_behavior_orbit_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorOrbit.cpp" alt="" coords="585,97,761,138"/>
+<area shape="rect" id="node6" href="$_camera_behavior_vehicle_8h.html" title="source/main/gfx/camera\l/CameraBehaviorVehicle.h" alt="" coords="383,97,560,138"/>
+<area shape="rect" id="node3" href="$_camera_behavior_character_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorCharacter.cpp" alt="" coords="25,187,230,229"/>
+<area shape="rect" id="node7" href="$_camera_behavior_vehicle_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicle.cpp" alt="" coords="850,187,1040,229"/>
+<area shape="rect" id="node8" href="$_camera_behavior_vehicle_cine_cam_8h.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleCineCam.h" alt="" coords="356,187,588,229"/>
+<area shape="rect" id="node10" href="$_camera_behavior_vehicle_spline_8h.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleSpline.h" alt="" coords="612,187,825,229"/>
+<area shape="rect" id="node9" href="$_camera_behavior_vehicle_cine_cam_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleCineCam.cpp" alt="" coords="374,278,620,319"/>
+<area shape="rect" id="node11" href="$_camera_behavior_vehicle_spline_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleSpline.cpp" alt="" coords="645,278,872,319"/>
+</map>

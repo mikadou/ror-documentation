@@ -1,0 +1,24 @@
+<map id="RoRFrameListener::ShowLoaderGUI" name="RoRFrameListener::ShowLoaderGUI">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#a869e76f2a6708166204319cf355b3398" title="RoR::BeamFactory::getTruck\lCount" alt="" coords="311,5,505,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#a4941682a48735d61f13f27b67a4c0b8e" title="RoR::BeamFactory::getTrucks" alt="" coords="307,71,509,97"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="311,121,505,148"/>
+<area shape="rect" id="node5" href="$class_collisions.html#a0994fca40d7b1d9d2bf81b2dc2dda8f3" title="Collisions::getBox" alt="" coords="344,172,472,199"/>
+<area shape="rect" id="node6" href="$class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="342,223,474,249"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#aa04ed1e7b697aa1f33f1bb1297cb3e48" title="RoR::App::GetConsole" alt="" coords="329,273,487,300"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_console.html#a6883dfc6a1d760581a917e101b6357c5" title="RoR::Console::putMessage" alt="" coords="316,324,500,351"/>
+<area shape="rect" id="node11" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="319,375,497,401"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_g_u_i_manager.html#a534a8e82d1b92384767ab1c555126bba" title="RoR::GUIManager::PushNotification" alt="" coords="291,425,525,452"/>
+<area shape="rect" id="node14" href="$class_collisions.html#ad12c4976773ee3a8034b02fe1cd0212d" title="Collisions::clearEventCache" alt="" coords="315,476,501,503"/>
+<area shape="rect" id="node15" href="$class_collisions.html#a3a6b7172dd9d63a46d03ecd9ee61a1fe" title="Collisions::getPosition" alt="" coords="332,527,484,553"/>
+<area shape="rect" id="node16" href="$class_collisions.html#a4241fcc92d9a9deccd5ff450059ad0f1" title="Collisions::getDirection" alt="" coords="329,577,487,604"/>
+<area shape="rect" id="node17" href="$namespace_ro_r_1_1_app.html#ae09ad99f49c2645ae9ea47b9e94a98bd" title="RoR::App::SetActiveSimState" alt="" coords="309,628,507,655"/>
+<area shape="rect" id="node21" href="$class_survey_map_manager.html#aeebd7d253cbe08237389c73ee4100e21" title="SurveyMapManager::setVisibility" alt="" coords="301,679,515,705"/>
+<area shape="rect" id="node22" href="$class_ro_r_1_1_g_u_i_manager.html#ac4f70c8a1b401b07e1632ad3e6eb5fe3" title="RoR::GUIManager::GetMain\lSelector" alt="" coords="314,730,502,771"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_g_u_i_1_1_main_selector.html#a3e7b2a4e2bc63b0c7ccf28178d6c68da" title="RoR::GUI::MainSelector\l::Show" alt="" coords="325,795,491,837"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_manager.html#a982bc848eb4330aa9e57a54bfc60d975" title="RoR::GUIManager::GetConsole" alt="" coords="573,269,781,296"/>
+<area shape="rect" id="node10" href="$class_inter_thread_store_vector.html#a88d3f7e3e3ce109e13af1c46a12a50b0" title="InterThreadStoreVector\l\&lt; ConsoleMessage \&gt;::push" alt="" coords="586,321,769,362"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ac18f8c423994b93276f5f33b22e53d41" title="RoR::GUI::SimUtils\l::PushNotification" alt="" coords="608,418,747,459"/>
+<area shape="rect" id="node18" href="$namespace_ro_r_1_1_app.html#ae7ca05a9e2c04da99c1305919b3002b3" title="RoR::App::SetVarEnum" alt="" coords="596,603,759,629"/>
+<area shape="rect" id="node20" href="$namespace_ro_r_1_1_app.html#ad41468bc4aeb502b5d15dd8002546ae5" title="RoR::App::SimStateToStr" alt="" coords="590,653,765,680"/>
+<area shape="rect" id="node19" href="$namespace_ro_r_1_1_app.html#a3492dc6307a9d930ac73578e0d1f005e" title="RoR::App::LogVarUpdate" alt="" coords="829,603,1000,629"/>
+</map>

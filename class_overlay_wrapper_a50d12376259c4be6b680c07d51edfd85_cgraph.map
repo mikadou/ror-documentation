@@ -1,0 +1,8 @@
+<map id="OverlayWrapper::~OverlayWrapper" name="OverlayWrapper::~OverlayWrapper">
+<area shape="rect" id="node2" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="232,23,451,65"/>
+<area shape="rect" id="node6" href="$class_overlay_wrapper.html#ac410083818e29a4d7848e97348f780be" title="OverlayWrapper::HideRacing\lOverlay" alt="" coords="245,89,437,130"/>
+<area shape="rect" id="node7" href="$class_overlay_wrapper.html#a581b30b171c031156c074e70d697ee20" title="OverlayWrapper::HideDirection\lOverlay" alt="" coords="240,154,443,195"/>
+<area shape="rect" id="node3" href="$class_dash_board_manager.html#aab1c20ed732f3e11ea290a2f90be99e0" title="DashBoardManager::wasLoaded" alt="" coords="499,5,709,32"/>
+<area shape="rect" id="node4" href="$class_dash_board_manager.html#a21ffd946b6843df16ca7b3ef704b596a" title="DashBoardManager::setVisible" alt="" coords="503,56,705,83"/>
+<area shape="rect" id="node5" href="$class_dash_board.html#a650c134fdce0c84a77d84d2c23bdccbe" title="DashBoard::setVisible" alt="" coords="757,56,909,83"/>
+</map>

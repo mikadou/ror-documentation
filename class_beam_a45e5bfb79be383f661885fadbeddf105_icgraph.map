@@ -1,0 +1,10 @@
+<map id="Beam::resetPosition" name="Beam::resetPosition">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#abc123f9d1e56e13a72e5f80fdaa5a17e" title="RoRFrameListener::Finalize\lTruckSpawning" alt="" coords="205,5,390,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_console.html#a39381023fb19b10edfad9592ce2e1554" title="RoR::Console::eventCommand\lAccept" alt="" coords="195,70,400,111"/>
+<area shape="rect" id="node7" href="$class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="235,136,360,163"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_beam_factory.html#a508cb7a834236ed7786f780bbe6f84f6" title="RoR::BeamFactory::repair\lTruck" alt="" coords="210,187,385,229"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="449,5,631,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="681,12,895,39"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_console.html#aba16cfd9f0894eb1312b1bc1155b6646" title="RoR::Console::Console" alt="" coords="459,77,621,104"/>
+<area shape="rect" id="node8" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="491,136,589,163"/>
+</map>

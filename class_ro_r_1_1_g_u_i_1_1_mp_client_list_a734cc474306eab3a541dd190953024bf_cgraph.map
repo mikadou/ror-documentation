@@ -1,0 +1,5 @@
+<map id="RoR::GUI::MpClientList::MpClientList" name="RoR::GUI::MpClientList::MpClientList">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#a932cac1b565b275cc1198cfe2bf74e66" title="RoR::GUI::MpClientList\l::openToolTip" alt="" coords="216,5,379,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#a30f80ed27c69bb60375cdecabac9da3f" title="RoR::GUI::MpClientList\l::clickInfoIcon" alt="" coords="216,70,379,111"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#a78a32677ac1907a635cf578b2c2bef10" title="RoR::GUI::MpClientList\l::clickUserGoIcon" alt="" coords="216,135,379,177"/>
+</map>

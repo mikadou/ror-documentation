@@ -1,0 +1,11 @@
+<map id="source/main/gui/panels/GUI_TextureToolWindow.h" name="source/main/gui/panels/GUI_TextureToolWindow.h">
+<area shape="rect" id="node2" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1172,320,1307,347"/>
+<area shape="rect" id="node20" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1117,171,1203,197"/>
+<area shape="rect" id="node21" href="$_base_layout_8h.html" title="mygui/BaseLayout.h" alt="" coords="1209,96,1349,123"/>
+<area shape="rect" id="node14" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1659,469,1812,496"/>
+<area shape="rect" id="node15" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1719,395,1861,421"/>
+<area shape="rect" id="node16" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1887,395,2057,421"/>
+<area shape="rect" id="node17" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2082,395,2163,421"/>
+<area shape="rect" id="node23" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1329,171,1449,197"/>
+<area shape="rect" id="node24" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1427,245,1508,272"/>
+</map>

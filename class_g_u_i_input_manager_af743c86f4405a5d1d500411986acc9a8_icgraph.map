@@ -1,0 +1,5 @@
+<map id="GUIInputManager::WakeUpGUI" name="GUIInputManager::WakeUpGUI">
+<area shape="rect" id="node2" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="269,5,480,32"/>
+<area shape="rect" id="node3" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="265,56,485,83"/>
+<area shape="rect" id="node4" href="$class_g_u_i_input_manager.html#a5f096906671c8b2fc404353cb0cc3cf4" title="GUIInputManager::mouseReleased" alt="" coords="261,107,488,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SurveyMapManager::setAlpha" name="SurveyMapManager::setAlpha">
+<area shape="rect" id="node2" href="$class_survey_map_manager.html#a49258bae8179a976b3c96b4b8daee682" title="SurveyMapManager::Update" alt="" coords="481,31,669,57"/>
+<area shape="rect" id="node4" href="$class_survey_map_manager.html#a51d80954d8fac255b9c88a60a120cbc3" title="SurveyMapManager::toggle\lMapView" alt="" coords="251,23,432,65"/>
+<area shape="rect" id="node5" href="$class_survey_map_manager.html#a171c5f8b946065add28edeb53aa62842" title="SurveyMapManager::toggle\lMapAlpha" alt="" coords="251,89,432,130"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="718,31,933,57"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="OverlayWrapper::UpdateLandVehicleHUD" name="OverlayWrapper::UpdateLandVehicleHUD">
+<area shape="rect" id="node2" href="$class_beam_engine.html#ae5f87426f9dc96c4f4bf377b53e9936a" title="BeamEngine::getGear" alt="" coords="266,5,417,32"/>
+<area shape="rect" id="node3" href="$class_beam_engine.html#a7231a53b2dd66a597463fd00cbeabb1f" title="BeamEngine::getNumGears" alt="" coords="249,56,434,83"/>
+<area shape="rect" id="node4" href="$class_beam_engine.html#afc790a312867e2f3072905f5c6a47f71" title="BeamEngine::getAutoShift" alt="" coords="253,107,429,133"/>
+<area shape="rect" id="node5" href="$class_beam_engine.html#a0da07abab36323b70d48fe5e9efe01fc" title="BeamEngine::getMaxRPM" alt="" coords="253,157,430,184"/>
+<area shape="rect" id="node6" href="$class_beam_engine.html#a871214fce37bde9b73e59494e2dc2bca" title="BeamEngine::getRPM" alt="" coords="265,208,417,235"/>
+</map>

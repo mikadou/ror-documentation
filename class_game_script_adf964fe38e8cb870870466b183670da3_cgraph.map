@@ -1,0 +1,4 @@
+<map id="GameScript::boostCurrentTruck" name="GameScript::boostCurrentTruck">
+<area shape="rect" id="node2" href="$class_beam_engine.html#a871214fce37bde9b73e59494e2dc2bca" title="BeamEngine::getRPM" alt="" coords="229,5,381,32"/>
+<area shape="rect" id="node3" href="$class_beam_engine.html#a6aea2602f49dbab7bc980ebc92e83587" title="BeamEngine::setRPM" alt="" coords="229,56,381,83"/>
+</map>

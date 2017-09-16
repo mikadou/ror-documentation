@@ -1,0 +1,6 @@
+<map id="MyDialog::updateRendersystems" name="MyDialog::updateRendersystems">
+<area shape="rect" id="node2" href="$class_my_dialog.html#acd3952b4ebf8cc601045d3ba2f2946f1" title="MyDialog::loadOgre" alt="" coords="299,5,437,32"/>
+<area shape="rect" id="node5" href="$class_my_dialog.html#a03cb551bc2ccd5c4a60af1617a987fe3" title="MyDialog::OnChoiceRenderer" alt="" coords="270,56,466,83"/>
+<area shape="rect" id="node3" href="$class_my_dialog.html#ac878405673c6177b80014e3ea1db6af7" title="MyDialog::MyDialog" alt="" coords="515,5,655,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_config_app.html#a2a0306257bf33d25102a9ace3b2ff59a" title="RoRConfigApp::OnInit" alt="" coords="705,5,858,32"/>
+</map>

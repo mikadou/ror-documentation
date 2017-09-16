@@ -1,0 +1,4 @@
+<map id="Road" name="Road">
+<area shape="rect" id="node2" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node3" href="$struct_road_type__t.html" title="RoadType_t" alt="" coords="189,5,283,32"/>
+</map>

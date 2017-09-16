@@ -1,0 +1,28 @@
+<map id="source/main/gui/panels/GUI_SimUtils.cpp" name="source/main/gui/panels/GUI_SimUtils.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___sim_utils_8h.html" title="GUI_SimUtils.h" alt="" coords="43,245,158,272"/>
+<area shape="rect" id="node6" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1084,395,1219,421"/>
+<area shape="rect" id="node26" href="$_utils_8h.html" title="Utils.h" alt="" coords="230,96,290,123"/>
+<area shape="rect" id="node30" href="$_ro_r_version_8h.html" title="RoRVersion.h" alt="" coords="818,96,922,123"/>
+<area shape="rect" id="node31" href="$_language_8h.html" title="Language.h" alt="" coords="776,245,864,272"/>
+<area shape="rect" id="node35" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="1476,245,1583,272"/>
+<area shape="rect" id="node40" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="966,171,1063,197"/>
+<area shape="rect" id="node42" href="$_ogre_subsystem_8h.html" title="OGRE engine wrapper. " alt="" coords="2468,320,2594,347"/>
+<area shape="rect" id="node44" href="$_beam_8h.html" title="Beam.h" alt="" coords="2218,245,2284,272"/>
+<area shape="rect" id="node48" href="$_aero_engine_8h.html" title="AeroEngine.h" alt="" coords="728,171,827,197"/>
+<area shape="rect" id="node49" href="$_beam_engine_8h.html" title="BeamEngine.h" alt="" coords="1047,96,1154,123"/>
+<area shape="rect" id="node50" href="$_screw_prop_8h.html" title="ScrewProp.h" alt="" coords="1141,245,1238,272"/>
+<area shape="rect" id="node3" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="798,544,951,571"/>
+<area shape="rect" id="node4" href="$_g_u_i___sim_utils_layout_8h.html" title="GUI_SimUtilsLayout.h" alt="" coords="24,395,176,421"/>
+<area shape="rect" id="node5" href="$_inter_thread_store_vector_8h.html" title="InterThreadStoreVector.h" alt="" coords="158,320,326,347"/>
+<area shape="rect" id="node18" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="804,469,946,496"/>
+<area shape="rect" id="node19" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="971,469,1142,496"/>
+<area shape="rect" id="node20" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="1166,469,1247,496"/>
+<area shape="rect" id="node28" href="$checked_8h.html" title="utf8/checked.h" alt="" coords="237,171,344,197"/>
+<area shape="rect" id="node29" href="$unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="420,171,543,197"/>
+<area shape="rect" id="node32" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="876,320,962,347"/>
+<area shape="rect" id="node36" href="$_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="1771,320,1906,347"/>
+<area shape="rect" id="node41" href="$_settings_8h.html" title="Settings.h" alt="" coords="932,245,1012,272"/>
+<area shape="rect" id="node45" href="$_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="2246,320,2340,347"/>
+<area shape="rect" id="node46" href="$_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="2192,395,2278,421"/>
+<area shape="rect" id="node47" href="$_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="1982,320,2170,347"/>
+</map>

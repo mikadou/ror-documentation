@@ -1,0 +1,6 @@
+<map id="RoR::GUI::GameMainMenu::SetVisible" name="RoR::GUI::GameMainMenu::SetVisible">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#a702c9b586147c653d69f35a9641a900e" title="RoR::GUIManager::SetVisible\l_GameMainMenu" alt="" coords="238,5,437,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="247,70,428,111"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="485,45,536,72"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="585,45,658,72"/>
+</map>

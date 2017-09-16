@@ -1,0 +1,9 @@
+<map id="RoR::GUIManager::windowResized" name="RoR::GUIManager::windowResized">
+<area shape="rect" id="node2" href="$class_g_u_i_input_manager.html#a5fde1d31061185a8cea4911ff2d56b61" title="GUIInputManager::setInput\lViewSize" alt="" coords="298,21,478,62"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_manager.html#aa6522e664233ae16430b5ded2f4c25b0" title="RoR::GUIManager::AdjustMain\lMenuPosition" alt="" coords="286,107,490,149"/>
+<area shape="rect" id="node3" href="$class_g_u_i_input_manager.html#af367cbabbd2130a3cb260f93da0bb914" title="GUIInputManager::checkPosition" alt="" coords="539,5,754,32"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="545,56,748,83"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="571,107,722,149"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_game_main_menu.html#a166e66f4c854383407a2633e019a9681" title="RoR::GUI::GameMainMenu\l::GetHeight" alt="" coords="555,173,739,214"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_game_main_menu.html#a1653b19df9892e3ee1c23d08c3b1041b" title="RoR::GUI::GameMainMenu\l::SetPosition" alt="" coords="555,238,739,279"/>
+</map>

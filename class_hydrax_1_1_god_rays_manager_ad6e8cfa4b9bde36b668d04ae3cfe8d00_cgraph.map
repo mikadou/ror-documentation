@@ -1,0 +1,18 @@
+<map id="Hydrax::GodRaysManager::create" name="Hydrax::GodRaysManager::create">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_noise_1_1_perlin.html#a3e260e7c239d90da210aa3e27289c6f0" title="Hydrax::Noise::Perlin\l::create" alt="" coords="248,75,395,117"/>
+<area shape="rect" id="node6" href="$class_hydrax_1_1_hydrax.html#a4f6dfef270938f04d0430eaf8e1fa88f" title="Hydrax::Hydrax::getScene\lManager" alt="" coords="525,201,702,242"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_god_rays_manager.html#ae9b48811f31edab50567458b6a59cebb" title="Hydrax::GodRaysManager\l::_createDepthRTT" alt="" coords="233,199,410,241"/>
+<area shape="rect" id="node8" href="$class_hydrax_1_1_god_rays_manager.html#ad8e21289bddd02ed9a62b3a2db1ff54f" title="Hydrax::GodRaysManager\l::_createMaterials" alt="" coords="233,395,410,437"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_god_rays_manager.html#abe86da8a21691f1bac9d817147c9edba" title="Hydrax::GodRaysManager\l::addDepthTechnique" alt="" coords="233,330,410,371"/>
+<area shape="rect" id="node16" href="$class_hydrax_1_1_god_rays_manager.html#ab60cb054a3c4948b82c0b1c3736d17b3" title="Hydrax::GodRaysManager\l::_createGodRays" alt="" coords="233,265,410,306"/>
+<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_noise.html#a94f5963b8f6fed2fb22149ff22e1166f" title="Hydrax::Noise::Noise\l::isCreated" alt="" coords="539,70,687,111"/>
+<area shape="rect" id="node4" href="$class_hydrax_1_1_noise_1_1_noise.html#abe9cf8765feed765e6a35b0779125f6a" title="Hydrax::Noise::Noise\l::create" alt="" coords="539,135,687,177"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_perlin.html#a79f375919de9abd4823e60ce003a95e6" title="Hydrax::Noise::Perlin\l::_initNoise" alt="" coords="540,5,687,46"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#aa3ca4b94a8cfb1aed6e3a997dc9fac7e" title="Hydrax::Hydrax::getShaderMode" alt="" coords="507,335,720,361"/>
+<area shape="rect" id="node10" href="$class_hydrax_1_1_hydrax.html#a572279649449549c7be3ef809221fbae" title="Hydrax::Hydrax::getMaterial\lManager" alt="" coords="520,517,707,558"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_god_rays_manager.html#af77436c5ea371f23c3c34afc4c0789b2" title="Hydrax::GodRaysManager\l::_isComponent" alt="" coords="525,582,702,623"/>
+<area shape="rect" id="node12" href="$class_hydrax_1_1_material_manager.html#a9374e09a2d918becab5db16240d2b8e1" title="Hydrax::MaterialManager\l::fillGpuProgramsToPass" alt="" coords="529,386,697,427"/>
+<area shape="rect" id="node14" href="$_god_rays_manager_8cpp.html#afbf3adf4f7626f9e4dd3e294bf4fb718" title="PROJECTIONCLIPSPACE2DTOIMAGESPACE\l_PERSPECTIVE" alt="" coords="459,451,768,493"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_material_manager.html#ac0f7c351a7df142a04023c3409d6d871" title="Hydrax::MaterialManager\l::createGpuProgram" alt="" coords="816,386,984,427"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_hydrax.html#a1532419b2859aed22a63d913c527ce21" title="Hydrax::Hydrax::_isCurrent\lFrameUnderwater" alt="" coords="522,266,705,307"/>
+</map>

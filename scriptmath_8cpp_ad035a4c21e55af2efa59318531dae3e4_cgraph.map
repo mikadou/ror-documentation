@@ -1,0 +1,6 @@
+<map id="RegisterScriptMath_Native" name="RegisterScriptMath_Native">
+<area shape="rect" id="node2" href="$scriptmath_8cpp.html#acbb765a41af85ae7e72882b07bef3370" title="fpFromIEEE" alt="" coords="190,5,285,32"/>
+<area shape="rect" id="node3" href="$scriptmath_8cpp.html#a1dd4653459c9fd11e12d6895fb699a55" title="fpToIEEE" alt="" coords="198,56,277,83"/>
+<area shape="rect" id="node4" href="$scriptmath_8cpp.html#a5c96b7215802489e0cfa2134d73a1efa" title="closeTo" alt="" coords="203,107,271,133"/>
+<area shape="rect" id="node5" href="$scriptmath_8cpp.html#a7fbd37e3ddab7ea8ae5dfe45c8142d52" title="fractionf" alt="" coords="203,157,272,184"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="GameScript::useOnlineAPIDirectly" name="GameScript::useOnlineAPIDirectly">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ad0be48f892a24d9f78d4f6f28a70b566" title="RoR::App::GetMpServerPort" alt="" coords="300,5,489,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="297,56,492,83"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a28c0ae9f137c5ff5ba9a024732fdc19c" title="RoR::App::GetMpPlayerName" alt="" coords="295,107,494,133"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_app.html#a3e65d1f6ced91c9abf873c67fa6c8bec" title="RoR::App::GetAppLanguage" alt="" coords="301,157,489,184"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#ad80413b1955e4d50e6086346f22a957b" title="RoR::App::GetMpServerHost" alt="" coords="298,208,491,235"/>
+<area shape="rect" id="node7" href="$class_beam.html#a0550cfe159057ed02364c9425f279265" title="Beam::getTruckName" alt="" coords="319,259,470,285"/>
+<area shape="rect" id="node8" href="$class_beam.html#a7c810f9fc80089c7d43bc799bccf182d" title="Beam::getTruckFileName" alt="" coords="309,309,480,336"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="293,360,496,387"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="319,411,470,453"/>
+<area shape="rect" id="node11" href="$namespace_ro_r_1_1_app.html#aa04ed1e7b697aa1f33f1bb1297cb3e48" title="RoR::App::GetConsole" alt="" coords="316,477,473,504"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_console.html#a6883dfc6a1d760581a917e101b6357c5" title="RoR::Console::putMessage" alt="" coords="303,528,487,555"/>
+<area shape="rect" id="node15" href="$_utils_8cpp.html#aebe76599ecdd7fc4db8b64cba0beb94e" title="ANSI_TO_UTF" alt="" coords="339,579,451,605"/>
+<area shape="rect" id="node30" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="305,629,484,656"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_g_u_i_manager.html#a534a8e82d1b92384767ab1c555126bba" title="RoR::GUIManager::PushNotification" alt="" coords="277,680,512,707"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_g_u_i_manager.html#a982bc848eb4330aa9e57a54bfc60d975" title="RoR::GUIManager::GetConsole" alt="" coords="560,469,768,496"/>
+<area shape="rect" id="node14" href="$class_inter_thread_store_vector.html#a88d3f7e3e3ce109e13af1c46a12a50b0" title="InterThreadStoreVector\l\&lt; ConsoleMessage \&gt;::push" alt="" coords="573,521,755,562"/>
+<area shape="rect" id="node16" href="$namespace_ro_r_1_1_utils.html#ac62ee4a4a513a67cba1bdc7d9eb9c7a4" title="RoR::Utils::SanitizeUtf8\lString" alt="" coords="582,586,746,627"/>
+<area shape="rect" id="node17" href="$namespaceutf8.html#a07dcd36a2185e5c9f0b19dd88859cd6c" title="utf8::replace_invalid" alt="" coords="816,593,955,620"/>
+<area shape="rect" id="node18" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="1003,593,1181,620"/>
+<area shape="rect" id="node28" href="$namespaceutf8.html#a3827e78596fc38cfdebd721e9c45c901" title="The library API &#45; functions intended to be called by the users. " alt="" coords="1045,716,1139,743"/>
+<area shape="rect" id="node29" href="$namespaceutf8_1_1internal.html#ab4820484159ba613b4901476ceb24516" title="utf8::internal::is\l_trail" alt="" coords="1036,430,1148,471"/>
+<area shape="rect" id="node19" href="$namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="1230,586,1389,627"/>
+<area shape="rect" id="node21" href="$namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="1249,651,1369,693"/>
+<area shape="rect" id="node22" href="$namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="1249,717,1369,758"/>
+<area shape="rect" id="node23" href="$namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="1249,390,1369,431"/>
+<area shape="rect" id="node24" href="$namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="1249,521,1369,562"/>
+<area shape="rect" id="node25" href="$namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="1246,782,1373,823"/>
+<area shape="rect" id="node27" href="$namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="1239,455,1380,497"/>
+<area shape="rect" id="node20" href="$namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1437,561,1579,588"/>
+<area shape="rect" id="node26" href="$namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="1452,782,1564,823"/>
+<area shape="rect" id="node32" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ac18f8c423994b93276f5f33b22e53d41" title="RoR::GUI::SimUtils\l::PushNotification" alt="" coords="595,673,733,714"/>
+</map>

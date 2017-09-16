@@ -1,0 +1,8 @@
+<map id="source/main/gameplay/VehicleAI.h" name="source/main/gameplay/VehicleAI.h">
+<area shape="rect" id="node2" href="$_land_vehicle_simulation_8cpp.html" title="source/main/gameplay\l/LandVehicleSimulation.cpp" alt="" coords="5,97,187,138"/>
+<area shape="rect" id="node3" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="211,97,353,138"/>
+<area shape="rect" id="node4" href="$_beam_factory_8cpp.html" title="source/main/physics\l/BeamFactory.cpp" alt="" coords="378,97,520,138"/>
+<area shape="rect" id="node5" href="$_beam_forces_euler_8cpp.html" title="source/main/physics\l/BeamForcesEuler.cpp" alt="" coords="545,97,699,138"/>
+<area shape="rect" id="node6" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="725,97,867,138"/>
+<area shape="rect" id="node7" href="$_script_engine_8cpp.html" title="source/main/scripting\l/ScriptEngine.cpp" alt="" coords="892,97,1039,138"/>
+</map>

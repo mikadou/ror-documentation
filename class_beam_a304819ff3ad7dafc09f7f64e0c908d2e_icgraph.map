@@ -1,0 +1,7 @@
+<map id="Beam::getMinimalCameraRadius" name="Beam::getMinimalCameraRadius">
+<area shape="rect" id="node2" href="$class_camera_behavior_vehicle.html#ae4defc34198f6a82cfb86ede290d055f" title="CameraBehaviorVehicle\l::update" alt="" coords="288,5,451,46"/>
+<area shape="rect" id="node3" href="$class_camera_behavior_vehicle.html#ae7d045ecadf875c717d7318980228b57" title="CameraBehaviorVehicle\l::reset" alt="" coords="288,70,451,111"/>
+<area shape="rect" id="node5" href="$class_camera_behavior_vehicle_spline.html#a40f9e100be8f69c825f7ade503ba21ed" title="CameraBehaviorVehicleSpline\l::reset" alt="" coords="270,135,469,177"/>
+<area shape="rect" id="node4" href="$class_camera_behavior_vehicle.html#afa9373e339c7daaa524512dd45944503" title="CameraBehaviorVehicle\l::activate" alt="" coords="536,70,699,111"/>
+<area shape="rect" id="node6" href="$class_camera_behavior_vehicle_spline.html#acde6a5bb0ea7e85846a15ee908e28425" title="CameraBehaviorVehicleSpline\l::activate" alt="" coords="518,135,717,177"/>
+</map>

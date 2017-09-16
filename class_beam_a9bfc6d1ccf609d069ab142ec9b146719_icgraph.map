@@ -1,0 +1,11 @@
+<map id="Beam::getDirection" name="Beam::getDirection">
+<area shape="rect" id="node2" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="212,5,401,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="215,70,398,111"/>
+<area shape="rect" id="node5" href="$class_camera_behavior_vehicle.html#ae4defc34198f6a82cfb86ede290d055f" title="CameraBehaviorVehicle\l::update" alt="" coords="225,135,388,177"/>
+<area shape="rect" id="node6" href="$class_camera_behavior_vehicle.html#ad2ebe4719b6825c11719b5361e88780a" title="CameraBehaviorVehicle\l::mousePressed" alt="" coords="225,201,388,242"/>
+<area shape="rect" id="node7" href="$class_camera_behavior_vehicle_spline.html#ae30aef518419478d4c3ad73879eae6cd" title="CameraBehaviorVehicleSpline\l::update" alt="" coords="207,266,406,307"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_gfx_actor.html#a685843a3b391b9d76381a8947d6bfe03" title="RoR::GfxActor::UpdateVideo\lCameras" alt="" coords="211,331,403,373"/>
+<area shape="rect" id="node9" href="$class_overlay_wrapper.html#a0932f42417c63edc77c8ed486efa66c1" title="OverlayWrapper::UpdateAerialHUD" alt="" coords="192,397,421,424"/>
+<area shape="rect" id="node10" href="$class_overlay_wrapper.html#aac0eb0b030325b987c5085b0f12723ff" title="OverlayWrapper::UpdateMarineHUD" alt="" coords="189,448,424,475"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="473,339,687,365"/>
+</map>

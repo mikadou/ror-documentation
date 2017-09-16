@@ -1,0 +1,11 @@
+<map id="source/main/gui/panels/GUI_OpenSaveFileDialog.h" name="source/main/gui/panels/GUI_OpenSaveFileDialog.h">
+<area shape="rect" id="node3" href="$_dialog_8h.html" title="Dialog.h" alt="" coords="1111,96,1181,123"/>
+<area shape="rect" id="node4" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="1141,171,1243,197"/>
+<area shape="rect" id="node5" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1172,395,1307,421"/>
+<area shape="rect" id="node23" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1161,245,1281,272"/>
+<area shape="rect" id="node17" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1659,544,1812,571"/>
+<area shape="rect" id="node18" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1719,469,1861,496"/>
+<area shape="rect" id="node19" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1887,469,2057,496"/>
+<area shape="rect" id="node20" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2082,469,2163,496"/>
+<area shape="rect" id="node24" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1199,320,1280,347"/>
+</map>

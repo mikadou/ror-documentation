@@ -1,0 +1,19 @@
+<map id="source/main/gfx/OgreSubsystem.cpp" name="source/main/gfx/OgreSubsystem.cpp">
+<area shape="rect" id="node2" href="$_ogre_subsystem_8h.html" title="OGRE engine wrapper. " alt="" coords="799,80,925,107"/>
+<area shape="rect" id="node22" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="1262,80,1359,107"/>
+<area shape="rect" id="node23" href="$_settings_8h.html" title="Settings.h" alt="" coords="1270,155,1351,181"/>
+<area shape="rect" id="node25" href="$_error_utils_8h.html" title="ErrorUtils.h" alt="" coords="647,229,735,256"/>
+<area shape="rect" id="node26" href="$_language_8h.html" title="Language.h" alt="" coords="1375,155,1464,181"/>
+<area shape="rect" id="node29" href="$_ro_r_version_8h.html" title="RoRVersion.h" alt="" coords="1571,80,1675,107"/>
+<area shape="rect" id="node30" href="$_ro_r_window_event_utilities_8h.html" title="RoRWindowEventUtilities.h" alt="" coords="1053,80,1237,107"/>
+<area shape="rect" id="node32" href="$_utils_8h.html" title="Utils.h" alt="" coords="1486,80,1545,107"/>
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1172,304,1307,331"/>
+<area shape="rect" id="node15" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1659,453,1812,480"/>
+<area shape="rect" id="node16" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1719,379,1861,405"/>
+<area shape="rect" id="node17" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1887,379,2057,405"/>
+<area shape="rect" id="node18" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2082,379,2163,405"/>
+<area shape="rect" id="node24" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1303,229,1389,256"/>
+<area shape="rect" id="node34" href="$checked_8h.html" title="utf8/checked.h" alt="" coords="1941,155,2048,181"/>
+<area shape="rect" id="node38" href="$unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="1695,155,1817,181"/>
+<area shape="rect" id="node35" href="$core_8h.html" title="core.h" alt="" coords="1799,229,1856,256"/>
+</map>

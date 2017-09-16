@@ -1,0 +1,5 @@
+<map id="RoR::GUI::GamePauseMenu::IsVisible" name="RoR::GUI::GamePauseMenu::IsVisible">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#ae2c4e24ef46d42b2ff74472d3f1c0fab" title="RoR::GUIManager::IsVisible\l_GamePauseMenu" alt="" coords="248,34,437,75"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="486,5,669,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="718,41,933,68"/>
+</map>

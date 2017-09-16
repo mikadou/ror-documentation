@@ -1,0 +1,18 @@
+<map id="RoR::GUI::FrictionSettings::FrictionSettings" name="RoR::GUI::FrictionSettings::FrictionSettings">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#ae2f36bb2496942ef54f70a32b617574e" title="RoR::GUI::FrictionSettings\l::notifyHelpWindowButtonPressed" alt="" coords="235,57,458,98"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#ad1fbdeef906f93ca1147193f857311a1" title="RoR::GUI::FrictionSettings\l::event_btn_MouseButtonClick" alt="" coords="246,122,447,163"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#aba794ec888e0b38781df6d43843daedb" title="RoR::GUI::FrictionSettings\l::event_combo_grounds_eventCombo\lAccept" alt="" coords="507,187,749,243"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#afaf926fe8d2733a7253ee43303e11bed" title="RoR::GUI::FrictionSettings\l::event_edit_TextChange" alt="" coords="257,311,437,353"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a1fa16c1903a6437fd37b4b1c81524c9d" title="RoR::GUI::FrictionSettings\l::event_scroll_value" alt="" coords="257,377,437,418"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#ace2a240c0a4a7e86efb1b60d471e9cee" title="RoR::GUI::FrictionSettings\l::notifyWindowButtonPressed" alt="" coords="249,246,444,287"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a68f89f8c947082c37538b73bb2f1fa60" title="RoR::GUI::FrictionSettings\l::showHelp" alt="" coords="538,5,718,46"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a52b83cc66a654dfc82333dc546f22a58" title="RoR::GUI::FrictionSettings\l::updateControls" alt="" coords="811,135,991,177"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a78e80b3ab77b49947ca7253dbe9ee448" title="RoR::GUI::FrictionSettings\l::applyChanges" alt="" coords="538,122,718,163"/>
+<area shape="rect" id="node5" href="$_utils_8h.html#a23744b3f0e07a907bc9993afbcf37c2d" title="convertToMyGUIString" alt="" coords="823,12,979,39"/>
+<area shape="rect" id="node6" href="$_utils_8h.html#abe6f6cf9ad4e672e6f4db9fe552b6bcf" title="ANSI_TO_WCHAR" alt="" coords="1053,12,1192,39"/>
+<area shape="rect" id="node10" href="$class_collisions.html#a7840c7d5b2b56b4cc8f41778c0edb7a7" title="Collisions::getGroundModel\lByString" alt="" coords="810,201,993,242"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#af4e99e9b8a4f883ecb08028ac0f4bf5a" title="RoR::GUI::FrictionSettings\l::SetVisible" alt="" coords="538,266,718,307"/>
+<area shape="rect" id="node15" href="$class_collisions.html#a5a01ebfac678cb2f183b33fcb2c6545e" title="Collisions::getGroundModels" alt="" coords="807,267,996,293"/>
+<area shape="rect" id="node16" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="812,317,991,344"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_g_u_i_manager.html#aa9d9cf9d3a246eb3200f4a1c1e299b5b" title="RoR::GUIManager::UnfocusGui" alt="" coords="797,368,1005,395"/>
+</map>

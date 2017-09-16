@@ -1,0 +1,5 @@
+<map id="RoR::GUIManager::FrictionSettingsUpdateCollisions" name="RoR::GUIManager::FrictionSettingsUpdateCollisions">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="249,5,428,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_manager.html#a77612f0d37f4c7687a400e17daefe89e" title="RoR::GUIManager::GetFriction\lSettings" alt="" coords="237,57,440,98"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a1fece1fbdff4db9fda4c531c895dbbcf" title="RoR::GUI::FrictionSettings\l::setCollisions" alt="" coords="249,122,429,163"/>
+</map>

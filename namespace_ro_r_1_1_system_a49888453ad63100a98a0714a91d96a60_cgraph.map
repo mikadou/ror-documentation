@@ -1,0 +1,9 @@
+<map id="RoR::System::DetectBasePaths" name="RoR::System::DetectBasePaths">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#aac3a4e35a6ac5c652906ad3f5728a870" title="RoR::App::SetSysProcessDir" alt="" coords="281,56,477,83"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_system.html#a4f6a4082832d8cd99f20ca3ec81c7c28" title="RoR::System::GetParentDirectory" alt="" coords="267,5,490,32"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#a0e0b819c4266e90fbaaa882e1bbd1544" title="RoR::App::GetSysProcessDir" alt="" coords="280,107,477,133"/>
+<area shape="rect" id="node7" href="$_settings_8cpp.html#ae4c1dc836720e665da1d7480bc2523bc" title="FolderExists" alt="" coords="331,157,426,184"/>
+<area shape="rect" id="node8" href="$namespace_ro_r_1_1_app.html#a628afd4408d5b092a36e851b84f9ca9e" title="RoR::App::SetSysUserDir" alt="" coords="291,208,467,235"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a14508a8885a04713a5a39d5628be83c9" title="RoR::App::SetVarStr" alt="" coords="555,132,701,159"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_system.html#a8f8027bd776c0361c75849c27379dae3" title="RoR::System::IsSeparator" alt="" coords="539,5,717,32"/>
+</map>

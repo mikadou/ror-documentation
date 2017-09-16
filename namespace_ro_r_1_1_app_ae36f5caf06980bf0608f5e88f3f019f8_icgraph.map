@@ -1,0 +1,8 @@
+<map id="RoR::App::MpStateToStr" name="RoR::App::MpStateToStr">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a1da5e857897c5687065ec81c6b3f290d" title="RoR::App::SetActiveMpState" alt="" coords="229,5,424,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#ab8afb2167b40c6aea9e5be37ff985ac3" title="RoR::App::SetPendingMpState" alt="" coords="225,56,429,83"/>
+<area shape="rect" id="node4" href="$class_settings.html#aedfe597cc18de9ea1a028b55091c337d" title="Process command line arguments into settings. " alt="" coords="477,31,688,57"/>
+<area shape="rect" id="node7" href="$class_settings.html#aa53fb5b8f92e3639251b96554d2073a7" title="Settings::SetMpNetworkEnable" alt="" coords="480,81,685,108"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="736,31,787,57"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="835,31,909,57"/>
+</map>

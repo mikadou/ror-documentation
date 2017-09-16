@@ -1,0 +1,28 @@
+<map id="RegisterScriptAny_Generic" name="RegisterScriptAny_Generic">
+<area shape="rect" id="node2" href="$scriptany_8cpp.html#afec1820a7023e64288194fcb8f7fa807" title="ScriptAnyFactory_Generic" alt="" coords="246,5,421,32"/>
+<area shape="rect" id="node3" href="$scriptany_8cpp.html#a1e6176edbf3622cb195186066a68b738" title="ScriptAnyFactory2_Generic" alt="" coords="242,56,425,83"/>
+<area shape="rect" id="node4" href="$scriptany_8cpp.html#a0a0dde012b5fb1da76c3a5d1d13102a7" title="ScriptAny_AddRef_Generic" alt="" coords="242,107,425,133"/>
+<area shape="rect" id="node6" href="$scriptany_8cpp.html#a75d73090901bbe00e3071191e42037ec" title="ScriptAny_Release_Generic" alt="" coords="240,157,427,184"/>
+<area shape="rect" id="node8" href="$scriptany_8cpp.html#abab59a420ec2855fd7291f52cb31a8e4" title="ScriptAnyAssignment\l_Generic" alt="" coords="259,209,407,250"/>
+<area shape="rect" id="node9" href="$scriptany_8cpp.html#a1a6bd7c33472d5ba530322db546cc6d6" title="ScriptAny_Store_Generic" alt="" coords="249,275,418,301"/>
+<area shape="rect" id="node12" href="$scriptany_8cpp.html#ac83eb1f9846171d00c82374de90bf7ce" title="ScriptAny_StoreInt\l_Generic" alt="" coords="267,326,399,367"/>
+<area shape="rect" id="node13" href="$scriptany_8cpp.html#ad8b547d092e230ab032c7e91404c4144" title="ScriptAny_StoreFlt\l_Generic" alt="" coords="267,391,399,433"/>
+<area shape="rect" id="node14" href="$scriptany_8cpp.html#a6429c2c3b790a69ae731469c161c37a8" title="ScriptAny_Retrieve\l_Generic" alt="" coords="266,457,401,498"/>
+<area shape="rect" id="node16" href="$scriptany_8cpp.html#a7f0261c35d82061a3223261bcdc514d4" title="ScriptAny_RetrieveInt\l_Generic" alt="" coords="258,522,409,563"/>
+<area shape="rect" id="node17" href="$scriptany_8cpp.html#a66fc292daf8076ea3ca9d4fe5f7ef5ff" title="ScriptAny_RetrieveFlt\l_Generic" alt="" coords="258,587,409,629"/>
+<area shape="rect" id="node18" href="$scriptany_8cpp.html#a8fa1d5182ad9f0f3970d6a9f6bfe1e59" title="ScriptAny_GetRefCount\l_Generic" alt="" coords="252,653,415,694"/>
+<area shape="rect" id="node20" href="$scriptany_8cpp.html#aa586f7bd048086450eaed97a92d0ab03" title="ScriptAny_SetFlag_Generic" alt="" coords="242,719,425,745"/>
+<area shape="rect" id="node22" href="$scriptany_8cpp.html#a5ef98c12f45ebc46583691e62627f244" title="ScriptAny_GetFlag_Generic" alt="" coords="241,769,425,796"/>
+<area shape="rect" id="node24" href="$scriptany_8cpp.html#a9f4eef9a0d3c59b6a7872d11f8a52551" title="ScriptAny_EnumReferences\l_Generic" alt="" coords="240,821,427,862"/>
+<area shape="rect" id="node26" href="$scriptany_8cpp.html#a44d8402e06648d5420a664e5dbc9dd71" title="ScriptAny_ReleaseAllHandles\l_Generic" alt="" coords="235,886,432,927"/>
+<area shape="rect" id="node5" href="$class_c_script_any.html#a2ea13c5048888771a0778bfe9e831a21" title="CScriptAny::AddRef" alt="" coords="513,107,655,133"/>
+<area shape="rect" id="node7" href="$class_c_script_any.html#a3d96337d55b59872c004aa1a63ec7f8a" title="CScriptAny::Release" alt="" coords="511,157,657,184"/>
+<area shape="rect" id="node10" href="$class_c_script_any.html#ad136241bde0ebda30442a84a984e96c4" title="CScriptAny::Store" alt="" coords="520,367,648,393"/>
+<area shape="rect" id="node11" href="$class_c_script_any.html#a1219fbd83c442c3a4951642feed2a80f" title="CScriptAny::FreeObject" alt="" coords="737,624,898,651"/>
+<area shape="rect" id="node15" href="$class_c_script_any.html#a93c5e5b50287ad8e936c9ff6002dbdb1" title="CScriptAny::Retrieve" alt="" coords="511,529,657,556"/>
+<area shape="rect" id="node19" href="$class_c_script_any.html#a1eb95250892a642ab3bced5e29b0dd83" title="CScriptAny::GetRefCount" alt="" coords="497,660,671,687"/>
+<area shape="rect" id="node21" href="$class_c_script_any.html#a4e2ebd0012e60cdd7f10bdcca9fb4da8" title="CScriptAny::SetFlag" alt="" coords="513,719,655,745"/>
+<area shape="rect" id="node23" href="$class_c_script_any.html#acdf837a96316767f083aed085546e445" title="CScriptAny::GetFlag" alt="" coords="513,769,655,796"/>
+<area shape="rect" id="node25" href="$class_c_script_any.html#af44d09b533bd16bb9ea74ca753b8e68b" title="CScriptAny::EnumReferences" alt="" coords="485,828,683,855"/>
+<area shape="rect" id="node27" href="$class_c_script_any.html#aed0b83568bbe54b9578f1e966e81d6df" title="CScriptAny::ReleaseAllHandles" alt="" coords="480,887,688,913"/>
+</map>

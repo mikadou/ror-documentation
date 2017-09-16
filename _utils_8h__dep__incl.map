@@ -1,0 +1,42 @@
+<map id="source/main/utils/Utils.h" name="source/main/utils/Utils.h">
+<area shape="rect" id="node2" href="$_character_8cpp.html" title="source/main/gameplay\l/Character.cpp" alt="" coords="5,87,157,129"/>
+<area shape="rect" id="node3" href="$_chat_system_8cpp.html" title="source/main/gameplay\l/ChatSystem.cpp" alt="" coords="182,87,335,129"/>
+<area shape="rect" id="node4" href="$_replay_8cpp.html" title="source/main/gameplay\l/Replay.cpp" alt="" coords="359,87,512,129"/>
+<area shape="rect" id="node5" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="537,87,697,129"/>
+<area shape="rect" id="node6" href="$_skin_manager_8cpp.html" title="source/main/gameplay\l/SkinManager.cpp" alt="" coords="722,87,875,129"/>
+<area shape="rect" id="node7" href="$_torque_curve_8cpp.html" title="source/main/gameplay\l/TorqueCurve.cpp" alt="" coords="899,87,1052,129"/>
+<area shape="rect" id="node8" href="$_ogre_subsystem_8cpp.html" title="source/main/gfx/OgreSubsystem.cpp" alt="" coords="1077,95,1315,121"/>
+<area shape="rect" id="node9" href="$_skidmark_8cpp.html" title="source/main/gfx/Skidmark.cpp" alt="" coords="1339,95,1537,121"/>
+<area shape="rect" id="node10" href="$_dash_board_manager_8cpp.html" title="source/main/gui/DashBoard\lManager.cpp" alt="" coords="1562,87,1744,129"/>
+<area shape="rect" id="node11" href="$_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="1769,95,2005,121"/>
+<area shape="rect" id="node12" href="$_g_u_i___debug_options_8cpp.html" title="source/main/gui/panels\l/GUI_DebugOptions.cpp" alt="" coords="2031,87,2195,129"/>
+<area shape="rect" id="node13" href="$_g_u_i___friction_settings_8cpp.html" title="source/main/gui/panels\l/GUI_FrictionSettings.cpp" alt="" coords="2220,87,2393,129"/>
+<area shape="rect" id="node14" href="$_g_u_i___game_about_8cpp.html" title="source/main/gui/panels\l/GUI_GameAbout.cpp" alt="" coords="2418,87,2573,129"/>
+<area shape="rect" id="node15" href="$_g_u_i___game_chat_box_8cpp.html" title="source/main/gui/panels\l/GUI_GameChatBox.cpp" alt="" coords="2599,87,2767,129"/>
+<area shape="rect" id="node16" href="$_g_u_i___game_console_8cpp.html" title="source/main/gui/panels\l/GUI_GameConsole.cpp" alt="" coords="2791,87,2955,129"/>
+<area shape="rect" id="node17" href="$_g_u_i___game_settings_8cpp.html" title="source/main/gui/panels\l/GUI_GameSettings.cpp" alt="" coords="2980,87,3144,129"/>
+<area shape="rect" id="node18" href="$_g_u_i___loading_window_8cpp.html" title="source/main/gui/panels\l/GUI_LoadingWindow.cpp" alt="" coords="3170,87,3344,129"/>
+<area shape="rect" id="node19" href="$_g_u_i___main_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MainSelector.cpp" alt="" coords="3369,87,3527,129"/>
+<area shape="rect" id="node20" href="$_g_u_i___message_box_8cpp.html" title="source/main/gui/panels\l/GUI_MessageBox.cpp" alt="" coords="3551,87,3709,129"/>
+<area shape="rect" id="node21" href="$_g_u_i___multiplayer_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MultiplayerSelector.cpp" alt="" coords="3734,87,3927,129"/>
+<area shape="rect" id="node22" href="$_g_u_i___sim_utils_8cpp.html" title="source/main/gui/panels\l/GUI_SimUtils.cpp" alt="" coords="3951,87,4107,129"/>
+<area shape="rect" id="node23" href="$_g_u_i___texture_tool_window_8cpp.html" title="source/main/gui/panels\l/GUI_TextureToolWindow.cpp" alt="" coords="4131,87,4329,129"/>
+<area shape="rect" id="node24" href="$_g_u_i___top_menubar_8cpp.html" title="source/main/gui/panels\l/GUI_TopMenubar.cpp" alt="" coords="4354,87,4509,129"/>
+<area shape="rect" id="node25" href="$_g_u_i___vehicle_description_8cpp.html" title="source/main/gui/panels\l/GUI_VehicleDescription.cpp" alt="" coords="4534,87,4724,129"/>
+<area shape="rect" id="node26" href="$main_8cpp.html" title="source/main/main.cpp" alt="" coords="4749,95,4899,121"/>
+<area shape="rect" id="node27" href="$_main_menu_8cpp.html" title="source/main/MainMenu.cpp" alt="" coords="4923,95,5105,121"/>
+<area shape="rect" id="node28" href="$_beam_factory_8cpp.html" title="source/main/physics\l/BeamFactory.cpp" alt="" coords="5130,87,5272,129"/>
+<area shape="rect" id="node29" href="$_cmd_key_inertia_8cpp.html" title="source/main/physics\l/CmdKeyInertia.cpp" alt="" coords="5297,87,5439,129"/>
+<area shape="rect" id="node30" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="5463,87,5605,129"/>
+<area shape="rect" id="node31" href="$_cache_system_8cpp.html" title="source/main/resources\l/CacheSystem.cpp" alt="" coords="5631,87,5784,129"/>
+<area shape="rect" id="node32" href="$_content_manager_8cpp.html" title="source/main/resources\l/ContentManager.cpp" alt="" coords="5809,87,5963,129"/>
+<area shape="rect" id="node33" href="$_rig_def___parser_8cpp.html" title="source/main/resources\l/rig_def_fileformat/RigDef\l_Parser.cpp" alt="" coords="5988,80,6159,136"/>
+<area shape="rect" id="node34" href="$_terrn2_fileformat_8cpp.html" title="source/main/resources\l/terrn2_fileformat/Terrn2Fileformat.cpp" alt="" coords="6183,87,6427,129"/>
+<area shape="rect" id="node35" href="$_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="6452,87,6599,129"/>
+<area shape="rect" id="node36" href="$_terrain_geometry_manager_8cpp.html" title="source/main/terrain\l/TerrainGeometryManager.cpp" alt="" coords="6623,87,6821,129"/>
+<area shape="rect" id="node37" href="$_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="6845,87,6985,129"/>
+<area shape="rect" id="node38" href="$_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="7011,87,7189,129"/>
+<area shape="rect" id="node39" href="$_config_file_8cpp.html" title="source/main/utils/Config\lFile.cpp" alt="" coords="7213,87,7376,129"/>
+<area shape="rect" id="node40" href="$_settings_8cpp.html" title="source/main/utils/Settings.cpp" alt="" coords="7401,95,7599,121"/>
+<area shape="rect" id="node41" href="$_utils_8cpp.html" title="source/main/utils/Utils.cpp" alt="" coords="7623,95,7800,121"/>
+</map>

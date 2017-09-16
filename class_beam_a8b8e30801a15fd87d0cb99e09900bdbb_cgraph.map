@@ -1,0 +1,14 @@
+<map id="Beam::hookToggle" name="Beam::hookToggle">
+<area shape="rect" id="node2" href="$namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="184,208,285,235"/>
+<area shape="rect" id="node3" href="$namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="333,208,411,235"/>
+<area shape="rect" id="node4" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="459,208,637,235"/>
+<area shape="rect" id="node5" href="$namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="686,5,845,46"/>
+<area shape="rect" id="node7" href="$namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="705,70,825,111"/>
+<area shape="rect" id="node8" href="$namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="705,135,825,177"/>
+<area shape="rect" id="node9" href="$namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="705,201,825,242"/>
+<area shape="rect" id="node10" href="$namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="705,266,825,307"/>
+<area shape="rect" id="node11" href="$namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="702,331,829,373"/>
+<area shape="rect" id="node13" href="$namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="695,397,836,438"/>
+<area shape="rect" id="node6" href="$namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="893,143,1035,169"/>
+<area shape="rect" id="node12" href="$namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="908,331,1020,373"/>
+</map>

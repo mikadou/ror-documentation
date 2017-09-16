@@ -1,0 +1,4 @@
+<map id="AeroEngine::getRPMpc" name="AeroEngine::getRPMpc">
+<area shape="rect" id="node2" href="$class_overlay_wrapper.html#a0932f42417c63edc77c8ed486efa66c1" title="OverlayWrapper::UpdateAerialHUD" alt="" coords="213,5,443,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="491,5,706,32"/>
+</map>

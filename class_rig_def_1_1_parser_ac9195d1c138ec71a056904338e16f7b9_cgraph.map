@@ -1,0 +1,13 @@
+<map id="RigDef::Parser::ParseFlaresUnified" name="RigDef::Parser::ParseFlaresUnified">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="518,133,701,174"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#a57b7efa0a566ae343d6148a05d420eae" title="RigDef::Parser::GetArgNodeRef" alt="" coords="243,292,453,319"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="522,249,697,276"/>
+<area shape="rect" id="node8" href="$class_rig_def_1_1_parser.html#ae77a4970494c116e98a92be7a0160a16" title="RigDef::Parser::GetArgFloat" alt="" coords="255,5,441,32"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a2f5b0003ac64bcfb1341890e4c0657b2" title="RigDef::Parser::GetArgFlareType" alt="" coords="240,81,456,108"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_parser.html#a635bdc3c7493275fc05f91d51c11945b" title="RigDef::Parser::GetArgInt" alt="" coords="261,191,435,217"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="763,140,957,167"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="504,300,715,327"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="770,293,950,334"/>
+<area shape="rect" id="node10" href="$class_rig_def_1_1_parser.html#ad50b22d8731d2e568bf1eb09796ba606" title="RigDef::Parser::GetArgChar" alt="" coords="516,81,703,108"/>
+<area shape="rect" id="node12" href="$class_rig_def_1_1_parser.html#a81784a06397ed377c39759981d6c700b" title="RigDef::Parser::GetArgLong" alt="" coords="516,199,703,225"/>
+</map>

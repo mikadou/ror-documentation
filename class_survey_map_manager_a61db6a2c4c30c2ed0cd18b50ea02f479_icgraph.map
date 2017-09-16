@@ -1,0 +1,5 @@
+<map id="SurveyMapManager::setMapCenter" name="SurveyMapManager::setMapCenter">
+<area shape="rect" id="node2" href="$class_survey_map_manager.html#ac3efdcd86d26dcf661c4ca47a5063d01" title="SurveyMapManager::setMap\lCenter" alt="" coords="243,5,432,46"/>
+<area shape="rect" id="node3" href="$class_survey_map_manager.html#a49258bae8179a976b3c96b4b8daee682" title="SurveyMapManager::Update" alt="" coords="243,71,431,97"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="481,71,695,97"/>
+</map>

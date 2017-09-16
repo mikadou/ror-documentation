@@ -1,0 +1,8 @@
+<map id="source/main/gui/panels/GUI_FrictionSettings.h" name="source/main/gui/panels/GUI_FrictionSettings.h">
+<area shape="rect" id="node2" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1172,171,1307,197"/>
+<area shape="rect" id="node20" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1238,96,1324,123"/>
+<area shape="rect" id="node14" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1659,320,1812,347"/>
+<area shape="rect" id="node15" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1719,245,1861,272"/>
+<area shape="rect" id="node16" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1887,245,2057,272"/>
+<area shape="rect" id="node17" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2082,245,2163,272"/>
+</map>

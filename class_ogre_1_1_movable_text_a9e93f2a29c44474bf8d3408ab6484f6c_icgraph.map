@@ -1,0 +1,8 @@
+<map id="Ogre::MovableText::setCaption" name="Ogre::MovableText::setCaption">
+<area shape="rect" id="node2" href="$class_character.html#a018cfc89bdc499ff1e1025995bfd048c" title="Character::updateLabels" alt="" coords="449,35,613,61"/>
+<area shape="rect" id="node7" href="$class_character.html#a529210827a59717cd3f7ab147a82dd94" title="Character::updateNetLabelSize" alt="" coords="195,60,399,87"/>
+<area shape="rect" id="node3" href="$class_character.html#a2b381f85738c4ede878be18925e1ce81" title="Character::Character" alt="" coords="669,5,813,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_character_factory.html#a250a5452e7d730ab122c07a7491c80ab" title="RoR::CharacterFactory\l::update" alt="" coords="662,57,821,98"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="870,57,1053,98"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1102,64,1317,91"/>
+</map>

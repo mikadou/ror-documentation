@@ -1,0 +1,5 @@
+<map id="HeatHaze::setEnable" name="HeatHaze::setEnable">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="200,5,461,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="509,5,560,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="609,5,682,32"/>
+</map>

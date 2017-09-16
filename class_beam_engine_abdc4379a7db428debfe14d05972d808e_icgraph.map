@@ -1,0 +1,5 @@
+<map id="BeamEngine::getIdleMixture" name="BeamEngine::getIdleMixture">
+<area shape="rect" id="node2" href="$class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="241,5,383,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="433,5,615,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="665,5,879,32"/>
+</map>

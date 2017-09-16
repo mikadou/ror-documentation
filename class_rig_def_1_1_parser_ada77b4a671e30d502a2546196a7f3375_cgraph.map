@@ -1,0 +1,8 @@
+<map id="RigDef::Parser::ParseCameras" name="RigDef::Parser::ParseCameras">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="273,5,455,46"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#a57b7efa0a566ae343d6148a05d420eae" title="RigDef::Parser::GetArgNodeRef" alt="" coords="259,71,469,97"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="777,12,970,39"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="517,67,728,93"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="535,117,710,144"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="783,63,963,105"/>
+</map>

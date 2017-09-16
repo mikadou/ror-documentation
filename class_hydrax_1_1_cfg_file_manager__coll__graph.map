@@ -1,0 +1,27 @@
+<map id="Hydrax::CfgFileManager" name="Hydrax::CfgFileManager">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_hydrax.html" title="Hydrax::Hydrax" alt="" coords="912,425,1027,452"/>
+<area shape="rect" id="node3" href="$class_hydrax_1_1_mesh.html" title="Hydrax::Mesh" alt="" coords="1267,289,1371,316"/>
+<area shape="rect" id="node6" href="$class_hydrax_1_1_material_manager.html" title="Hydrax::MaterialManager" alt="" coords="1235,1367,1403,1393"/>
+<area shape="rect" id="node10" href="$class_hydrax_1_1_decals_manager.html" title="Hydrax::DecalsManager" alt="" coords="1237,381,1400,408"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_rtt_manager.html" title="Hydrax::RttManager" alt="" coords="1249,849,1389,876"/>
+<area shape="rect" id="node22" href="$class_hydrax_1_1_hydrax_1_1_device_listener.html" title="Hydrax::Hydrax::DeviceListener" alt="" coords="1214,75,1423,101"/>
+<area shape="rect" id="node26" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html" title="Hydrax::GPUNormalMapManager" alt="" coords="1669,500,1888,527"/>
+<area shape="rect" id="node27" href="$class_hydrax_1_1_god_rays_manager.html" title="Hydrax::GodRaysManager" alt="" coords="2353,587,2530,613"/>
+<area shape="rect" id="node31" href="$class_hydrax_1_1_texture_manager.html" title="Hydrax::TextureManager" alt="" coords="1235,219,1402,245"/>
+<area shape="rect" id="node4" href="$struct_hydrax_1_1_mesh_1_1_options.html" title="Hydrax::Mesh::Options" alt="" coords="216,233,373,260"/>
+<area shape="rect" id="node24" href="$class_hydrax_1_1_module_1_1_module.html" title="Hydrax::Module::Module" alt="" coords="563,233,727,260"/>
+<area shape="rect" id="node5" href="$struct_hydrax_1_1_size.html" title="Hydrax::Size" alt="" coords="5,372,104,399"/>
+<area shape="rect" id="node12" href="$struct_hydrax_1_1_rtt_manager_1_1_rtt_options.html" title="Hydrax::RttManager\l::RttOptions" alt="" coords="398,577,538,618"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_material_manager_1_1_underwater_compositor_listener.html" title="Hydrax::MaterialManager\l::UnderwaterCompositorListener" alt="" coords="1673,1455,1884,1497"/>
+<area shape="rect" id="node9" href="$struct_hydrax_1_1_material_manager_1_1_options.html" title="Hydrax::MaterialManager\l::Options" alt="" coords="885,1359,1053,1401"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener.html" title="Hydrax::RttManager\l::CReflectionListener" alt="" coords="2107,1013,2253,1054"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener_1_1_c_reflection_queue_listener.html" title="Hydrax::RttManager\l::CReflectionListener\l::CReflectionQueueListener" alt="" coords="1687,688,1870,744"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_rtt_manager_1_1_c_refraction_listener.html" title="Hydrax::RttManager\l::CRefractionListener" alt="" coords="1705,842,1852,883"/>
+<area shape="rect" id="node18" href="$class_hydrax_1_1_rtt_manager_1_1_c_g_p_u_normal_map_listener.html" title="Hydrax::RttManager\l::CGPUNormalMapListener" alt="" coords="1687,1181,1870,1222"/>
+<area shape="rect" id="node19" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_listener.html" title="Hydrax::RttManager\l::CDepthListener" alt="" coords="1709,933,1849,974"/>
+<area shape="rect" id="node21" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_reflection_listener.html" title="Hydrax::RttManager\l::CDepthReflectionListener" alt="" coords="1689,1057,1869,1098"/>
+<area shape="rect" id="node30" href="$class_hydrax_1_1_god_rays_manager_1_1_depth_map_listener.html" title="Hydrax::GodRaysManager\l::DepthMapListener" alt="" coords="2702,625,2879,666"/>
+<area shape="rect" id="node25" href="$class_hydrax_1_1_noise_1_1_noise.html" title="Hydrax::Noise::Noise" alt="" coords="221,88,369,115"/>
+<area shape="rect" id="node28" href="$class_hydrax_1_1_noise_1_1_perlin.html" title="Hydrax::Noise::Perlin" alt="" coords="2107,468,2253,495"/>
+<area shape="rect" id="node29" href="$struct_hydrax_1_1_noise_1_1_perlin_1_1_options.html" title="Hydrax::Noise::Perlin\l::Options" alt="" coords="1705,434,1852,475"/>
+</map>

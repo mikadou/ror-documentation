@@ -1,0 +1,8 @@
+<map id="TerrainManager::getSkyManager" name="TerrainManager::getSkyManager">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="285,5,467,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="537,71,751,97"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_gfx_envmap.html#abebfbcfdf81556f8ecd32e68ad6bb9b1" title="RoR::GfxEnvmap::UpdateEnvMap" alt="" coords="264,121,488,148"/>
+<area shape="rect" id="node5" href="$class_game_script.html#a3ab50ba011a260baf9381c160fc5ed2d" title="GameScript::getCaelumTime" alt="" coords="281,172,471,199"/>
+<area shape="rect" id="node6" href="$class_game_script.html#a4b4ed92127242c059a96e42a4380ef23" title="GameScript::setCaelumTime" alt="" coords="281,223,471,249"/>
+<area shape="rect" id="node7" href="$class_game_script.html#a233230f702dd1b05f49a85e61186ac1c" title="GameScript::getCaelumAvailable" alt="" coords="269,273,483,300"/>
+</map>

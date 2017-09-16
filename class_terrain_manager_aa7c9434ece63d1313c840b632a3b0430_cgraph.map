@@ -1,0 +1,19 @@
+<map id="TerrainManager::initWater" name="TerrainManager::initWater">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a02caa3283775ee9aae51910208d3e7cc" title="RoR::App::GetGfxWaterMode" alt="" coords="227,52,424,79"/>
+<area shape="rect" id="node3" href="$class_terrain_geometry_manager.html#a69fd1eadfb9aecc946ce1cd660da6ee2" title="TerrainGeometryManager\l::getTerrainGroup" alt="" coords="241,103,410,145"/>
+<area shape="rect" id="node4" href="$class_hydrax_water.html#a5b29bf463132a153bd3f330ee2449fa2" title="HydraxWater::GetHydrax" alt="" coords="240,169,411,196"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#a572279649449549c7be3ef809221fbae" title="Hydrax::Hydrax::getMaterial\lManager" alt="" coords="232,221,419,262"/>
+<area shape="rect" id="node6" href="$class_hydrax_1_1_material_manager.html#ab70527e20f62a739a738773173c7966f" title="Hydrax::MaterialManager\l::addDepthTechnique" alt="" coords="241,286,409,327"/>
+<area shape="rect" id="node18" href="$class_i_water.html#a765dee3032e94499aca869e24c321f22" title="IWater::setHeight" alt="" coords="263,352,388,379"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_material_manager.html#adb84a2034180ce0434b02d8f1b4aac85" title="Hydrax::MaterialManager\l::_createDepthMaterial" alt="" coords="472,255,640,297"/>
+<area shape="rect" id="node8" href="$class_hydrax_1_1_material_manager.html#ae7b2cfea68cac81f2a366f005410e0d9" title="Hydrax::MaterialManager\l::_isComponent" alt="" coords="712,5,880,46"/>
+<area shape="rect" id="node12" href="$class_hydrax_1_1_hydrax.html#a011da649ae072cce9c6db28620b67a42" title="Hydrax::Hydrax::getPosition" alt="" coords="703,71,889,97"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_hydrax.html#a99b530dca1b0ba95e43d4deeec01d7d1" title="Hydrax::Hydrax::getPlanes\lError" alt="" coords="706,122,886,163"/>
+<area shape="rect" id="node14" href="$class_hydrax_1_1_hydrax.html#a03b8b82e6223f7e3ec47d845957ec5e3" title="Hydrax::Hydrax::getDepth\lLimit" alt="" coords="709,318,883,359"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_hydrax.html#a11c8fdf94b2cd7e7a4d52caff5e83b29" title="Hydrax::Hydrax::getDistLimit" alt="" coords="700,384,892,411"/>
+<area shape="rect" id="node16" href="$class_hydrax_1_1_hydrax.html#a4e9359d0ee14a3f1aae1776b7144bfab" title="Hydrax::Hydrax::getCaustics\lScale" alt="" coords="700,435,892,477"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_hydrax.html#a608b120b0ee226cf85b1c5a1720f65a6" title="Hydrax::Hydrax::getCausticsEnd" alt="" coords="689,501,903,528"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_material_manager.html#a648e7cd626194ea34c31a4bf422cdf4d" title="Hydrax::MaterialManager\l::getMaterial" alt="" coords="712,253,880,294"/>
+<area shape="rect" id="node10" href="$class_hydrax_1_1_material_manager.html#a9374e09a2d918becab5db16240d2b8e1" title="Hydrax::MaterialManager\l::fillGpuProgramsToPass" alt="" coords="712,187,880,229"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_material_manager.html#ac0f7c351a7df142a04023c3409d6d871" title="Hydrax::MaterialManager\l::createGpuProgram" alt="" coords="952,187,1120,229"/>
+</map>

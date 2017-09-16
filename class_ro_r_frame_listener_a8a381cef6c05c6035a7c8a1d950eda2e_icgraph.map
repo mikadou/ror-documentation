@@ -1,0 +1,4 @@
+<map id="RoRFrameListener::TeleportPlayerXZ" name="RoRFrameListener::TeleportPlayerXZ">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#ac008aab0ca2d7d5cc6ab54db3ce62ca4" title="RoR::GUI::TeleportWindow\l::MinimapMouseClick" alt="" coords="241,5,423,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a09839bd0d122825f6ae2fbd75cd8bfcb" title="RoR::GUI::TeleportWindow\l::TeleportWindow" alt="" coords="473,5,655,46"/>
+</map>

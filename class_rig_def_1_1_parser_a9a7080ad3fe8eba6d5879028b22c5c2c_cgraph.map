@@ -1,0 +1,7 @@
+<map id="RigDef::Parser::Finalize" name="RigDef::Parser::Finalize">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a9dfba6b6520265a6bc20919f0d06b9fb" title="RigDef::Parser::ExitSections" alt="" coords="217,5,407,32"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="222,57,402,98"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_sequential_importer.html#a69601c62b1bf9030cd2e2b03a926bc04" title="Traverse whole rig definition and resolve all node references. " alt="" coords="222,122,402,163"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="457,5,650,32"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_sequential_importer.html#aaabc36a84be7e26a7d0790f04fa882c1" title="RigDef::SequentialImporter\l::ProcessModule" alt="" coords="463,122,643,163"/>
+</map>

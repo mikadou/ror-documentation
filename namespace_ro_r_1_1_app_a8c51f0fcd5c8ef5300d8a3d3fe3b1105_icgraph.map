@@ -1,0 +1,19 @@
+<map id="RoR::App::SetVarInt" name="RoR::App::SetVarInt">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a67c32cae8c65f14cf3734f3f558c2687" title="RoR::App::SetMpServerPort" alt="" coords="217,56,405,83"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#a9e1434f67992a1d9c46bc10958975292" title="RoR::App::SetGfxExternCamMode" alt="" coords="197,107,424,133"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#a5fe83fa5aad9e37f59f4926ee5032620" title="RoR::App::SetGfxEnvmapRate" alt="" coords="208,157,413,184"/>
+<area shape="rect" id="node11" href="$namespace_ro_r_1_1_app.html#a0c48f0eb7ac74a2b04306d9b4168e368" title="RoR::App::SetGfxSkidmarksMode" alt="" coords="473,208,695,235"/>
+<area shape="rect" id="node12" href="$namespace_ro_r_1_1_app.html#aa869b0074c856dd65a5d133cd71e58d0" title="RoR::App::SetGfxParticlesMode" alt="" coords="478,259,690,285"/>
+<area shape="rect" id="node13" href="$namespace_ro_r_1_1_app.html#a49a3533e832b7c6299cd151045bd4f14" title="RoR::App::SetSimReplayLength" alt="" coords="479,309,689,336"/>
+<area shape="rect" id="node14" href="$namespace_ro_r_1_1_app.html#aa7250d2de34adb840dda0c50267b91f1" title="RoR::App::SetSimReplayStepping" alt="" coords="473,360,695,387"/>
+<area shape="rect" id="node15" href="$namespace_ro_r_1_1_app.html#a6febc72fc7e17315bafce0b1f2b8c3dd" title="RoR::App::SetIoOutGaugeMode" alt="" coords="205,411,416,437"/>
+<area shape="rect" id="node16" href="$namespace_ro_r_1_1_app.html#a9d58934abcf5ed3a238847baf9f3025b" title="RoR::App::SetIoOutGaugePort" alt="" coords="209,461,412,488"/>
+<area shape="rect" id="node17" href="$namespace_ro_r_1_1_app.html#a09979afe975b6b90f215206665b337b1" title="RoR::App::SetIoOutGaugeId" alt="" coords="216,512,405,539"/>
+<area shape="rect" id="node18" href="$namespace_ro_r_1_1_app.html#a5042bda0bd80b94332dd185456301efa" title="RoR::App::SetGfxFpsLimit" alt="" coords="221,563,400,589"/>
+<area shape="rect" id="node3" href="$class_settings.html#aedfe597cc18de9ea1a028b55091c337d" title="Process command line arguments into settings. " alt="" coords="479,5,689,32"/>
+<area shape="rect" id="node6" href="$class_settings.html#aa27b8db941ea9fa77ffff67c80b1d5be" title="Settings::ParseGlobalVar\lSetting" alt="" coords="745,302,914,343"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="804,5,855,32"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="963,5,1037,32"/>
+<area shape="rect" id="node8" href="$_settings_8h.html#a4623b79b91adb167fc2acf6fb2bc51fe" title="App__SetExtcamMode" alt="" coords="506,107,662,133"/>
+<area shape="rect" id="node10" href="$_settings_8cpp.html#a3c48c77ebdfecc21ae8ef384f005e1bf" title="App__SetGfxEnvmapRate" alt="" coords="496,157,672,184"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="RoR::SceneMouse::mouseMoved" name="RoR::SceneMouse::mouseMoved">
+<area shape="rect" id="node2" href="$class_camera_manager.html#a4cc2781595b0f926f1dbd338b988c35f" title="CameraManager::mouseMoved" alt="" coords="282,5,486,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_scene_mouse.html#ac09143f60df04b55807fbe8550404b00" title="RoR::SceneMouse::getMouseRay" alt="" coords="273,56,495,83"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="287,107,481,149"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_beam_factory.html#a4941682a48735d61f13f27b67a4c0b8e" title="RoR::BeamFactory::getTrucks" alt="" coords="283,173,485,200"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_beam_factory.html#a869e76f2a6708166204319cf355b3398" title="RoR::BeamFactory::getTruck\lCount" alt="" coords="287,225,481,266"/>
+<area shape="rect" id="node7" href="$class_beam.html#a8b8e30801a15fd87d0cb99e09900bdbb" title="Beam::hookToggle" alt="" coords="319,291,449,317"/>
+<area shape="rect" id="node20" href="$class_ro_r_1_1_scene_mouse.html#a7a0d8c6d6ebe7f330e27f7bab0eb18d9" title="RoR::SceneMouse::release\lMousePick" alt="" coords="293,342,475,383"/>
+<area shape="rect" id="node8" href="$namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="593,291,695,317"/>
+<area shape="rect" id="node9" href="$namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="792,291,869,317"/>
+<area shape="rect" id="node10" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="917,291,1096,317"/>
+<area shape="rect" id="node11" href="$namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="1145,87,1303,129"/>
+<area shape="rect" id="node13" href="$namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="1164,153,1284,194"/>
+<area shape="rect" id="node14" href="$namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="1164,218,1284,259"/>
+<area shape="rect" id="node15" href="$namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="1164,283,1284,325"/>
+<area shape="rect" id="node16" href="$namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="1164,349,1284,390"/>
+<area shape="rect" id="node17" href="$namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="1161,414,1287,455"/>
+<area shape="rect" id="node19" href="$namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="1153,479,1295,521"/>
+<area shape="rect" id="node12" href="$namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1352,225,1493,252"/>
+<area shape="rect" id="node18" href="$namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="1367,414,1479,455"/>
+<area shape="rect" id="node21" href="$namespace_ro_r_1_1_app.html#a7d08f57d04e928e5acd0258383a53efc" title="RoR::App::GetActiveSimState" alt="" coords="544,345,744,372"/>
+<area shape="rect" id="node22" href="$class_beam.html#a465164195a8158babeaa9506f91d52de" title="Beam::mouseMove" alt="" coords="577,396,711,423"/>
+</map>

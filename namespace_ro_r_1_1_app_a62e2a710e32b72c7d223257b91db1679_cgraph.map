@@ -1,0 +1,5 @@
+<map id="RoR::App::SetGfxVegetationMode" name="RoR::App::SetGfxVegetationMode">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ae7ca05a9e2c04da99c1305919b3002b3" title="RoR::App::SetVarEnum" alt="" coords="297,5,460,32"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#ab79168a6eb435a7bc3732206f96206a8" title="RoR::App::GfxVegetationMode\lToStr" alt="" coords="277,57,480,98"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a3492dc6307a9d930ac73578e0d1f005e" title="RoR::App::LogVarUpdate" alt="" coords="528,5,699,32"/>
+</map>

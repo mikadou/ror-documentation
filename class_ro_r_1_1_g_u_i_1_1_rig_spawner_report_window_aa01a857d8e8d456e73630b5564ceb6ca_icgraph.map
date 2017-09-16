@@ -1,0 +1,5 @@
+<map id="RoR::GUI::RigSpawnerReportWindow::SetRigLoadingReport" name="RoR::GUI::RigSpawnerReportWindow::SetRigLoadingReport">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#a5dec5159b29af2d75331ed05ae729eae" title="RoR::GUIManager::AddRigLoading\lReport" alt="" coords="256,5,483,46"/>
+<area shape="rect" id="node3" href="$class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="531,12,656,39"/>
+<area shape="rect" id="node4" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="704,12,803,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RoR::GUIManager::AdjustMainMenuPosition" name="RoR::GUIManager::AdjustMainMenuPosition">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="259,5,461,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="285,57,435,98"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_game_main_menu.html#a166e66f4c854383407a2633e019a9681" title="RoR::GUI::GameMainMenu\l::GetHeight" alt="" coords="268,122,452,163"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_game_main_menu.html#a1653b19df9892e3ee1c23d08c3b1041b" title="RoR::GUI::GameMainMenu\l::SetPosition" alt="" coords="268,187,452,229"/>
+</map>

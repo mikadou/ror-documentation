@@ -1,0 +1,37 @@
+<map id="RoR::ConfigFile::GetStringEx" name="RoR::ConfigFile::GetStringEx">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_terrn2_parser.html#aaf74ce663f16609faf6f139d4bf256e4" title="RoR::Terrn2Parser::\lLoadTerrn2" alt="" coords="267,5,407,46"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_terrn2_parser.html#a429ed59869305a1fee5cf6a14d953d21" title="RoR::Terrn2Parser::\lProcessTeleport" alt="" coords="267,70,407,111"/>
+<area shape="rect" id="node10" href="$class_local_storage.html#a69a915ab4ac7cbe08e36e2e1935c220b" title="LocalStorage::get" alt="" coords="275,136,399,163"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_config_file.html#a958d11a898703248fb908127888b85c0" title="RoR::ConfigFile::GetString" alt="" coords="248,187,427,213"/>
+<area shape="rect" id="node17" href="$class_improved_config_file.html#a5ac0b10fd60f3c9fcf758ed402287d78" title="ImprovedConfigFile\l::getSettingRadian" alt="" coords="270,238,405,279"/>
+<area shape="rect" id="node20" href="$class_improved_config_file.html#a41981e09cefdedd05285654eedce5963" title="ImprovedConfigFile\l::getSettingBool" alt="" coords="270,303,405,345"/>
+<area shape="rect" id="node22" href="$class_improved_config_file.html#a22d7135be548e31a9e84ce370db6b159" title="ImprovedConfigFile\l::getSettingReal" alt="" coords="270,369,405,410"/>
+<area shape="rect" id="node24" href="$class_improved_config_file.html#a86cb43a15c0cb79ac1bdc63c3a8a4042" title="ImprovedConfigFile\l::getSettingInt" alt="" coords="270,434,405,475"/>
+<area shape="rect" id="node26" href="$class_improved_config_file.html#a3f431dbcada90c5750fd937c25198a1c" title="ImprovedConfigFile\l::getSettingUnsignedInt" alt="" coords="258,499,417,541"/>
+<area shape="rect" id="node27" href="$class_improved_config_file.html#af91261e570e113299af795c1bcfe3950" title="ImprovedConfigFile\l::getSettingLong" alt="" coords="270,565,405,606"/>
+<area shape="rect" id="node28" href="$class_improved_config_file.html#aea6d634f95ad1d1aa4fa6684ba6e4740" title="ImprovedConfigFile\l::getSettingUnsignedLong" alt="" coords="251,630,423,671"/>
+<area shape="rect" id="node29" href="$class_improved_config_file.html#a20c1f93d3a9d9ff15e15353e2d0135ce" title="ImprovedConfigFile\l::getSettingVector3" alt="" coords="270,695,405,737"/>
+<area shape="rect" id="node31" href="$class_improved_config_file.html#ad2a05f88b2b64cf9418a192a7277b800" title="ImprovedConfigFile\l::getSettingMatrix3" alt="" coords="270,761,405,802"/>
+<area shape="rect" id="node32" href="$class_improved_config_file.html#ab559bc6396b0b6d7817a9d02701a4b9c" title="ImprovedConfigFile\l::getSettingMatrix4" alt="" coords="270,826,405,867"/>
+<area shape="rect" id="node33" href="$class_improved_config_file.html#a644249f6b59e4c52c8f79d28b81e5b67" title="ImprovedConfigFile\l::getSettingQuaternion" alt="" coords="261,891,413,933"/>
+<area shape="rect" id="node35" href="$class_improved_config_file.html#a65f1720ef93c1216910faf9aaacfae8a" title="ImprovedConfigFile\l::getSettingColorValue" alt="" coords="261,957,414,998"/>
+<area shape="rect" id="node36" href="$class_improved_config_file.html#a7e969aa300e42044fdd679ec0969e559" title="ImprovedConfigFile\l::getSettingStringVector" alt="" coords="257,1022,418,1063"/>
+<area shape="rect" id="node3" href="$class_cache_system.html#a8c919d3618cc1b8924fc17f2c8cf4155" title="CacheSystem::fillTerrain\lDetailInfo" alt="" coords="485,49,651,90"/>
+<area shape="rect" id="node4" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="949,92,1133,119"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="1181,92,1389,119"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1437,92,1699,119"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1747,151,1797,177"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1846,151,1919,177"/>
+<area shape="rect" id="node12" href="$class_cache_system.html#a51fe1554d751cdaeab716e7a4255bd8a" title="Checks if update is needed. " alt="" coords="710,180,901,207"/>
+<area shape="rect" id="node15" href="$class_terrain_geometry_manager.html#a3433648af8303236ea2d3435ab2b279b" title="TerrainGeometryManager\l::initTerrain" alt="" coords="483,114,653,155"/>
+<area shape="rect" id="node13" href="$class_cache_system.html#ae010322c2422bf8f8dbfce904257da31" title="CacheSystem::Startup" alt="" coords="1208,180,1363,207"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_content_manager.html#a861b35694f428e463a800052ac0e9f90" title="RoR::ContentManager\l::RegenCache" alt="" coords="1491,143,1645,185"/>
+<area shape="rect" id="node16" href="$class_terrain_geometry_manager.html#ac4467adecede14a9bf83a4bf871201d8" title="TerrainGeometryManager\l::loadOgreTerrainConfig" alt="" coords="721,99,890,141"/>
+<area shape="rect" id="node18" href="$class_local_storage.html#a9d3e024d17e40264650b8fe3c2cddc31" title="LocalStorage::getRadian" alt="" coords="485,281,651,308"/>
+<area shape="rect" id="node19" href="$class_local_storage.html#aaec16c130eb719f3f746ed65714ea901" title="LocalStorage::getDegree" alt="" coords="485,231,651,257"/>
+<area shape="rect" id="node21" href="$class_local_storage.html#a7d272a4fddaceff2218cf0597a34fbcf" title="LocalStorage::getBool" alt="" coords="493,332,643,359"/>
+<area shape="rect" id="node23" href="$class_local_storage.html#a1dfdefedaea354af13c4bb3281f2e672" title="LocalStorage::getFloat" alt="" coords="491,383,645,409"/>
+<area shape="rect" id="node25" href="$class_local_storage.html#a31acdeb1338a77a4cbc9223d5d80598b" title="LocalStorage::getInt" alt="" coords="499,441,637,468"/>
+<area shape="rect" id="node30" href="$class_local_storage.html#a4ee46d2587b2524ba8e073bae7dcc53d" title="LocalStorage::getVector3" alt="" coords="483,703,653,729"/>
+<area shape="rect" id="node34" href="$class_local_storage.html#a0433a6e1ebbc13d2a610e282eb586e1b" title="LocalStorage::getQuaternion" alt="" coords="475,899,661,925"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BeamEngine::getEngineTorque" name="BeamEngine::getEngineTorque">
+<area shape="rect" id="node2" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a20e0e3bfb3deaa213ffb06d283ae81c8" title="RoR::LandVehicleSimulation\l::UpdateCruiseControl" alt="" coords="256,5,445,46"/>
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="493,5,683,46"/>
+</map>

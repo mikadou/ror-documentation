@@ -1,0 +1,5 @@
+<map id="HydraxWater::isUnderWater" name="HydraxWater::isUnderWater">
+<area shape="rect" id="node2" href="$class_hydrax_water.html#a36642d573b3e8e5e335f55b7a6008369" title="HydraxWater::getHeightWaves" alt="" coords="241,41,445,68"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a347d49b8105a10d1f95dfa8dcc543fc0" title="RoR::App::GetGfxWaterUse\lWaves" alt="" coords="493,5,683,46"/>
+<area shape="rect" id="node4" href="$class_hydrax_1_1_hydrax.html#abbfe63c58bc4f56ad625872b19b51a60" title="Hydrax::Hydrax::getHeigth" alt="" coords="499,71,677,97"/>
+</map>

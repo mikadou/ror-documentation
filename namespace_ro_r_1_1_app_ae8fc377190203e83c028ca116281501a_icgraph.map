@@ -1,0 +1,8 @@
+<map id="RoR::App::GetSimPositionStorage" name="RoR::App::GetSimPositionStorage">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="233,5,415,46"/>
+<area shape="rect" id="node4" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="275,71,373,97"/>
+<area shape="rect" id="node5" href="$class_settings.html#a19d1e2e2df8600f7e2cd1c64363fe60f" title="Settings::SaveSettings" alt="" coords="246,121,402,148"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="465,12,679,39"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="547,121,597,148"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="729,121,802,148"/>
+</map>

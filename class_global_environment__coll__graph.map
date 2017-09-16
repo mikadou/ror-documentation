@@ -1,0 +1,48 @@
+<map id="GlobalEnvironment" name="GlobalEnvironment">
+<area shape="rect" id="node2" href="$class_camera_manager.html" title="CameraManager" alt="" coords="1665,486,1783,513"/>
+<area shape="rect" id="node3" href="$class_i_behavior.html" title="IBehavior\&lt; CameraManager\l::CameraContext \&gt;" alt="" coords="427,10,613,51"/>
+<area shape="rect" id="node4" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="5,1116,165,1142"/>
+<area shape="rect" id="node6" href="$class_d_o_f_manager.html" title="DOFManager" alt="" coords="1054,425,1154,452"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html" title="RoRFrameListener" alt="" coords="678,801,810,828"/>
+<area shape="rect" id="node10" href="$class_heat_haze.html" title="HeatHaze" alt="" coords="269,942,350,969"/>
+<area shape="rect" id="node15" href="$class_beam.html" title="Beam" alt="" coords="1076,520,1132,546"/>
+<area shape="rect" id="node17" href="$class_dash_board_manager.html" title="DashBoardManager" alt="" coords="451,245,589,272"/>
+<area shape="rect" id="node19" href="$class_dust_pool.html" title="DustPool" alt="" coords="482,362,558,389"/>
+<area shape="rect" id="node20" href="$class_replay.html" title="Replay" alt="" coords="489,424,551,450"/>
+<area shape="rect" id="node21" href="$class_point_col_detector.html" title="PointColDetector" alt="" coords="459,470,581,497"/>
+<area shape="rect" id="node31" href="$class_survey_map_texture_creator.html" title="SurveyMapTextureCreator" alt="" coords="222,1001,397,1028"/>
+<area shape="rect" id="node33" href="$class_collisions.html" title="Collisions" alt="" coords="1065,1329,1143,1356"/>
+<area shape="rect" id="node34" href="$class_landusemap.html" title="Landusemap" alt="" coords="696,1266,792,1293"/>
+<area shape="rect" id="node40" href="$class_character.html" title="Character" alt="" coords="1409,1062,1487,1089"/>
+<area shape="rect" id="node41" href="$class_survey_map_entity.html" title="SurveyMapEntity" alt="" coords="1043,1157,1165,1184"/>
+<area shape="rect" id="node42" href="$class_terrain_manager.html" title="TerrainManager" alt="" coords="1668,1568,1780,1594"/>
+<area shape="rect" id="node43" href="$class_shadow_manager.html" title="ShadowManager" alt="" coords="878,1738,997,1765"/>
+<area shape="rect" id="node44" href="$class_terrain_object_manager.html" title="TerrainObjectManager" alt="" coords="1959,1658,2110,1685"/>
+<area shape="rect" id="node45" href="$class_dashboard.html" title="Dashboard" alt="" coords="1219,1789,1304,1816"/>
+<area shape="rect" id="node48" href="$class_terrain_geometry_manager.html" title="this class handles all interactions with the Ogre Terrain system " alt="" coords="1950,1545,2119,1572"/>
+<area shape="rect" id="node49" href="$class_h_d_r_listener.html" title="HDRListener" alt="" coords="471,1846,569,1873"/>
+<area shape="rect" id="node5" href="$class_camera_manager_1_1_camera_context.html" title="CameraManager::CameraContext" alt="" coords="1339,486,1557,513"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_beam_factory.html" title="Builds and manages softbody actors; Manages multithreading. " alt="" coords="1381,768,1515,794"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_character_factory.html" title="RoR::CharacterFactory" alt="" coords="1025,892,1183,918"/>
+<area shape="rect" id="node11" href="$struct_ro_r_1_1_skin_def.html" title="RoR::SkinDef" alt="" coords="257,526,361,553"/>
+<area shape="rect" id="node16" href="$structrig__t.html" title="&lt; A simulation actor; typically a vehicle " alt="" coords="721,609,767,636"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_force_feedback.html" title="RoR::ForceFeedback" alt="" coords="236,678,383,705"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_skidmark_config.html" title="RoR::SkidmarkConfig" alt="" coords="234,729,385,756"/>
+<area shape="rect" id="node18" href="$struct_ro_r_1_1_per_vehicle_camera_context.html" title="RoR::PerVehicleCameraContext" alt="" coords="638,118,850,145"/>
+<area shape="rect" id="node22" href="$structground__model__t.html" title="ground_model_t" alt="" coords="252,1396,367,1422"/>
+<area shape="rect" id="node35" href="$struct_collisions_1_1collision__tri__t.html" title="Collisions::collision\l_tri_t" alt="" coords="677,1470,811,1511"/>
+<area shape="rect" id="node23" href="$class_ogre_1_1_movable_text.html" title="Ogre::MovableText" alt="" coords="677,737,811,764"/>
+<area shape="rect" id="node24" href="$struct_ro_rnet_1_1_truck_state.html" title="&lt; Formerly oob_t " alt="" coords="675,481,813,508"/>
+<area shape="rect" id="node26" href="$structcollision__box__t.html" title="collision_box_t" alt="" coords="255,1054,363,1081"/>
+<area shape="rect" id="node27" href="$class_cache_entry.html" title="CacheEntry" alt="" coords="264,781,355,808"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_gfx_envmap.html" title="A dynamic environment probe; Creates a cubemap with realtime reflections around specified point..." alt="" coords="246,832,373,858"/>
+<area shape="rect" id="node29" href="$class_survey_map_manager.html" title="SurveyMapManager" alt="" coords="675,986,813,1013"/>
+<area shape="rect" id="node30" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="242,1110,377,1137"/>
+<area shape="rect" id="node36" href="$structeventsource__t.html" title="eventsource_t" alt="" coords="692,1317,796,1344"/>
+<area shape="rect" id="node37" href="$struct_collisions_1_1hash__t.html" title="Collisions::hash_t" alt="" coords="681,1418,807,1445"/>
+<area shape="rect" id="node38" href="$class_i_height_finder.html" title="IHeightFinder" alt="" coords="694,1368,794,1394"/>
+<area shape="rect" id="node39" href="$class_thread_pool.html" title="Facilitates execution of (small) tasks on separate threads. " alt="" coords="1680,1010,1768,1037"/>
+<area shape="rect" id="node46" href="$class_hydrax_water.html" title="HydraxWater" alt="" coords="1399,1516,1497,1542"/>
+<area shape="rect" id="node47" href="$class_i_water.html" title="IWater" alt="" coords="1073,1568,1135,1594"/>
+<area shape="rect" id="node50" href="$struct_ro_r_1_1_terrn2_def.html" title="RoR::Terrn2Def" alt="" coords="1391,1629,1505,1656"/>
+</map>

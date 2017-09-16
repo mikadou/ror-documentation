@@ -1,0 +1,6 @@
+<map id="Screwprop::setThrottle" name="Screwprop::setThrottle">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="209,5,391,46"/>
+<area shape="rect" id="node4" href="$class_screwprop.html#ac01b2113dead1f9ca6278ebdaa4606e6" title="Screwprop::reset" alt="" coords="239,71,361,97"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="441,12,655,39"/>
+<area shape="rect" id="node5" href="$class_screwprop.html#a19ed937f5b207458bfcb80beab8f13ee" title="Screwprop::Screwprop" alt="" coords="471,71,625,97"/>
+</map>

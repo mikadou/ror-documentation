@@ -1,0 +1,24 @@
+<map id="RoR::GUI::SimUtils::PushNotification" name="RoR::GUI::SimUtils::PushNotification">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#a534a8e82d1b92384767ab1c555126bba" title="RoR::GUIManager::PushNotification" alt="" coords="192,409,427,436"/>
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="499,5,688,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="769,86,951,127"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#a57679664f6f2299add5b6ba7fcbb1b11" title="RoRFrameListener::ShowLoaderGUI" alt="" coords="475,121,711,148"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a74e44d8907e7f6ffddedd260f307a764" title="RoRFrameListener::Reload\lCurrentTruck" alt="" coords="503,173,684,214"/>
+<area shape="rect" id="node10" href="$class_camera_behavior_fixed.html#a241ef159be15e1eaea2d515e8783e9cf" title="CameraBehaviorFixed\l::activate" alt="" coords="518,238,669,279"/>
+<area shape="rect" id="node11" href="$class_camera_behavior_free.html#a00d41bdbc48a1fdf054e4c49307b6333" title="CameraBehaviorFree\l::activate" alt="" coords="521,303,666,345"/>
+<area shape="rect" id="node12" href="$class_camera_behavior_isometric.html#a87263a46cf14697b5aedfa831e5506f7" title="CameraBehaviorIsometric\l::activate" alt="" coords="507,369,680,410"/>
+<area shape="rect" id="node13" href="$class_camera_behavior_orbit.html#ac2fbf5b905645faf54092ef1c081ef55" title="CameraBehaviorOrbit\l::update" alt="" coords="520,434,667,475"/>
+<area shape="rect" id="node17" href="$class_camera_behavior_vehicle_spline.html#ae30aef518419478d4c3ad73879eae6cd" title="CameraBehaviorVehicleSpline\l::update" alt="" coords="761,497,959,538"/>
+<area shape="rect" id="node18" href="$class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="531,551,656,577"/>
+<area shape="rect" id="node20" href="$class_game_script.html#a8d3e1d2eb76012b6b03795caf140a488" title="GameScript::flashMessage" alt="" coords="503,601,683,628"/>
+<area shape="rect" id="node21" href="$class_game_script.html#a1df285262747691657513586dfe94907" title="GameScript::message" alt="" coords="517,652,669,679"/>
+<area shape="rect" id="node22" href="$class_game_script.html#a8c02937795d82f6bc0de53d8e939993d" title="GameScript::useOnlineAPIDirectly" alt="" coords="481,703,705,729"/>
+<area shape="rect" id="node23" href="$class_game_script.html#a57fef318c599e4d2f86aa9b4b7f2ec12" title="GameScript::useOnlineAPI" alt="" coords="771,728,949,755"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1009,93,1223,120"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="779,173,941,214"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="1035,173,1197,214"/>
+<area shape="rect" id="node14" href="$class_camera_behavior_character.html#a325a21bfc3a39744a03f9b5c7d4df7ca" title="CameraBehaviorCharacter\l::update" alt="" coords="772,301,948,342"/>
+<area shape="rect" id="node15" href="$class_camera_behavior_vehicle.html#ae4defc34198f6a82cfb86ede290d055f" title="CameraBehaviorVehicle\l::update" alt="" coords="779,366,941,407"/>
+<area shape="rect" id="node16" href="$class_camera_behavior_vehicle_cine_cam.html#a55ece9b32ddd311803bf2f7793d29260" title="CameraBehaviorVehicleCine\lCam::update" alt="" coords="765,431,955,473"/>
+<area shape="rect" id="node19" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="811,563,909,589"/>
+</map>

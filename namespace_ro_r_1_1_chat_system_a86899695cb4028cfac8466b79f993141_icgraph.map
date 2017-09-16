@@ -1,0 +1,12 @@
+<map id="RoR::ChatSystem::GetColouredName" name="RoR::ChatSystem::GetColouredName">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_chat_system.html#ac86a179645242547b160be482c8660f8" title="RoR::ChatSystem::SendPrivateChat" alt="" coords="301,5,539,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#afc569f76db932594057f0ad6c6884003" title="RoR::GUI::TopMenubar\l::getUserString" alt="" coords="339,57,501,98"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_beam_factory.html#a32e01669e8f438abae20a1a463dcb355" title="RoR::BeamFactory::Create\lRemoteInstance" alt="" coords="329,122,511,163"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_chat_system.html#a14b342ebb5df20d82e0ff484dc9ed66b" title="RoR::ChatSystem::SendPrivateChat" alt="" coords="587,5,824,32"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#addbf2f7c7b987d76109c9ed95f966437" title="RoR::GUI::TopMenubar\l::addUserToMenu" alt="" coords="625,57,786,98"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a70583f192ad3c430862d4e17afac2a2f" title="RoR::GUI::TopMenubar\l::vehiclesListUpdate" alt="" coords="873,57,1034,98"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a85cdceff2c0f1196726097bc04953567" title="RoR::GUI::TopMenubar\l::updatePositionUponMousePosition" alt="" coords="1083,57,1317,98"/>
+<area shape="rect" id="node8" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="1371,13,1581,40"/>
+<area shape="rect" id="node9" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="1366,64,1586,91"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="1395,115,1557,157"/>
+</map>

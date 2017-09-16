@@ -1,0 +1,11 @@
+<map id="source/main/gui/panels/GUI_MainSelectorLayout.h" name="source/main/gui/panels/GUI_MainSelectorLayout.h">
+<area shape="rect" id="node2" href="$_g_u_i___main_selector_8h.html" title="source/main/gui/panels\l/GUI_MainSelector.h" alt="" coords="634,97,789,138"/>
+<area shape="rect" id="node10" href="$_g_u_i___main_selector_layout_8cpp.html" title="source/main/gui/panels\l/GUI_MainSelectorLayout.cpp" alt="" coords="815,97,1012,138"/>
+<area shape="rect" id="node3" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="5,187,165,229"/>
+<area shape="rect" id="node4" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="190,195,407,221"/>
+<area shape="rect" id="node5" href="$_g_u_i___game_main_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GameMainMenu.cpp" alt="" coords="431,187,608,229"/>
+<area shape="rect" id="node6" href="$_g_u_i___main_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MainSelector.cpp" alt="" coords="633,187,791,229"/>
+<area shape="rect" id="node7" href="$_g_u_i___top_menubar_8cpp.html" title="source/main/gui/panels\l/GUI_TopMenubar.cpp" alt="" coords="815,187,971,229"/>
+<area shape="rect" id="node8" href="$main_8cpp.html" title="source/main/main.cpp" alt="" coords="995,195,1145,221"/>
+<area shape="rect" id="node9" href="$_main_menu_8cpp.html" title="source/main/MainMenu.cpp" alt="" coords="1170,195,1352,221"/>
+</map>

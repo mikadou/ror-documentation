@@ -1,0 +1,12 @@
+<map id="OverlayWrapper::OverlayWrapper" name="OverlayWrapper::OverlayWrapper">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="272,5,475,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="298,57,449,98"/>
+<area shape="rect" id="node4" href="$class_overlay_wrapper.html#ad7b118e7cbe7a185df4473e11bd8a46d" title="OverlayWrapper::init" alt="" coords="303,123,444,149"/>
+<area shape="rect" id="node5" href="$class_overlay_wrapper.html#a1efa678e12875b4b84ab42dbb184edd4" title="OverlayWrapper::loadOverlay" alt="" coords="523,5,717,32"/>
+<area shape="rect" id="node7" href="$class_overlay_wrapper.html#aa751cd9eecb3717a754cf91c6be2ce4d" title="OverlayWrapper::loadOverlay\lElement" alt="" coords="523,57,717,98"/>
+<area shape="rect" id="node8" href="$struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="547,123,693,149"/>
+<area shape="rect" id="node10" href="$class_overlay_wrapper.html#af04680c7e12a731fef2db00e3dcd8143" title="OverlayWrapper::resizePanel" alt="" coords="524,173,716,200"/>
+<area shape="rect" id="node11" href="$class_overlay_wrapper.html#adbd14cda6b9c56d4cb3e136ea6447d63" title="OverlayWrapper::reposPanel" alt="" coords="525,224,715,251"/>
+<area shape="rect" id="node6" href="$class_overlay_wrapper.html#a10e6c145bc3e376b6cc2159929898b1d" title="OverlayWrapper::resizeOverlay" alt="" coords="766,5,970,32"/>
+<area shape="rect" id="node9" href="$struct_error_utils.html#a3250a36825c8b55b26d1565addb7e922" title="ErrorUtils::ShowMsgBox" alt="" coords="785,123,951,149"/>
+</map>

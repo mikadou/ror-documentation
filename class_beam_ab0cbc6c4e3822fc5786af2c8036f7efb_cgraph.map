@@ -1,0 +1,51 @@
+<map id="Beam::LoadTruck" name="Beam::LoadTruck">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ab3a56a250de7f20045e9aaa8f090e70f" title="RoR::App::GetCacheSystem" alt="" coords="201,5,393,32"/>
+<area shape="rect" id="node3" href="$class_cache_system.html#a3f3f0d58e6a7dda00e57def07ab2e794" title="CacheSystem::checkResource\lLoaded" alt="" coords="195,57,399,98"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#aa04ed1e7b697aa1f33f1bb1297cb3e48" title="RoR::App::GetConsole" alt="" coords="219,123,376,149"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_console.html#a6883dfc6a1d760581a917e101b6357c5" title="RoR::Console::putMessage" alt="" coords="205,173,389,200"/>
+<area shape="rect" id="node8" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="208,224,387,251"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_manager.html#a534a8e82d1b92384767ab1c555126bba" title="RoR::GUIManager::PushNotification" alt="" coords="180,275,415,301"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_parser.html#a305ad5ffe72cfa30ee4bf98907f58cda" title="RigDef::Parser::Prepare" alt="" coords="216,325,379,352"/>
+<area shape="rect" id="node13" href="$class_rig_def_1_1_parser.html#ab08d0ba4ffb90b72cb351014bb7861bd" title="RigDef::Parser::ProcessOgre\lStream" alt="" coords="201,377,394,418"/>
+<area shape="rect" id="node16" href="$class_rig_def_1_1_parser.html#a9a7080ad3fe8eba6d5879028b22c5c2c" title="RigDef::Parser::Finalize" alt="" coords="216,443,379,469"/>
+<area shape="rect" id="node20" href="$class_rig_def_1_1_parser.html#abf888ce9047151371f85966d69682156" title="RigDef::Parser::GetMessages\lNumErrors" alt="" coords="198,494,397,535"/>
+<area shape="rect" id="node21" href="$class_rig_def_1_1_parser.html#aa063e4f610acb75daec0816a7c577589" title="RigDef::Parser::GetMessages\lNumWarnings" alt="" coords="198,559,397,601"/>
+<area shape="rect" id="node22" href="$class_rig_def_1_1_parser.html#a511a1e65760a527982726be19fabfe10" title="RigDef::Parser::GetMessages\lNumOther" alt="" coords="198,625,397,666"/>
+<area shape="rect" id="node23" href="$class_rig_def_1_1_parser.html#a94a43c89e6b1ce0f2af3b8433026863b" title="RigDef::Parser::ProcessMessages\lToString" alt="" coords="185,690,410,731"/>
+<area shape="rect" id="node26" href="$class_rig_def_1_1_parser.html#a1d88ed3d8ecc1719890601463d7d2046" title="RigDef::Parser::GetSequential\lImporter" alt="" coords="198,755,397,797"/>
+<area shape="rect" id="node27" href="$namespace_ro_r_1_1_app.html#aff3e3a6495773392c35e29c8e0b6dbd1" title="RoR::App::GetDiagRigLogMessages" alt="" coords="179,821,416,848"/>
+<area shape="rect" id="node28" href="$class_rig_def_1_1_sequential_importer.html#a9fbb1a856af6157b80e045f29de22d77" title="RigDef::SequentialImporter\l::GetMessagesNumErrors" alt="" coords="207,873,387,914"/>
+<area shape="rect" id="node29" href="$class_rig_def_1_1_parser.html#a92d799c5ae33da6c574ed6ee8c6a3e9a" title="RigDef::Parser::GetFile" alt="" coords="218,939,377,965"/>
+<area shape="rect" id="node30" href="$class_rig_def_1_1_validator.html#a8eb2421d53fc121cd3ab3d093a26ebfc" title="RigDef::Validator::\lSetup" alt="" coords="232,990,363,1031"/>
+<area shape="rect" id="node31" href="$namespace_ro_r_1_1_app.html#a250ed7c89fdd86aed2475f662d94f7bc" title="RoR::App::GetDiagRigLogNode\lStats" alt="" coords="193,1055,401,1097"/>
+<area shape="rect" id="node32" href="$namespace_ro_r_1_1_app.html#a26d1d334e6da4f45ea57e52d1d7f54b8" title="RoR::App::GetDiagRigLogNode\lImport" alt="" coords="193,1121,401,1162"/>
+<area shape="rect" id="node33" href="$class_ro_r_1_1_g_u_i_manager.html#a5dec5159b29af2d75331ed05ae729eae" title="RoR::GUIManager::AddRigLoading\lReport" alt="" coords="184,1186,411,1227"/>
+<area shape="rect" id="node35" href="$class_ro_r_1_1_g_u_i_manager.html#a7765693a2f58011208923948747deef3" title="RoR::GUIManager::SetVisible\l_SpawnerReport" alt="" coords="198,1251,397,1293"/>
+<area shape="rect" id="node37" href="$class_rig_spawner.html#aff5719b307374af7286b8ac20c61f4ea" title="RigSpawner::RecalculateBounding\lBoxes" alt="" coords="185,1317,409,1358"/>
+<area shape="rect" id="node38" href="$class_beam.html#a45e5bfb79be383f661885fadbeddf105" title="Beam::resetPosition" alt="" coords="227,1383,367,1409"/>
+<area shape="rect" id="node39" href="$class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="231,1433,363,1460"/>
+<area shape="rect" id="node40" href="$class_beam.html#a047eca9600b8c92686f5805590ece5fe" title="Beam::calc_masses2" alt="" coords="223,1484,371,1511"/>
+<area shape="rect" id="node41" href="$class_rig_spawner.html#a179694d493a65accfc251dfc2c167388" title="RigSpawner::SetupDefault\lSoundSources" alt="" coords="209,1535,386,1577"/>
+<area shape="rect" id="node42" href="$class_beam.html#a179e4d8c318752f0d1cc598dd6e573fd" title="Beam::calcNodeConnectivity\lGraph" alt="" coords="201,1601,393,1642"/>
+<area shape="rect" id="node43" href="$class_collisions.html#a7840c7d5b2b56b4cc8f41778c0edb7a7" title="Collisions::getGroundModel\lByString" alt="" coords="206,1666,389,1707"/>
+<area shape="rect" id="node44" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; Settings\l \&gt;::getSingleton" alt="" coords="216,1731,379,1773"/>
+<area shape="rect" id="node45" href="$class_settings.html#afef162affad3ac1aa39796d2b85d6ef2" title="Settings::getSetting" alt="" coords="229,1797,366,1824"/>
+<area shape="rect" id="node46" href="$class_beam_engine.html#a0da07abab36323b70d48fe5e9efe01fc" title="BeamEngine::getMaxRPM" alt="" coords="209,1848,386,1875"/>
+<area shape="rect" id="node47" href="$class_dash_board_manager.html#ad39dfa3f5fa0f1af56687508b3c4c082" title="DashBoardManager::loadDash\lBoard" alt="" coords="197,1899,397,1941"/>
+<area shape="rect" id="node48" href="$class_dash_board_manager.html#a21ffd946b6843df16ca7b3ef704b596a" title="DashBoardManager::setVisible" alt="" coords="196,1965,399,1992"/>
+<area shape="rect" id="node49" href="$class_beam.html#afa42fecab5b3bf9915fca8c8d3c80df0" title="Beam::IsNodeIdValid" alt="" coords="224,2016,371,2043"/>
+<area shape="rect" id="node50" href="$namespace_profiler.html#aecacc25017df092609ea749085b21aeb" title="Profiler::average" alt="" coords="239,2067,356,2093"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_manager.html#a982bc848eb4330aa9e57a54bfc60d975" title="RoR::GUIManager::GetConsole" alt="" coords="468,115,676,141"/>
+<area shape="rect" id="node7" href="$class_inter_thread_store_vector.html#a88d3f7e3e3ce109e13af1c46a12a50b0" title="InterThreadStoreVector\l\&lt; ConsoleMessage \&gt;::push" alt="" coords="481,166,663,207"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ac18f8c423994b93276f5f33b22e53d41" title="RoR::GUI::SimUtils\l::PushNotification" alt="" coords="503,231,641,273"/>
+<area shape="rect" id="node12" href="$class_rig_def_1_1_sequential_importer.html#a35b86ad0907fd7f412038ce1c3fe7a91" title="RigDef::SequentialImporter\l::Init" alt="" coords="482,297,662,338"/>
+<area shape="rect" id="node14" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="729,413,922,440"/>
+<area shape="rect" id="node15" href="$class_rig_def_1_1_parser.html#ad1920ba0a8dc23ac5043b2c270ef5f47" title="RigDef::Parser::ProcessRawLine" alt="" coords="464,413,680,440"/>
+<area shape="rect" id="node17" href="$class_rig_def_1_1_parser.html#a9dfba6b6520265a6bc20919f0d06b9fb" title="RigDef::Parser::ExitSections" alt="" coords="477,464,667,491"/>
+<area shape="rect" id="node18" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="482,515,662,557"/>
+<area shape="rect" id="node19" href="$class_rig_def_1_1_sequential_importer.html#a69601c62b1bf9030cd2e2b03a926bc04" title="Traverse whole rig definition and resolve all node references. " alt="" coords="482,581,662,622"/>
+<area shape="rect" id="node24" href="$class_rig_def_1_1_parser.html#a562b4cb4baf62a5c201c6755bc41558f" title="RigDef::Parser::GetMessages" alt="" coords="473,672,671,699"/>
+<area shape="rect" id="node25" href="$struct_rig_def_1_1_file.html#a9df66ca1a72485fbce67ef8d2b0395da" title="RigDef::File::SectionToString" alt="" coords="475,723,669,749"/>
+<area shape="rect" id="node34" href="$class_ro_r_1_1_g_u_i_1_1_rig_spawner_report_window.html#aa01a857d8e8d456e73630b5564ceb6ca" title="RoR::GUI::RigSpawnerReport\lWindow::SetRigLoadingReport" alt="" coords="471,1186,673,1227"/>
+<area shape="rect" id="node36" href="$class_ro_r_1_1_g_u_i_1_1_rig_spawner_report_window.html#ac7b2011039ac9149032ebf20a1b1c99e" title="RoR::GUI::RigSpawnerReport\lWindow::SetVisible" alt="" coords="473,1251,671,1293"/>
+</map>

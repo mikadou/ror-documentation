@@ -1,0 +1,11 @@
+<map id="RoR::MainMenu::MainMenuLoopUpdateEvents" name="RoR::MainMenu::MainMenuLoopUpdateEvents">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="284,5,463,32"/>
+<area shape="rect" id="node3" href="$class_input_engine.html#a930f4e5ec74b788a6eb5f6eecc38198d" title="InputEngine::updateKeyBounces" alt="" coords="267,56,479,83"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="272,107,475,133"/>
+<area shape="rect" id="node5" href="$class_overlay_wrapper.html#a92785274e3dea2492c613a66e1f56672" title="OverlayWrapper::update" alt="" coords="292,157,455,184"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#a9c821dcc2190b100f4003e72e0b924b1" title="RoR::App::SetPendingAppState" alt="" coords="269,208,478,235"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="284,259,463,285"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#ae7ca05a9e2c04da99c1305919b3002b3" title="RoR::App::SetVarEnum" alt="" coords="535,183,697,209"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#a18ba521dde82ec933a84f3dd87d372e9" title="RoR::App::AppStateToStr" alt="" coords="529,233,703,260"/>
+<area shape="rect" id="node8" href="$namespace_ro_r_1_1_app.html#a3492dc6307a9d930ac73578e0d1f005e" title="RoR::App::LogVarUpdate" alt="" coords="752,183,923,209"/>
+</map>

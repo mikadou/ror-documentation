@@ -1,0 +1,6 @@
+<map id="RigDef::Parser::ParseWheelDetachers" name="RigDef::Parser::ParseWheelDetachers">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="466,5,649,46"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#a635bdc3c7493275fc05f91d51c11945b" title="RigDef::Parser::GetArgInt" alt="" coords="243,67,416,93"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="699,41,893,68"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a81784a06397ed377c39759981d6c700b" title="RigDef::Parser::GetArgLong" alt="" coords="464,71,651,97"/>
+</map>

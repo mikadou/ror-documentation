@@ -1,0 +1,10 @@
+<map id="RigDef::Parser::ParseSoundsources2" name="RigDef::Parser::ParseSoundsources2">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="310,71,493,113"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="814,51,1007,77"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#a57b7efa0a566ae343d6148a05d420eae" title="RigDef::Parser::GetArgNodeRef" alt="" coords="296,188,507,215"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="573,137,747,164"/>
+<area shape="rect" id="node8" href="$class_rig_def_1_1_parser.html#a635bdc3c7493275fc05f91d51c11945b" title="RigDef::Parser::GetArgInt" alt="" coords="315,20,488,47"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="555,188,765,215"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="821,181,1001,222"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a81784a06397ed377c39759981d6c700b" title="RigDef::Parser::GetArgLong" alt="" coords="567,23,753,49"/>
+</map>

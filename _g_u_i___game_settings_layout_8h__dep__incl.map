@@ -1,0 +1,10 @@
+<map id="source/main/gui/panels/GUI_GameSettingsLayout.h" name="source/main/gui/panels/GUI_GameSettingsLayout.h">
+<area shape="rect" id="node2" href="$_g_u_i___game_settings_8h.html" title="source/main/gui/panels\l/GUI_GameSettings.h" alt="" coords="298,97,453,138"/>
+<area shape="rect" id="node9" href="$_g_u_i___game_settings_layout_8cpp.html" title="source/main/gui/panels\l/GUI_GameSettingsLayout.cpp" alt="" coords="502,97,705,138"/>
+<area shape="rect" id="node3" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="206,285,423,312"/>
+<area shape="rect" id="node4" href="$_g_u_i___game_main_menu_8h.html" title="source/main/gui/panels\l/GUI_GameMainMenu.h" alt="" coords="115,187,277,229"/>
+<area shape="rect" id="node6" href="$_g_u_i___game_pause_menu_8h.html" title="source/main/gui/panels\l/GUI_GamePauseMenu.h" alt="" coords="353,187,524,229"/>
+<area shape="rect" id="node8" href="$_g_u_i___game_settings_8cpp.html" title="source/main/gui/panels\l/GUI_GameSettings.cpp" alt="" coords="549,187,713,229"/>
+<area shape="rect" id="node5" href="$_g_u_i___game_main_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GameMainMenu.cpp" alt="" coords="5,278,181,319"/>
+<area shape="rect" id="node7" href="$_g_u_i___game_pause_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GamePauseMenu.cpp" alt="" coords="448,278,635,319"/>
+</map>

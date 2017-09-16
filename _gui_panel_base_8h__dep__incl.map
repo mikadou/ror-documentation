@@ -1,0 +1,8 @@
+<map id="source/main/gui/mygui/GuiPanelBase.h" name="source/main/gui/mygui/GuiPanelBase.h">
+<area shape="rect" id="node2" href="$_g_u_i___rig_spawner_report_window_8h.html" title="source/main/gui/panels\l/GUI_RigSpawnerReportWindow.h" alt="" coords="258,97,483,138"/>
+<area shape="rect" id="node5" href="$_g_u_i___teleport_window_8h.html" title="source/main/gui/panels\l/GUI_TeleportWindow.h" alt="" coords="508,97,671,138"/>
+<area shape="rect" id="node3" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="267,195,484,221"/>
+<area shape="rect" id="node4" href="$_g_u_i___rig_spawner_report_window_8cpp.html" title="source/main/gui/panels\l/GUI_RigSpawnerReportWindow.cpp" alt="" coords="5,187,243,229"/>
+<area shape="rect" id="node6" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="509,187,669,229"/>
+<area shape="rect" id="node7" href="$_g_u_i___teleport_window_8cpp.html" title="source/main/gui/panels\l/GUI_TeleportWindow.cpp" alt="" coords="695,187,871,229"/>
+</map>

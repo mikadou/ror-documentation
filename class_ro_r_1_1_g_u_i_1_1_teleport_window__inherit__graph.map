@@ -1,0 +1,5 @@
+<map id="RoR::GUI::TeleportWindow" name="RoR::GUI::TeleportWindow">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window_layout.html" title="RoR::GUI::TeleportWindow\lLayout" alt="" coords="5,81,187,122"/>
+<area shape="rect" id="node3" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="29,5,163,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_gui_panel_base.html" title="RoR::GuiPanelBase" alt="" coords="211,88,351,115"/>
+</map>

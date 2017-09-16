@@ -1,0 +1,8 @@
+<map id="source/main/gfx/camera/CameraBehaviorVehicle.h" name="source/main/gfx/camera/CameraBehaviorVehicle.h">
+<area shape="rect" id="node2" href="$_camera_behavior_vehicle_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicle.cpp" alt="" coords="5,97,195,138"/>
+<area shape="rect" id="node3" href="$_camera_behavior_vehicle_cine_cam_8h.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleCineCam.h" alt="" coords="220,97,452,138"/>
+<area shape="rect" id="node5" href="$_camera_manager_8cpp.html" title="source/main/gfx/camera\l/CameraManager.cpp" alt="" coords="408,187,571,229"/>
+<area shape="rect" id="node6" href="$_camera_behavior_vehicle_spline_8h.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleSpline.h" alt="" coords="527,97,740,138"/>
+<area shape="rect" id="node4" href="$_camera_behavior_vehicle_cine_cam_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleCineCam.cpp" alt="" coords="137,187,383,229"/>
+<area shape="rect" id="node7" href="$_camera_behavior_vehicle_spline_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleSpline.cpp" alt="" coords="595,187,821,229"/>
+</map>

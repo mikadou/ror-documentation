@@ -1,0 +1,12 @@
+<map id="CameraManager::NotifyContextChange" name="CameraManager::NotifyContextChange">
+<area shape="rect" id="node2" href="$class_character.html#a4806a9150eb30673bab3d0b47e05d135" title="Character::update" alt="" coords="313,71,439,97"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_scene_mouse.html#aac902676aecccabc972d8a2c4835535b" title="RoR::SceneMouse::mousePressed" alt="" coords="262,121,490,148"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_character_factory.html#a250a5452e7d730ab122c07a7491c80ab" title="RoR::CharacterFactory\l::update" alt="" coords="570,5,729,46"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="545,71,753,97"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="847,5,1030,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1118,12,1333,39"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="808,71,1069,97"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1200,71,1251,97"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1382,71,1455,97"/>
+<area shape="rect" id="node11" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="539,121,759,148"/>
+</map>

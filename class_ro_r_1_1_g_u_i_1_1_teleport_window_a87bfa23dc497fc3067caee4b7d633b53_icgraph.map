@@ -1,0 +1,7 @@
+<map id="RoR::GUI::TeleportWindow::MinimapPanelResized" name="RoR::GUI::TeleportWindow::MinimapPanelResized">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a09839bd0d122825f6ae2fbd75cd8bfcb" title="RoR::GUI::TeleportWindow\l::TeleportWindow" alt="" coords="238,5,421,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a9292807baa0f323baaa1a4d632b537d9" title="RoR::GUI::TeleportWindow\l::SetupMap" alt="" coords="238,70,421,111"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="469,77,731,104"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="779,77,829,104"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="878,77,951,104"/>
+</map>

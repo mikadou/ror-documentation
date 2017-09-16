@@ -1,0 +1,5 @@
+<map id="Collisions::permitEvent" name="Collisions::permitEvent">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="216,5,411,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="211,70,415,111"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="464,77,659,104"/>
+</map>

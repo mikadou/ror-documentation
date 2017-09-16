@@ -1,0 +1,51 @@
+<map id="RoRFrameListener::ReloadCurrentTruck" name="RoRFrameListener::ReloadCurrentTruck">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="1311,5,1515,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#aa770c50decf07b87d7ac747b64b8e3e5" title="RoR::BeamFactory::Create\lLocalRigInstance" alt="" coords="261,951,443,993"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_beam_factory.html#ac70a8aa131a6709ebf05dc3c0f6dab10" title="RoR::BeamFactory::setCurrent\lTruck" alt="" coords="798,429,1002,470"/>
+<area shape="rect" id="node26" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="811,568,989,595"/>
+<area shape="rect" id="node41" href="$namespace_ro_r_1_1_app.html#aa04ed1e7b697aa1f33f1bb1297cb3e48" title="RoR::App::GetConsole" alt="" coords="273,1168,431,1195"/>
+<area shape="rect" id="node43" href="$class_ro_r_1_1_console.html#a6883dfc6a1d760581a917e101b6357c5" title="RoR::Console::putMessage" alt="" coords="260,1219,444,1245"/>
+<area shape="rect" id="node45" href="$class_ro_r_1_1_g_u_i_manager.html#a534a8e82d1b92384767ab1c555126bba" title="RoR::GUIManager::PushNotification" alt="" coords="235,1269,469,1296"/>
+<area shape="rect" id="node47" href="$class_ro_r_1_1_beam_factory.html#afa248b1ef2e676da82dc5aa71a572d32" title="RoR::BeamFactory::remove\lCurrentTruck" alt="" coords="259,1321,445,1362"/>
+<area shape="rect" id="node50" href="$class_beam.html#a078999d6e513dd4830721a9b373d6925" title="Beam::reset" alt="" coords="305,1387,399,1413"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="1571,409,1765,436"/>
+<area shape="rect" id="node5" href="$namespace_profiler.html#a1f2fdbd66925222007a1461ecd4d01f9" title="Profiler::reset" alt="" coords="577,816,677,843"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_beam_factory.html#a1d2c18c7a80cecb89d32dd4f2fd9a9a1" title="RoR::BeamFactory::GetFree\lTruckSlot" alt="" coords="531,867,722,909"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="1571,1217,1765,1244"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_beam_factory.html#a5dcf02227633d77e77f39fc43317dc6b" title="RoR::BeamFactory::Delete\lTruck" alt="" coords="536,699,717,741"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_g_u_i_manager.html#a623f1eecb14989861b229419d4dc35b0" title="RoR::GUIManager::GetTopMenubar" alt="" coords="784,751,1016,777"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a4ee33e00f5d7deedd9fb0716e797a6b9" title="RoR::GUI::TopMenubar\l::triggerUpdateVehicleList" alt="" coords="814,685,986,726"/>
+<area shape="rect" id="node29" href="$class_beam.html#aa0750858904f05ed7e8308b12c670566" title="Beam::getSlideNodesLockInstant" alt="" coords="518,1108,735,1135"/>
+<area shape="rect" id="node30" href="$class_beam.html#a7f17e89ec7dfd80a13382d1df2155bdb" title="Beam::toggleSlideNodeLock" alt="" coords="533,984,720,1011"/>
+<area shape="rect" id="node35" href="$class_beam.html#aca6cb152aefc10162410ca53cecf773e" title="Beam::updateNetworkInfo" alt="" coords="1073,1268,1247,1295"/>
+<area shape="rect" id="node36" href="$class_ro_r_1_1_rig_loading_profiler.html#a1ce25890979cc7d857976ce706973717" title="RoR::RigLoadingProfiler\l::Report" alt="" coords="545,1042,708,1083"/>
+<area shape="rect" id="node39" href="$namespace_ro_r_1_1_app.html#a2f5a32cc85742cc76773feb27da8036c" title="RoR::App::GetSysUserDir" alt="" coords="538,1217,715,1244"/>
+<area shape="rect" id="node40" href="$namespace_profiler.html#ad30cdcfc304c887fe0dc83d5b9f35e23" title="Profiler::DumpHtml" alt="" coords="559,648,694,675"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_beam_factory.html#aab1bcd857ee75e63631b922afd515e67" title="RoR::BeamFactory::SyncWith\lSimThread" alt="" coords="800,619,1000,661"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#ad309b37d305d55def42d92f17abed557" title="RoRFrameListener::Changed\lCurrentVehicle" alt="" coords="1064,423,1256,465"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_beam_factory.html#a1a0708c3248c3759a0352257a4af458b" title="RoR::BeamFactory::Update\lSleepingState" alt="" coords="1067,282,1253,323"/>
+<area shape="rect" id="node12" href="$class_dash_board_manager.html#a714e4e5bbf29e1854c06af1993fecebc" title="DashBoardManager::setVisible3d" alt="" coords="1305,705,1521,732"/>
+<area shape="rect" id="node13" href="$namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="1312,71,1515,97"/>
+<area shape="rect" id="node14" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="1304,122,1523,163"/>
+<area shape="rect" id="node15" href="$class_beam.html#ab4dfeb77091b6ce9a344b1e1d4e964e3" title="Beam::GetGfxActor" alt="" coords="1345,188,1482,215"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_gfx_actor.html#a68717bfda17ddc3d4cff8e663c9cf06f" title="RoR::GfxActor::GetVideoCam\lState" alt="" coords="1314,239,1513,281"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_gfx_actor.html#a380125c9102242d296dc6f12b7468412" title="RoR::GfxActor::SetVideoCam\lState" alt="" coords="1314,305,1513,346"/>
+<area shape="rect" id="node18" href="$class_beam.html#a3304824c3e7285047f007c956318de09" title="Beam::prepareInside" alt="" coords="1342,371,1485,397"/>
+<area shape="rect" id="node19" href="$class_beam.html#a7d009b83ca5b166efe7c356abfcc3490" title="Beam::getRotation" alt="" coords="1348,421,1479,448"/>
+<area shape="rect" id="node20" href="$class_character.html#aa761e344c2aa6df9205bfa6bf1d3ea13" title="Character::setBeamCoupling" alt="" coords="1318,756,1509,783"/>
+<area shape="rect" id="node21" href="$class_character.html#a305f94b58e7e8b61cc6829e4aba7a060" title="Character::setRotation" alt="" coords="1336,472,1491,499"/>
+<area shape="rect" id="node22" href="$class_character.html#a1884d7f3e305d9b23164fdbf208f1cc6" title="Character::setPosition" alt="" coords="1337,523,1489,549"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_force_feedback.html#a5ad15f0bae3f998c07de438637445f28" title="RoR::ForceFeedback\l::SetEnabled" alt="" coords="1340,574,1487,615"/>
+<area shape="rect" id="node24" href="$class_camera_manager.html#a737fe1d8d82faf6d9a3981eb713ec82c" title="CameraManager::NotifyVehicle\lChanged" alt="" coords="1311,639,1515,681"/>
+<area shape="rect" id="node31" href="$class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="803,1035,997,1077"/>
+<area shape="rect" id="node32" href="$class_ro_r_1_1_beam_factory.html#a869e76f2a6708166204319cf355b3398" title="RoR::BeamFactory::getTruck\lCount" alt="" coords="803,853,997,894"/>
+<area shape="rect" id="node33" href="$class_ro_r_1_1_beam_factory.html#a4cd6da5651c7fdf699c55d426b7c15db" title="RoR::BeamFactory::getCurrent\lTruckNumber" alt="" coords="798,918,1002,959"/>
+<area shape="rect" id="node34" href="$class_beam.html#a99d7bd308fca5408d36a597e4463a6ef" title="Beam::getClosestRailOnTruck" alt="" coords="800,984,1000,1011"/>
+<area shape="rect" id="node37" href="$class_ro_r_1_1_rig_loading_profiler.html#aa5a5a24ce3478c2ec971d610f2881b43" title="RoR::RigLoadingProfiler\l::Restart" alt="" coords="819,1101,981,1142"/>
+<area shape="rect" id="node38" href="$class_precision_timer.html#a99fcefcc051dacc2e47236323b7e0311" title="PrecisionTimer::elapsed" alt="" coords="819,1167,981,1193"/>
+<area shape="rect" id="node42" href="$class_ro_r_1_1_g_u_i_manager.html#a982bc848eb4330aa9e57a54bfc60d975" title="RoR::GUIManager::GetConsole" alt="" coords="523,1319,731,1345"/>
+<area shape="rect" id="node44" href="$class_inter_thread_store_vector.html#a88d3f7e3e3ce109e13af1c46a12a50b0" title="InterThreadStoreVector\l\&lt; ConsoleMessage \&gt;::push" alt="" coords="535,1370,718,1411"/>
+<area shape="rect" id="node46" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ac18f8c423994b93276f5f33b22e53d41" title="RoR::GUI::SimUtils\l::PushNotification" alt="" coords="557,1435,696,1477"/>
+<area shape="rect" id="node48" href="$class_ro_r_1_1_beam_factory.html#ac8a9a6f08309a8a30f714e0480eaded6" title="Call this after simulation loop finishes. " alt="" coords="533,1501,720,1542"/>
+<area shape="rect" id="node49" href="$class_ro_r_1_1_beam_factory.html#aaff4dc9bb034a75b63059308fb7f8075" title="RoR::BeamFactory::FindTruck\lInsideBox" alt="" coords="799,1501,1001,1542"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RoR::GUI::SimUtils::SetFPSBoxVisible" name="RoR::GUI::SimUtils::SetFPSBoxVisible">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#ae6376fb591e87d8aedff5fc5e5655191" title="RoR::GUIManager::hideGUI" alt="" coords="192,12,379,39"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a519eb1268f9cc62d177d723bdb8190e1" title="RoRFrameListener::HideGUI" alt="" coords="427,12,618,39"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="667,5,850,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="899,12,1114,39"/>
+</map>

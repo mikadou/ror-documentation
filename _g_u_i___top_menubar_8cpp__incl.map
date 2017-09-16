@@ -1,0 +1,34 @@
+<map id="source/main/gui/panels/GUI_TopMenubar.cpp" name="source/main/gui/panels/GUI_TopMenubar.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___top_menubar_8h.html" title="GUI_TopMenubar.h" alt="" coords="864,245,999,272"/>
+<area shape="rect" id="node14" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="1005,171,1101,197"/>
+<area shape="rect" id="node15" href="$_settings_8h.html" title="Settings.h" alt="" coords="758,245,839,272"/>
+<area shape="rect" id="node16" href="$_beam_factory_8h.html" title="BeamFactory.h" alt="" coords="617,171,727,197"/>
+<area shape="rect" id="node19" href="$_network_8h.html" title="Network.h" alt="" coords="312,245,393,272"/>
+<area shape="rect" id="node20" href="$_character_8h.html" title="Character.h" alt="" coords="65,245,156,272"/>
+<area shape="rect" id="node23" href="$_chat_system_8h.html" title="ChatSystem.h" alt="" coords="485,171,592,197"/>
+<area shape="rect" id="node24" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="1735,245,1841,272"/>
+<area shape="rect" id="node30" href="$_g_u_i___game_console_8h.html" title="GUI_GameConsole.h" alt="" coords="1553,171,1700,197"/>
+<area shape="rect" id="node34" href="$_g_u_i___main_selector_8h.html" title="GUI_MainSelector.h" alt="" coords="2493,171,2632,197"/>
+<area shape="rect" id="node36" href="$_language_8h.html" title="Language.h" alt="" coords="1126,245,1215,272"/>
+<area shape="rect" id="node39" href="$_main_menu_8h.html" title="MainMenu.h" alt="" coords="1093,96,1187,123"/>
+<area shape="rect" id="node41" href="$_ro_r_frame_listener_8h.html" title="RoRFrameListener.h" alt="" coords="377,96,519,123"/>
+<area shape="rect" id="node45" href="$_utils_8h.html" title="Utils.h" alt="" coords="2749,320,2808,347"/>
+<area shape="rect" id="node49" href="$_camera_manager_8h.html" title="CameraManager.h" alt="" coords="2319,245,2448,272"/>
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="733,395,868,421"/>
+<area shape="rect" id="node11" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="674,320,760,347"/>
+<area shape="rect" id="node10" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="2298,469,2451,496"/>
+<area shape="rect" id="node17" href="$_beam_8h.html" title="Beam.h" alt="" coords="264,320,331,347"/>
+<area shape="rect" id="node18" href="$_dust_manager_8h.html" title="DustManager.h" alt="" coords="571,245,681,272"/>
+<area shape="rect" id="node21" href="$_movable_text_8h.html" title="MovableText.h" alt="" coords="27,320,135,347"/>
+<area shape="rect" id="node25" href="$_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="1884,320,2019,347"/>
+<area shape="rect" id="node31" href="$_inter_thread_store_vector_8h.html" title="InterThreadStoreVector.h" alt="" coords="1543,245,1711,272"/>
+<area shape="rect" id="node32" href="$_base_layout_8h.html" title="mygui/BaseLayout.h" alt="" coords="2196,320,2336,347"/>
+<area shape="rect" id="node33" href="$_g_u_i___game_console_layout_8h.html" title="GUI_GameConsoleLayout.h" alt="" coords="2108,245,2295,272"/>
+<area shape="rect" id="node35" href="$_g_u_i___main_selector_layout_8h.html" title="GUI_MainSelectorLayout.h" alt="" coords="2473,245,2652,272"/>
+<area shape="rect" id="node42" href="$_character_factory_8h.html" title="CharacterFactory.h" alt="" coords="78,171,212,197"/>
+<area shape="rect" id="node43" href="$_environment_map_8h.html" title="EnvironmentMap.h" alt="" coords="1688,395,1817,421"/>
+<area shape="rect" id="node44" href="$_force_feedback_8h.html" title="ForceFeedback.h" alt="" coords="288,171,411,197"/>
+<area shape="rect" id="node47" href="$checked_8h.html" title="utf8/checked.h" alt="" coords="2882,395,2989,421"/>
+<area shape="rect" id="node48" href="$unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="3015,395,3137,421"/>
+<area shape="rect" id="node50" href="$_i_behavior_8h.html" title="IBehavior.h" alt="" coords="2463,320,2551,347"/>
+</map>

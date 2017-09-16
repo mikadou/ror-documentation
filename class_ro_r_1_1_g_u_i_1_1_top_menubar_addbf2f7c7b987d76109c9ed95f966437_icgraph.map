@@ -1,0 +1,7 @@
+<map id="RoR::GUI::TopMenubar::addUserToMenu" name="RoR::GUI::TopMenubar::addUserToMenu">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a70583f192ad3c430862d4e17afac2a2f" title="RoR::GUI::TopMenubar\l::vehiclesListUpdate" alt="" coords="217,49,378,90"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a85cdceff2c0f1196726097bc04953567" title="RoR::GUI::TopMenubar\l::updatePositionUponMousePosition" alt="" coords="427,49,661,90"/>
+<area shape="rect" id="node4" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="715,5,925,32"/>
+<area shape="rect" id="node5" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="710,56,930,83"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="739,107,901,149"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="GameScript::log" name="GameScript::log">
+<area shape="rect" id="node2" href="$class_game_script.html#a7df6f50752b627c39ec7e467771d0862" title="GameScript::setMaterialAmbient" alt="" coords="175,5,385,32"/>
+<area shape="rect" id="node3" href="$class_game_script.html#a835ebefd1b8425dbf3663c1e5d1a59c5" title="GameScript::setMaterialDiffuse" alt="" coords="177,56,383,83"/>
+<area shape="rect" id="node4" href="$class_game_script.html#ae31adf0e13c2506ad49258bb8bb37150" title="GameScript::setMaterialSpecular" alt="" coords="173,107,387,133"/>
+<area shape="rect" id="node5" href="$class_game_script.html#abe4804b5a5045ee4f0125d5f92c465c0" title="GameScript::setMaterialEmissive" alt="" coords="171,157,389,184"/>
+<area shape="rect" id="node6" href="$class_game_script.html#a3cee19766a02cd4d15f0d836582adc71" title="GameScript::getSafeTexture\lUnitState" alt="" coords="186,209,374,250"/>
+<area shape="rect" id="node7" href="$class_game_script.html#acf2cfbdb575b5100135aee8c85a6a256" title="GameScript::setMaterialTextureName" alt="" coords="437,124,680,151"/>
+<area shape="rect" id="node8" href="$class_game_script.html#a15dbd8b035ab7d6102c7e8ef8b1bd8fa" title="GameScript::setMaterialTexture\lRotate" alt="" coords="455,175,662,217"/>
+<area shape="rect" id="node9" href="$class_game_script.html#a13eec139445554da8cd39aa6e674d503" title="GameScript::setMaterialTexture\lScroll" alt="" coords="455,241,662,282"/>
+<area shape="rect" id="node10" href="$class_game_script.html#af70b2dfb0ddd3afa5e975bb2d4328171" title="GameScript::setMaterialTexture\lScale" alt="" coords="455,306,662,347"/>
+</map>

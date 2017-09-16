@@ -1,0 +1,14 @@
+<map id="RoR::GUIManager::GUIManager" name="RoR::GUIManager::GUIManager">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="817,24,1020,50"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_ogre_subsystem.html#a2f68e736be01d118cae03e831b38a9df" title="RoR::OgreSubsystem\l::GetOgreRoot" alt="" coords="313,66,463,107"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#af341888bb18cf9d743c56111c8c90306" title="RoR::App::GetSysLogsDir" alt="" coords="299,132,477,158"/>
+<area shape="rect" id="node5" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; LanguageEngine\l \&gt;::getSingleton" alt="" coords="283,183,493,224"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_manager.html#a4c05d58cb797a5c276fccb66fd1f15f0" title="RoR::GUIManager::eventRequestTag" alt="" coords="267,249,509,276"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_manager.html#a383e4098572ae987a16b794ae3f504bd" title="RoR::GUIManager::windowResized" alt="" coords="273,300,503,326"/>
+<area shape="rect" id="node8" href="$class_g_u_i_input_manager.html#a5fde1d31061185a8cea4911ff2d56b61" title="GUIInputManager::setInput\lViewSize" alt="" coords="570,292,750,334"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_manager.html#aa6522e664233ae16430b5ded2f4c25b0" title="RoR::GUIManager::AdjustMain\lMenuPosition" alt="" coords="558,150,762,191"/>
+<area shape="rect" id="node9" href="$class_g_u_i_input_manager.html#af367cbabbd2130a3cb260f93da0bb914" title="GUIInputManager::checkPosition" alt="" coords="811,300,1026,326"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="843,215,994,256"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_g_u_i_1_1_game_main_menu.html#a166e66f4c854383407a2633e019a9681" title="RoR::GUI::GameMainMenu\l::GetHeight" alt="" coords="827,84,1011,126"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_game_main_menu.html#a1653b19df9892e3ee1c23d08c3b1041b" title="RoR::GUI::GameMainMenu\l::SetPosition" alt="" coords="827,150,1011,191"/>
+</map>

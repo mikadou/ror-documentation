@@ -1,0 +1,10 @@
+<map id="RoR::BeamFactory::UpdateSleepingState" name="RoR::BeamFactory::UpdateSleepingState">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="241,5,445,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#a79720bddfd56a8689f7e60f93e1678cd" title="RoR::BeamFactory::Recursive\lActivation" alt="" coords="241,70,444,111"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="516,12,711,39"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_beam_factory.html#acab7b0c4b54d1d6c4950882447ed6661" title="RoR::BeamFactory::truckIntersection\lCollAABB" alt="" coords="493,66,733,107"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_beam_factory.html#aede50015ffb569b00e4afee1a34fa854" title="RoR::BeamFactory::predict\lTruckIntersectionCollAABB" alt="" coords="522,131,705,173"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_beam_factory.html#a65a7adae4e12c91a71eedf77d9b739a9" title="RoR::BeamFactory::truckIntersectionAABB" alt="" coords="782,29,1058,56"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_beam_factory.html#abea20f91f941f569f0b95f32ae2638ec" title="RoR::BeamFactory::intersectionAABB" alt="" coords="1107,105,1354,132"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_beam_factory.html#a6e019b56235074247a1c7e058f219f92" title="RoR::BeamFactory::predict\lTruckIntersectionAABB" alt="" coords="829,182,1011,223"/>
+</map>

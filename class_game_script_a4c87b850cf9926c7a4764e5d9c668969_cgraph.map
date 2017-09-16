@@ -1,0 +1,4 @@
+<map id="GameScript::getFPS" name="GameScript::getFPS">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="197,5,400,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="223,57,374,98"/>
+</map>

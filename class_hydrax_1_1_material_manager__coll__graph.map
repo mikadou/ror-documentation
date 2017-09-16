@@ -1,0 +1,27 @@
+<map id="Hydrax::MaterialManager" name="Hydrax::MaterialManager">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_hydrax.html" title="Hydrax::Hydrax" alt="" coords="1035,364,1149,391"/>
+<area shape="rect" id="node29" href="$class_hydrax_1_1_material_manager_1_1_underwater_compositor_listener.html" title="Hydrax::MaterialManager\l::UnderwaterCompositorListener" alt="" coords="987,198,1197,239"/>
+<area shape="rect" id="node3" href="$class_hydrax_1_1_mesh.html" title="Hydrax::Mesh" alt="" coords="1408,221,1512,248"/>
+<area shape="rect" id="node6" href="$class_hydrax_1_1_decals_manager.html" title="Hydrax::DecalsManager" alt="" coords="1379,848,1541,875"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_rtt_manager.html" title="Hydrax::RttManager" alt="" coords="1390,747,1530,773"/>
+<area shape="rect" id="node18" href="$class_hydrax_1_1_hydrax_1_1_device_listener.html" title="Hydrax::Hydrax::DeviceListener" alt="" coords="1355,899,1565,925"/>
+<area shape="rect" id="node22" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html" title="Hydrax::GPUNormalMapManager" alt="" coords="1771,275,1989,301"/>
+<area shape="rect" id="node23" href="$class_hydrax_1_1_cfg_file_manager.html" title="Hydrax::CfgFileManager" alt="" coords="1378,81,1542,108"/>
+<area shape="rect" id="node24" href="$class_hydrax_1_1_god_rays_manager.html" title="Hydrax::GodRaysManager" alt="" coords="2454,411,2631,437"/>
+<area shape="rect" id="node28" href="$class_hydrax_1_1_texture_manager.html" title="Hydrax::TextureManager" alt="" coords="1377,160,1543,187"/>
+<area shape="rect" id="node4" href="$struct_hydrax_1_1_mesh_1_1_options.html" title="Hydrax::Mesh::Options" alt="" coords="221,236,379,263"/>
+<area shape="rect" id="node20" href="$class_hydrax_1_1_module_1_1_module.html" title="Hydrax::Module::Module" alt="" coords="575,236,739,263"/>
+<area shape="rect" id="node5" href="$struct_hydrax_1_1_size.html" title="Hydrax::Size" alt="" coords="5,408,104,435"/>
+<area shape="rect" id="node8" href="$struct_hydrax_1_1_rtt_manager_1_1_rtt_options.html" title="Hydrax::RttManager\l::RttOptions" alt="" coords="409,575,549,617"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener.html" title="Hydrax::RttManager\l::CReflectionListener" alt="" coords="2209,922,2354,963"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener_1_1_c_reflection_queue_listener.html" title="Hydrax::RttManager\l::CReflectionListener\l::CReflectionQueueListener" alt="" coords="1789,1055,1971,1111"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_rtt_manager_1_1_c_refraction_listener.html" title="Hydrax::RttManager\l::CRefractionListener" alt="" coords="1807,739,1953,781"/>
+<area shape="rect" id="node14" href="$class_hydrax_1_1_rtt_manager_1_1_c_g_p_u_normal_map_listener.html" title="Hydrax::RttManager\l::CGPUNormalMapListener" alt="" coords="1789,926,1971,967"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_listener.html" title="Hydrax::RttManager\l::CDepthListener" alt="" coords="1810,1134,1950,1175"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_reflection_listener.html" title="Hydrax::RttManager\l::CDepthReflectionListener" alt="" coords="1790,619,1970,661"/>
+<area shape="rect" id="node27" href="$class_hydrax_1_1_god_rays_manager_1_1_depth_map_listener.html" title="Hydrax::GodRaysManager\l::DepthMapListener" alt="" coords="2803,449,2981,490"/>
+<area shape="rect" id="node21" href="$class_hydrax_1_1_noise_1_1_noise.html" title="Hydrax::Noise::Noise" alt="" coords="226,96,374,123"/>
+<area shape="rect" id="node25" href="$class_hydrax_1_1_noise_1_1_perlin.html" title="Hydrax::Noise::Perlin" alt="" coords="2208,308,2355,335"/>
+<area shape="rect" id="node26" href="$struct_hydrax_1_1_noise_1_1_perlin_1_1_options.html" title="Hydrax::Noise::Perlin\l::Options" alt="" coords="1807,326,1953,367"/>
+<area shape="rect" id="node31" href="$struct_hydrax_1_1_material_manager_1_1_options.html" title="Hydrax::MaterialManager\l::Options" alt="" coords="216,311,384,353"/>
+</map>

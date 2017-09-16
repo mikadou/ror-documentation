@@ -1,0 +1,29 @@
+<map id="RoRFrameListener::ChangedCurrentVehicle" name="RoRFrameListener::ChangedCurrentVehicle">
+<area shape="rect" id="node2" href="$class_dash_board_manager.html#a714e4e5bbf29e1854c06af1993fecebc" title="DashBoardManager::setVisible3d" alt="" coords="520,21,736,47"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="253,67,456,94"/>
+<area shape="rect" id="node5" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="245,119,464,160"/>
+<area shape="rect" id="node8" href="$class_beam.html#ab4dfeb77091b6ce9a344b1e1d4e964e3" title="Beam::GetGfxActor" alt="" coords="286,185,423,211"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_gfx_actor.html#a68717bfda17ddc3d4cff8e663c9cf06f" title="RoR::GfxActor::GetVideoCam\lState" alt="" coords="255,236,454,277"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_gfx_actor.html#a380125c9102242d296dc6f12b7468412" title="RoR::GfxActor::SetVideoCam\lState" alt="" coords="255,301,454,343"/>
+<area shape="rect" id="node11" href="$class_beam.html#a3304824c3e7285047f007c956318de09" title="Beam::prepareInside" alt="" coords="283,367,426,394"/>
+<area shape="rect" id="node12" href="$class_beam.html#a7d009b83ca5b166efe7c356abfcc3490" title="Beam::getRotation" alt="" coords="289,418,420,445"/>
+<area shape="rect" id="node13" href="$class_character.html#aa761e344c2aa6df9205bfa6bf1d3ea13" title="Character::setBeamCoupling" alt="" coords="259,469,450,495"/>
+<area shape="rect" id="node20" href="$class_character.html#a305f94b58e7e8b61cc6829e4aba7a060" title="Character::setRotation" alt="" coords="277,519,432,546"/>
+<area shape="rect" id="node21" href="$class_character.html#a1884d7f3e305d9b23164fdbf208f1cc6" title="Character::setPosition" alt="" coords="279,570,431,597"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_force_feedback.html#a5ad15f0bae3f998c07de438637445f28" title="RoR::ForceFeedback\l::SetEnabled" alt="" coords="281,643,428,684"/>
+<area shape="rect" id="node25" href="$class_camera_manager.html#a737fe1d8d82faf6d9a3981eb713ec82c" title="CameraManager::NotifyVehicle\lChanged" alt="" coords="253,732,457,773"/>
+<area shape="rect" id="node3" href="$class_dash_board.html#a650c134fdce0c84a77d84d2c23bdccbe" title="DashBoard::setVisible" alt="" coords="815,74,967,101"/>
+<area shape="rect" id="node6" href="$class_dash_board_manager.html#aab1c20ed732f3e11ea290a2f90be99e0" title="DashBoardManager::wasLoaded" alt="" coords="523,75,733,102"/>
+<area shape="rect" id="node7" href="$class_dash_board_manager.html#a21ffd946b6843df16ca7b3ef704b596a" title="DashBoardManager::setVisible" alt="" coords="527,126,729,153"/>
+<area shape="rect" id="node14" href="$class_character.html#ad78f70dcdb7ed4ccd8e97824f62847e1" title="Character::setPhysicsEnabled" alt="" coords="529,357,727,383"/>
+<area shape="rect" id="node15" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="531,407,725,434"/>
+<area shape="rect" id="node16" href="$class_beam.html#adfe810237f6498de41657429ad35ee38" title="Beam::hasDriverSeat" alt="" coords="555,458,701,485"/>
+<area shape="rect" id="node17" href="$class_character.html#a9431f9de49989e5bbf7e02810aca1f14" title="Character::setVisible" alt="" coords="556,509,700,535"/>
+<area shape="rect" id="node18" href="$class_survey_map_manager.html#a17809f36c8b9291270ced418f222faab" title="SurveyMapManager::getMap\lEntityByName" alt="" coords="796,552,985,593"/>
+<area shape="rect" id="node19" href="$class_survey_map_entity.html#ad3cc1cb8f1e71f876290abb0eb004c05" title="SurveyMapEntity::setVisibility" alt="" coords="792,501,989,527"/>
+<area shape="rect" id="node22" href="$class_survey_map_entity.html#a781ecb998f41521324088cd3ce66d9ce" title="SurveyMapEntity::setPosition" alt="" coords="531,610,725,637"/>
+<area shape="rect" id="node24" href="$namespace_ro_r_1_1_app.html#a51a0672fc999e4d6da7bc06226c9dd1f" title="RoR::App::GetIoFFbackMasterGain" alt="" coords="513,661,743,687"/>
+<area shape="rect" id="node26" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="521,711,735,738"/>
+<area shape="rect" id="node27" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="802,737,979,763"/>
+<area shape="rect" id="node28" href="$class_camera_manager.html#a522774afcf439b4e08bc364259d97062" title="CameraManager::SwitchBehavior\lOnVehicleChange" alt="" coords="519,813,737,855"/>
+</map>

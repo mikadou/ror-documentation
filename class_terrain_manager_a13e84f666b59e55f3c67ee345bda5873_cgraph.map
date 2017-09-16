@@ -1,0 +1,27 @@
+<map id="TerrainManager::initSubSystems" name="TerrainManager::initSubSystems">
+<area shape="rect" id="node2" href="$class_terrain_manager.html#ab5772ccb7b3bb385c00422b22a31000b" title="TerrainManager::initShadows" alt="" coords="281,5,471,32"/>
+<area shape="rect" id="node4" href="$class_terrain_manager.html#aaf52d0c3d1ddee62a257c327c7055854" title="TerrainManager::initGeometry" alt="" coords="279,56,473,83"/>
+<area shape="rect" id="node5" href="$class_terrain_manager.html#abbd97d158bd8ad2cfa2a9e7183430687" title="TerrainManager::initObjects" alt="" coords="285,107,467,133"/>
+<area shape="rect" id="node6" href="$class_terrain_manager.html#aab929f1c780a2f8351025987b7930a6d" title="TerrainManager::initScripting" alt="" coords="282,157,470,184"/>
+<area shape="rect" id="node8" href="$class_terrain_manager.html#a2cdad8445ca98a9275d600d2fd2309ec" title="TerrainManager::initCamera" alt="" coords="285,208,467,235"/>
+<area shape="rect" id="node11" href="$class_terrain_manager.html#ae9f5225285a5636f72bbe201d05961b9" title="TerrainManager::initSkySub\lSystem" alt="" coords="285,259,467,301"/>
+<area shape="rect" id="node12" href="$namespace_ro_r_1_1_app.html#a3e3d0adc237e9aa36a136b40016f6b95" title="RoR::App::GetGfxSkyMode" alt="" coords="555,325,741,352"/>
+<area shape="rect" id="node13" href="$class_terrain_manager.html#ab6b319eaeebe6580116b98fcd33ab2a3" title="TerrainManager::initLight" alt="" coords="293,376,459,403"/>
+<area shape="rect" id="node14" href="$class_terrain_manager.html#af36eadd83878fcab6babbf6d7cb1d832" title="TerrainManager::initFog" alt="" coords="297,427,455,453"/>
+<area shape="rect" id="node15" href="$class_terrain_manager.html#a3a1a36c2b35682bc35f74e36415084ee" title="TerrainManager::initVegetation" alt="" coords="277,477,475,504"/>
+<area shape="rect" id="node17" href="$namespace_ro_r_1_1_app.html#a606232ee2e39a19559a80e86d5499ad4" title="RoR::App::GetGfxEnableHdr" alt="" coords="281,528,471,555"/>
+<area shape="rect" id="node18" href="$class_terrain_manager.html#a6f09339480ad21843f45c3fd319fdb5a" title="TerrainManager::initHDR" alt="" coords="293,579,459,605"/>
+<area shape="rect" id="node21" href="$namespace_ro_r_1_1_app.html#a60a10f7ba549e664dfc316c74b22086d" title="RoR::App::GetGfxEnableGlow" alt="" coords="276,629,476,656"/>
+<area shape="rect" id="node22" href="$class_terrain_manager.html#ade9befdc58ae6c7b4344b58f15ae43e0" title="TerrainManager::initGlow" alt="" coords="293,680,459,707"/>
+<area shape="rect" id="node23" href="$class_terrain_manager.html#aaf1c260ae2568086f5d179b5cfec7adf" title="TerrainManager::initMotionBlur" alt="" coords="277,731,475,757"/>
+<area shape="rect" id="node24" href="$namespace_ro_r_1_1_app.html#a6a1a7323896e599a4ad2ea9e718d8572" title="RoR::App::GetGfxEnableSunburn" alt="" coords="267,781,485,808"/>
+<area shape="rect" id="node25" href="$class_terrain_manager.html#a52aa067ce10969f89e927e2baeca2740" title="TerrainManager::initSunburn" alt="" coords="283,832,469,859"/>
+<area shape="rect" id="node26" href="$class_terrain_manager.html#acb939ff8aac9f744d17e4c928f5b35bd" title="TerrainManager::initDashboards" alt="" coords="273,883,479,909"/>
+<area shape="rect" id="node3" href="$class_shadow_manager.html#aa662e6eb1152f9fadfee04923a51e251" title="ShadowManager::loadConfiguration" alt="" coords="534,5,762,32"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="551,157,745,184"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#aba94f35b27638b6e02e56556aff2963e" title="RoR::App::GetGfxSightRange" alt="" coords="549,208,747,235"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_app.html#a02caa3283775ee9aae51910208d3e7cc" title="RoR::App::GetGfxWaterMode" alt="" coords="549,259,747,285"/>
+<area shape="rect" id="node16" href="$namespace_ro_r_1_1_app.html#ad900575bc0f84cc351b7cf48b80a46c7" title="RoR::App::GetGfxVegetationMode" alt="" coords="536,477,760,504"/>
+<area shape="rect" id="node19" href="$class_h_d_r_listener.html#accfa86418bd63fea33751a70703d3e2e" title="HDRListener::notifyViewportSize" alt="" coords="541,553,755,580"/>
+<area shape="rect" id="node20" href="$class_h_d_r_listener.html#af50c6069424ace2a1b4fc77af69d418c" title="HDRListener::notifyCompositor" alt="" coords="545,604,751,631"/>
+</map>

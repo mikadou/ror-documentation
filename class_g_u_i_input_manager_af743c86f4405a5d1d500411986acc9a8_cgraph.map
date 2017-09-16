@@ -1,0 +1,6 @@
+<map id="GUIInputManager::WakeUpGUI" name="GUIInputManager::WakeUpGUI">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="735,5,913,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_manager.html#ae032ae0ac0445e1b4bd8db096ab4802c" title="RoR::GUIManager::SetVisible\l_TopMenubar" alt="" coords="262,53,461,94"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a7ee247dd78285318bb567fc49eb8a467" title="RoR::GUI::TopMenubar\l::SetVisible" alt="" coords="510,53,671,94"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_manager.html#aa9d9cf9d3a246eb3200f4a1c1e299b5b" title="RoR::GUIManager::UnfocusGui" alt="" coords="720,60,928,87"/>
+</map>

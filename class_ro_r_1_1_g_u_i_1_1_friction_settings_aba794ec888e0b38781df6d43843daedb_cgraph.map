@@ -1,0 +1,4 @@
+<map id="RoR::GUI::FrictionSettings::event_combo_grounds_eventComboAccept" name="RoR::GUI::FrictionSettings::event_combo_grounds_eventComboAccept">
+<area shape="rect" id="node2" href="$class_collisions.html#a7840c7d5b2b56b4cc8f41778c0edb7a7" title="Collisions::getGroundModel\lByString" alt="" coords="297,5,479,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a52b83cc66a654dfc82333dc546f22a58" title="RoR::GUI::FrictionSettings\l::updateControls" alt="" coords="298,70,478,111"/>
+</map>

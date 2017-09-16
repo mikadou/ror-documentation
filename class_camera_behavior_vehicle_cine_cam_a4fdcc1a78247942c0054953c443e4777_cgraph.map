@@ -1,0 +1,4 @@
+<map id="CameraBehaviorVehicleCineCam::switchBehavior" name="CameraBehaviorVehicleCineCam::switchBehavior">
+<area shape="rect" id="node2" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="243,5,421,32"/>
+<area shape="rect" id="node3" href="$class_beam.html#a23fbbd95dce6d7440124a59ff905e4d5" title="Beam::changedCamera" alt="" coords="253,56,411,83"/>
+</map>

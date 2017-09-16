@@ -1,0 +1,4 @@
+<map id="RoR::App::GetGfxFovExternal" name="RoR::App::GetGfxFovExternal">
+<area shape="rect" id="node2" href="$class_camera_manager.html#a6ce8336f17845b1e87899d14ed0a0b98" title="CameraManager::Update" alt="" coords="253,5,421,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="470,5,685,32"/>
+</map>

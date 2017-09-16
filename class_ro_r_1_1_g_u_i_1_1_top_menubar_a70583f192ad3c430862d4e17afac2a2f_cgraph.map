@@ -1,0 +1,27 @@
+<map id="RoR::GUI::TopMenubar::vehiclesListUpdate" name="RoR::GUI::TopMenubar::vehiclesListUpdate">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="216,5,411,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="463,34,657,75"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#a869e76f2a6708166204319cf355b3398" title="RoR::BeamFactory::getTruck\lCount" alt="" coords="463,99,657,141"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_beam_factory.html#a4941682a48735d61f13f27b67a4c0b8e" title="RoR::BeamFactory::getTrucks" alt="" coords="459,333,661,360"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#addbf2f7c7b987d76109c9ed95f966437" title="RoR::GUI::TopMenubar\l::addUserToMenu" alt="" coords="233,158,394,199"/>
+<area shape="rect" id="node7" href="$_utils_8h.html#a23744b3f0e07a907bc9993afbcf37c2d" title="convertToMyGUIString" alt="" coords="482,165,638,192"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#afc569f76db932594057f0ad6c6884003" title="RoR::GUI::TopMenubar\l::getUserString" alt="" coords="479,217,641,258"/>
+<area shape="rect" id="node26" href="$_utils_8cpp.html#aebe76599ecdd7fc4db8b64cba0beb94e" title="ANSI_TO_UTF" alt="" coords="777,275,889,301"/>
+<area shape="rect" id="node8" href="$_utils_8h.html#abe6f6cf9ad4e672e6f4db9fe552b6bcf" title="ANSI_TO_WCHAR" alt="" coords="764,165,903,192"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_chat_system.html#a86899695cb4028cfac8466b79f993141" title="RoR::ChatSystem::GetColouredName" alt="" coords="710,224,957,251"/>
+<area shape="rect" id="node11" href="$_utils_8cpp.html#aef0f4c4a8529a99aa149b9d72aa3a3f4" title="tryConvertUTF" alt="" coords="1005,224,1115,251"/>
+<area shape="rect" id="node12" href="$namespace_ro_r_1_1_utils.html#ac62ee4a4a513a67cba1bdc7d9eb9c7a4" title="RoR::Utils::SanitizeUtf8\lString" alt="" coords="1163,242,1327,283"/>
+<area shape="rect" id="node13" href="$namespaceutf8.html#a07dcd36a2185e5c9f0b19dd88859cd6c" title="utf8::replace_invalid" alt="" coords="1376,249,1515,276"/>
+<area shape="rect" id="node14" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="1563,249,1741,276"/>
+<area shape="rect" id="node24" href="$namespaceutf8.html#a3827e78596fc38cfdebd721e9c45c901" title="The library API &#45; functions intended to be called by the users. " alt="" coords="1605,372,1699,399"/>
+<area shape="rect" id="node25" href="$namespaceutf8_1_1internal.html#ab4820484159ba613b4901476ceb24516" title="utf8::internal::is\l_trail" alt="" coords="1596,86,1708,127"/>
+<area shape="rect" id="node15" href="$namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="1790,46,1949,87"/>
+<area shape="rect" id="node17" href="$namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="1809,111,1929,153"/>
+<area shape="rect" id="node18" href="$namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="1809,177,1929,218"/>
+<area shape="rect" id="node19" href="$namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="1809,242,1929,283"/>
+<area shape="rect" id="node20" href="$namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="1809,307,1929,349"/>
+<area shape="rect" id="node21" href="$namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="1806,438,1933,479"/>
+<area shape="rect" id="node23" href="$namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="1799,373,1940,414"/>
+<area shape="rect" id="node16" href="$namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1997,152,2139,179"/>
+<area shape="rect" id="node22" href="$namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="2012,438,2124,479"/>
+</map>

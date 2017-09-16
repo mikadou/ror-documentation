@@ -1,0 +1,11 @@
+<map id="Collisions::groundCollision" name="Collisions::groundCollision">
+<area shape="rect" id="node2" href="$class_landusemap.html#ae1674c54ecba0ba42db48a919eda4ba1" title="Landusemap::getGroundModelAt" alt="" coords="230,12,442,39"/>
+<area shape="rect" id="node5" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="247,63,425,89"/>
+<area shape="rect" id="node6" href="$class_i_height_finder.html#a1e72a8b431fcce239ab01e7d77235aab" title="IHeightFinder::getNormalAt" alt="" coords="245,113,427,140"/>
+<area shape="rect" id="node7" href="$_collisions_8cpp.html#a9933836f15db1958d035f7d773aefd06" title="primitiveCollision" alt="" coords="275,164,397,191"/>
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="491,12,720,39"/>
+<area shape="rect" id="node4" href="$class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="769,5,938,46"/>
+<area shape="rect" id="node8" href="$_approx_math_8h.html#aa827078e74a2a2b87a97a834d2359e88" title="approx_pow" alt="" coords="559,113,651,140"/>
+<area shape="rect" id="node9" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="559,164,651,191"/>
+<area shape="rect" id="node10" href="$_approx_math_8h.html#a9f32a288dbece202a4eaa1808aad5506" title="approx_exp" alt="" coords="561,215,650,241"/>
+</map>

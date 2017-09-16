@@ -1,0 +1,4 @@
+<map id="RoR::GUI::TeleportWindow::EnableAltMode" name="RoR::GUI::TeleportWindow::EnableAltMode">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a0068aab5f9d3800bb3e082509403e326" title="RoR::GUI::TeleportWindow\l::TeleportWindowFrameStep" alt="" coords="238,5,426,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="475,12,690,39"/>
+</map>

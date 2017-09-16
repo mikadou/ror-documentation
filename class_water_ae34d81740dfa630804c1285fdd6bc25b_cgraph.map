@@ -1,0 +1,6 @@
+<map id="Water::isCameraUnderWater" name="Water::isCameraUnderWater">
+<area shape="rect" id="node2" href="$class_water.html#ae0ff5f204633423eb3d8f825940b0c94" title="Water::getHeightWaves" alt="" coords="245,71,408,97"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a347d49b8105a10d1f95dfa8dcc543fc0" title="RoR::App::GetGfxWaterUse\lWaves" alt="" coords="459,5,648,46"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="456,71,651,97"/>
+<area shape="rect" id="node5" href="$class_water.html#a0e898659c77fb2358402d0cd669301c0" title="Water::getWaveHeight" alt="" coords="476,121,631,148"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RoR::BeamFactory::GetMostRecentTruckSlot" name="RoR::BeamFactory::GetMostRecentTruckSlot">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#abcdedea5c3b7dab93c09ff70d904e038" title="RoR::BeamFactory::enterNext\lTruck" alt="" coords="260,5,460,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_beam_factory.html#a4d3987d8687c75d3eeac5352c86160e0" title="RoR::BeamFactory::enterPrevious\lTruck" alt="" coords="249,70,471,111"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="521,38,703,79"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="753,45,967,72"/>
+</map>

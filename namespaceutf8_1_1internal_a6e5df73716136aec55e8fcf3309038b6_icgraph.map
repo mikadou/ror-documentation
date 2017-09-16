@@ -1,0 +1,51 @@
+<map id="utf8::internal::get_sequence_1" name="utf8::internal::get_sequence_1">
+<area shape="rect" id="node2" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="173,1444,352,1471"/>
+<area shape="rect" id="node3" href="$namespaceutf8.html#a07dcd36a2185e5c9f0b19dd88859cd6c" title="utf8::replace_invalid" alt="" coords="420,492,559,519"/>
+<area shape="rect" id="node25" href="$namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="451,1419,528,1445"/>
+<area shape="rect" id="node48" href="$namespaceutf8_1_1internal.html#afd41668f94ce9f60f8e314d05804cecc" title="utf8::internal::validate_next" alt="" coords="400,1469,579,1496"/>
+<area shape="rect" id="node49" href="$namespaceutf8.html#ae29721faca762865e83ffea06605acc5" title="utf8::find_invalid" alt="" coords="431,1596,548,1623"/>
+<area shape="rect" id="node4" href="$conf__file_8h.html#a153caa3fe3ddc7deff2c5e14d1dd4f71" title="SanitizeUtf8String" alt="" coords="671,492,799,519"/>
+<area shape="rect" id="node21" href="$class_rig_def_1_1_parser.html#ad1920ba0a8dc23ac5043b2c270ef5f47" title="RigDef::Parser::ProcessRawLine" alt="" coords="627,201,843,228"/>
+<area shape="rect" id="node23" href="$namespaceutf8.html#a13db09b6629724205302c623b76db028" title="utf8::replace_invalid" alt="" coords="665,441,804,468"/>
+<area shape="rect" id="node24" href="$namespace_ro_r_1_1_utils.html#ac62ee4a4a513a67cba1bdc7d9eb9c7a4" title="RoR::Utils::SanitizeUtf8\lString" alt="" coords="653,565,817,606"/>
+<area shape="rect" id="node5" href="$class_settings.html#a3610937cea22837c48e59a1c9493f295" title="Settings::loadSettings" alt="" coords="925,71,1075,97"/>
+<area shape="rect" id="node6" href="$class_my_dialog.html#a3a49421662fe7600e722c3ca32b48a4d" title="MyDialog::LoadConfig" alt="" coords="925,172,1075,199"/>
+<area shape="rect" id="node8" href="$class_character.html#a56efcb1702c8ea823659e5106cc03333" title="Character::receiveStreamData" alt="" coords="901,121,1099,148"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_skin_manager.html#adeace12c6ab5f60f8c3ee860204d352c" title="RoR::SkinManager::parseScript" alt="" coords="897,623,1103,649"/>
+<area shape="rect" id="node10" href="$class_torque_curve.html#a68e95142e6044ef86a4b0509fcecc1d3" title="TorqueCurve::loadDefault\lTorqueModels" alt="" coords="915,674,1085,715"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_skidmark_config.html#a2939c7181345ac52adaa2bc3c2fab3c3" title="RoR::SkidmarkConfig\l::loadDefaultModels" alt="" coords="925,739,1075,781"/>
+<area shape="rect" id="node12" href="$class_cmd_key_inertia.html#a5fc5946c4e0023b8ce1fa7fd58fa9b23" title="CmdKeyInertia::loadDefault\lInertiaModels" alt="" coords="909,805,1091,846"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_terrn2_parser.html#aaf74ce663f16609faf6f139d4bf256e4" title="RoR::Terrn2Parser::\lLoadTerrn2" alt="" coords="1158,863,1298,905"/>
+<area shape="rect" id="node14" href="$class_terrain_geometry_manager.html#a5d955662dda8b746d97fe586997f2471" title="TerrainGeometryManager\l::getPageHeightmap" alt="" coords="915,274,1085,315"/>
+<area shape="rect" id="node15" href="$class_terrain_geometry_manager.html#ad130c4517d56ebd061d7c2d17d4308bb" title="TerrainGeometryManager\l::loadLayers" alt="" coords="915,339,1085,381"/>
+<area shape="rect" id="node16" href="$class_terrain_object_manager.html#a62a108ad201e16585ab3115befedae60" title="TerrainObjectManager\l::loadObject" alt="" coords="925,405,1075,446"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_config_file.html#abfd892376697c81b3636c52a19fd89a4" title="RoR::ConfigFile::GetStringEx" alt="" coords="903,871,1097,897"/>
+<area shape="rect" id="node18" href="$class_settings.html#aa8257000628d4086aa8e792b26b35445" title="Settings::LoadSettings" alt="" coords="923,471,1077,497"/>
+<area shape="rect" id="node19" href="$_utils_8h.html#aef4983bfed18d57951ada0cdaf1c4690" title="tryConvertUTF" alt="" coords="945,521,1055,548"/>
+<area shape="rect" id="node20" href="$_utils_8cpp.html#aebe76599ecdd7fc4db8b64cba0beb94e" title="ANSI_TO_UTF" alt="" coords="944,572,1056,599"/>
+<area shape="rect" id="node7" href="$class_my_dialog.html#ac878405673c6177b80014e3ea1db6af7" title="MyDialog::MyDialog" alt="" coords="1158,172,1298,199"/>
+<area shape="rect" id="node22" href="$class_rig_def_1_1_parser.html#ab08d0ba4ffb90b72cb351014bb7861bd" title="RigDef::Parser::ProcessOgre\lStream" alt="" coords="903,5,1097,46"/>
+<area shape="rect" id="node26" href="$class_rail_builder.html#a7a2bce672a41701e6908a9cea2139df6" title="RailBuilder::pushBack" alt="" coords="659,1520,810,1547"/>
+<area shape="rect" id="node27" href="$namespaceutf8.html#a42451db4241d57afe46e61f6a966ee8d" title="utf8::peek_next" alt="" coords="679,1571,791,1597"/>
+<area shape="rect" id="node29" href="$namespaceutf8.html#aedaf9315740d4f25b43c188b02b5bcd0" title="Deprecated in versions that include &quot;prior&quot;. " alt="" coords="684,1621,785,1648"/>
+<area shape="rect" id="node30" href="$namespaceutf8.html#a411eec0d2919810bb26966be242c1e9e" title="utf8::advance" alt="" coords="684,1216,785,1243"/>
+<area shape="rect" id="node31" href="$namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="684,1267,785,1293"/>
+<area shape="rect" id="node44" href="$namespaceutf8.html#a6404050074139c367a42f0a911779903" title="utf8::utf8to16" alt="" coords="685,1317,784,1344"/>
+<area shape="rect" id="node45" href="$namespaceutf8.html#a8020ed399788dca779663adf061ed718" title="utf8::utf8to32" alt="" coords="685,1368,784,1395"/>
+<area shape="rect" id="node46" href="$classutf8_1_1iterator.html#abbe7cf79cc5b78a375d80b0dba39fa0c" title="utf8::iterator::operator*" alt="" coords="659,1419,811,1445"/>
+<area shape="rect" id="node47" href="$classutf8_1_1iterator.html#a93e9ac16a560fab545a05efb6b0a3add" title="utf8::iterator::operator++" alt="" coords="653,1469,816,1496"/>
+<area shape="rect" id="node28" href="$namespaceutf8.html#a9a599fdd8a16ce65e3e72192db9d499b" title="utf8::prior" alt="" coords="961,1628,1039,1655"/>
+<area shape="rect" id="node32" href="$class_character.html#a6db76b3ec402b6246cdb55fdeccce543" title="Character::unwindMovement" alt="" coords="905,1241,1095,1268"/>
+<area shape="rect" id="node33" href="$class_torque_curve.html#a7bb43cf140f4cda849cc59d499749bce" title="TorqueCurve::spaceCurveEvenly" alt="" coords="893,1292,1107,1319"/>
+<area shape="rect" id="node34" href="$class_camera_behavior_static.html#a66f42dd626971b23645028994a55c773" title="CameraBehaviorStatic\l::update" alt="" coords="923,1343,1077,1385"/>
+<area shape="rect" id="node35" href="$class_ro_r_1_1_skidmark.html#ac79b88ffa888c4e4e04eb857595cd7c4" title="RoR::Skidmark::updatePoint" alt="" coords="905,1409,1095,1436"/>
+<area shape="rect" id="node36" href="$class_overlay_wrapper.html#a5aff384b01c862665c390d0f4024e8b9" title="OverlayWrapper::UpdateDirection\lArrow" alt="" coords="891,1461,1109,1502"/>
+<area shape="rect" id="node37" href="$class_beam.html#a8b8e30801a15fd87d0cb99e09900bdbb" title="Beam::hookToggle" alt="" coords="935,1527,1065,1553"/>
+<area shape="rect" id="node38" href="$_dynamic_collisions_8cpp.html#a33342fa9139afaa4ffbe69d08e3e66b1" title="Test if a point given in triangle local coordinates lies within the triangle itself. " alt="" coords="935,1023,1065,1049"/>
+<area shape="rect" id="node39" href="$_dynamic_collisions_8h.html#a2e06e402bcfbf043fcf34f1105bcd5a4" title="interTruckCollisions" alt="" coords="1159,1300,1297,1327"/>
+<area shape="rect" id="node40" href="$_dynamic_collisions_8h.html#a99a047f3ac95e36f940d6665816e6087" title="intraTruckCollisions" alt="" coords="1159,997,1297,1024"/>
+<area shape="rect" id="node41" href="$class_ro_r_1_1_flex_factory.html#add052566ab5956972cd688504e69f2e1" title="RoR::FlexFactory::Resolve\lFlexbodyLOD" alt="" coords="909,1074,1091,1115"/>
+<area shape="rect" id="node42" href="$_ogre_angelscript_8h.html#adebc3ca774e00cd2fcce21c7d73d77be" title="registerOgreVector3" alt="" coords="931,1140,1069,1167"/>
+<area shape="rect" id="node43" href="$class_mesh_object.html#a02f1d3412dfdec5ab09967f8ab86486c" title="MeshObject::postProcess" alt="" coords="913,1191,1087,1217"/>
+<area shape="rect" id="node50" href="$namespaceutf8.html#add2dbec3d058aa66500ec4f97cc8174b" title="utf8::is_valid" alt="" coords="687,1672,783,1699"/>
+</map>

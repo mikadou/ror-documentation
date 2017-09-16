@@ -1,0 +1,5 @@
+<map id="RoR::GUI::GameSettings" name="RoR::GUI::GameSettings">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_game_settings_layout.html" title="RoR::GUI::GameSettingsLayout" alt="" coords="5,83,215,109"/>
+<area shape="rect" id="node3" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="43,5,177,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_config_file.html" title="RoR::ConfigFile" alt="" coords="241,83,356,109"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RoR::App::SetGfxFovInternal" name="RoR::App::SetGfxFovInternal">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="249,5,431,46"/>
+<area shape="rect" id="node4" href="$class_settings.html#a99c5eec8b9e74d09a7ac2f7aa97ecd19" title="Settings::SetGfxFovInternal" alt="" coords="248,71,432,97"/>
+<area shape="rect" id="node5" href="$class_settings.html#aa27b8db941ea9fa77ffff67c80b1d5be" title="Settings::ParseGlobalVar\lSetting" alt="" coords="255,122,425,163"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="481,12,695,39"/>
+</map>

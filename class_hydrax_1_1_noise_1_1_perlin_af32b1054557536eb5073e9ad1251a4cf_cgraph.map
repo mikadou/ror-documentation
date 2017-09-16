@@ -1,0 +1,6 @@
+<map id="Hydrax::Noise::Perlin::setOptions" name="Hydrax::Noise::Perlin::setOptions">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_noise_1_1_noise.html#a94f5963b8f6fed2fb22149ff22e1166f" title="Hydrax::Noise::Noise\l::isCreated" alt="" coords="253,5,401,46"/>
+<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_noise.html#a20e13eb2f5cc93d384bb846b05d7aaeb" title="Hydrax::Noise::Noise\l::isGPUNormalMapSupported" alt="" coords="229,70,424,111"/>
+<area shape="rect" id="node4" href="$class_hydrax_1_1_noise_1_1_noise.html#ae2260556005e5a5eaebae94d936b60c0" title="Hydrax::Noise::Noise\l::areGPUNormalMapResourcesCreated" alt="" coords="200,135,453,177"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html#a03dbe50e39daea6c40ac192c0afa1936" title="Hydrax::GPUNormalMapManager\l::getNormalMapMaterial" alt="" coords="217,201,436,242"/>
+</map>

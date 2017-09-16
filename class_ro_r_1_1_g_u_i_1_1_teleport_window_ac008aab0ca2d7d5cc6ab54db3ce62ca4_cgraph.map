@@ -1,0 +1,11 @@
+<map id="RoR::GUI::TeleportWindow::MinimapMouseClick" name="RoR::GUI::TeleportWindow::MinimapMouseClick">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a1c248474eb6ec88894e7f85ad0b4eab8" title="RoR::GUI::TeleportWindow\l::SetVisible" alt="" coords="239,34,422,75"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a8a381cef6c05c6035a7c8a1d950eda2e" title="RoRFrameListener::Teleport\lPlayerXZ" alt="" coords="237,99,424,141"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="473,5,677,46"/>
+<area shape="rect" id="node6" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="487,70,663,111"/>
+<area shape="rect" id="node7" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="486,136,663,163"/>
+<area shape="rect" id="node8" href="$class_character.html#a1884d7f3e305d9b23164fdbf208f1cc6" title="Character::setPosition" alt="" coords="499,187,651,213"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="725,12,920,39"/>
+<area shape="rect" id="node9" href="$class_survey_map_manager.html#a17809f36c8b9291270ced418f222faab" title="SurveyMapManager::getMap\lEntityByName" alt="" coords="728,150,917,191"/>
+<area shape="rect" id="node10" href="$class_survey_map_entity.html#a781ecb998f41521324088cd3ce66d9ce" title="SurveyMapEntity::setPosition" alt="" coords="725,216,920,243"/>
+</map>

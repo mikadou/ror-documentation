@@ -1,0 +1,11 @@
+<map id="RoR::OgreSubsystem::StartOgre" name="RoR::OgreSubsystem::StartOgre">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#af341888bb18cf9d743c56111c8c90306" title="RoR::App::GetSysLogsDir" alt="" coords="210,5,387,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a2c3bd075339dae711a99f41ae3916863" title="RoR::App::GetSysConfigDir" alt="" coords="205,56,392,83"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a0e0b819c4266e90fbaaa882e1bbd1544" title="RoR::App::GetSysProcessDir" alt="" coords="440,117,637,144"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_ogre_subsystem.html#aec1ce242a94215d9500cf4d73776596c" title="RoR::OgreSubsystem\l::LoadOgrePlugins" alt="" coords="223,158,374,199"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_ogre_subsystem.html#adac15fe2de5856cb1a1befa681eec2e6" title="RoR::OgreSubsystem\l::Configure" alt="" coords="223,223,374,265"/>
+<area shape="rect" id="node7" href="$_utils_8cpp.html#a6219796a02effcab384e7c356aa6bc3d" title="fixRenderWindowIcon" alt="" coords="463,180,614,207"/>
+<area shape="rect" id="node8" href="$struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="465,231,612,257"/>
+<area shape="rect" id="node10" href="$namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="493,281,585,308"/>
+<area shape="rect" id="node9" href="$struct_error_utils.html#a3250a36825c8b55b26d1565addb7e922" title="ErrorUtils::ShowMsgBox" alt="" coords="686,231,853,257"/>
+</map>

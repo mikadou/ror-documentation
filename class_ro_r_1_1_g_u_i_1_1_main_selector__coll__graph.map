@@ -1,0 +1,7 @@
+<map id="RoR::GUI::MainSelector" name="RoR::GUI::MainSelector">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_main_selector_layout.html" title="RoR::GUI::MainSelectorLayout" alt="" coords="5,83,208,109"/>
+<area shape="rect" id="node3" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="39,5,173,32"/>
+<area shape="rect" id="node4" href="$struct_ro_r_1_1_skin_def.html" title="RoR::SkinDef" alt="" coords="233,83,337,109"/>
+<area shape="rect" id="node5" href="$class_cache_entry.html" title="CacheEntry" alt="" coords="373,83,464,109"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_skin_manager.html" title="Manages Skin resources, parsing .skin files and generally organizing them. " alt="" coords="491,83,624,109"/>
+</map>

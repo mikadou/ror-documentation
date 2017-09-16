@@ -1,0 +1,5 @@
+<map id="OverlayWrapper::update" name="OverlayWrapper::update">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="231,5,414,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_main_menu.html#aaf317cb35e15dc7dccc56bdc1c096f41" title="RoR::MainMenu::MainMenuLoop\lUpdateEvents" alt="" coords="216,70,429,111"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="478,12,693,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Beam::StopAllSounds" name="Beam::StopAllSounds">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#a19c3b3a03f33efbed7a031aa94d81d73" title="RoR::BeamFactory::MuteAll\lTrucks" alt="" coords="205,5,392,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="441,12,655,39"/>
+</map>

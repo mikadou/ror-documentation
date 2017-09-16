@@ -1,0 +1,3 @@
+<map id="ThreadPool::Parallelize" name="ThreadPool::Parallelize">
+<area shape="rect" id="node2" href="$class_thread_pool.html#ae2b5f048a1a2b457566477b8afae2243" title="Submit new asynchronous task to thread pool and return Task handle to allow for synchronization. " alt="" coords="211,5,360,32"/>
+</map>

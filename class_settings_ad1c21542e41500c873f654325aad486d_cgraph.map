@@ -1,0 +1,12 @@
+<map id="Settings::SetupAllPaths" name="Settings::SetupAllPaths">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a2f5a32cc85742cc76773feb27da8036c" title="RoR::App::GetSysUserDir" alt="" coords="239,5,417,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a10887bbd2afecd88a88abdfb448b6d12" title="RoR::App::SetSysConfigDir" alt="" coords="235,56,421,83"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_app.html#aad070de4e28391b98abc1cfa9d70849f" title="RoR::App::SetSysCacheDir" alt="" coords="235,107,421,133"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#a7ff8ac3e94fd3d210a9f61e5056c5315" title="RoR::App::SetSysScreenshotDir" alt="" coords="221,157,435,184"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#a0e0b819c4266e90fbaaa882e1bbd1544" title="RoR::App::GetSysProcessDir" alt="" coords="229,208,427,235"/>
+<area shape="rect" id="node8" href="$_settings_8cpp.html#ae4c1dc836720e665da1d7480bc2523bc" title="FolderExists" alt="" coords="281,259,375,285"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#afec8a78a756a3bf35b4815c37d206ab1" title="RoR::App::SetSysResourcesDir" alt="" coords="223,309,433,336"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_system.html#a4f6a4082832d8cd99f20ca3ec81c7c28" title="RoR::System::GetParentDirectory" alt="" coords="217,360,439,387"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a14508a8885a04713a5a39d5628be83c9" title="RoR::App::SetVarStr" alt="" coords="505,132,650,159"/>
+<area shape="rect" id="node11" href="$namespace_ro_r_1_1_system.html#a8f8027bd776c0361c75849c27379dae3" title="RoR::System::IsSeparator" alt="" coords="489,360,666,387"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="DashBoard::windowResized" name="DashBoard::windowResized">
+<area shape="rect" id="node2" href="$class_dash_board_manager.html#a95b7258d2dda7b85719af98ff001c928" title="DashBoardManager::window\lResized" alt="" coords="255,5,444,46"/>
+<area shape="rect" id="node5" href="$class_dash_board.html#afba8b31b1a688f0c60d18fcc2f536c33" title="DashBoard::loadLayoutRecursive" alt="" coords="241,71,458,97"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#af0ad39b32251a4fb8a6faf26317799fc" title="RoR::BeamFactory::window\lResized" alt="" coords="507,5,693,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#a967b4a6d8650f6655e436dfeee0172b2" title="RoRFrameListener::window\lResized" alt="" coords="741,5,925,46"/>
+<area shape="rect" id="node6" href="$class_dash_board.html#a3d799a9d929acf7112a858c5dca0a32f" title="DashBoard::loadLayout" alt="" coords="521,71,679,97"/>
+<area shape="rect" id="node7" href="$class_dash_board.html#ad56284a36e28b7f2a2f7570bef57b3fb" title="DashBoard::DashBoard" alt="" coords="753,71,913,97"/>
+</map>

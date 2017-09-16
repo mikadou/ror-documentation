@@ -1,0 +1,44 @@
+<map id="TerrainObjectManager::loadObject" name="TerrainObjectManager::loadObject">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ab3a56a250de7f20045e9aaa8f090e70f" title="RoR::App::GetCacheSystem" alt="" coords="217,339,409,366"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_utils.html#ac62ee4a4a513a67cba1bdc7d9eb9c7a4" title="RoR::Utils::SanitizeUtf8\lString" alt="" coords="231,390,395,432"/>
+<area shape="rect" id="node17" href="$class_mesh_object.html#ab5d7575b61e5751d3e6dd6bb476c3d89" title="MeshObject::getEntity" alt="" coords="237,456,389,483"/>
+<area shape="rect" id="node18" href="$class_collisions.html#a7840c7d5b2b56b4cc8f41778c0edb7a7" title="Collisions::getGroundModel\lByString" alt="" coords="479,288,662,329"/>
+<area shape="rect" id="node19" href="$class_collisions.html#a3f2acd0249632458dd92a551210f83a1" title="Collisions::loadGroundModels\lConfigFile" alt="" coords="216,660,411,701"/>
+<area shape="rect" id="node26" href="$class_collisions.html#a50cf1fc86be3b7e69b687256f6d5d1f3" title="Collisions::addCollisionBox" alt="" coords="223,558,404,584"/>
+<area shape="rect" id="node35" href="$class_collisions.html#a285399f2b679c1d0b649b71aa805d5f3" title="Collisions::addCollisionMesh" alt="" coords="218,608,409,635"/>
+<area shape="rect" id="node38" href="$_write_text_to_texture_8cpp.html#a0f8e8600c38836cb142eb06efd10a397" title="WriteToTexture" alt="" coords="257,726,369,752"/>
+<area shape="rect" id="node39" href="$class_survey_map_manager.html#a7af7a8d747001ee3749c4c0b97a32375" title="SurveyMapManager::create\lMapEntity" alt="" coords="222,777,405,818"/>
+<area shape="rect" id="node40" href="$class_survey_map_entity.html#ad3cc1cb8f1e71f876290abb0eb004c05" title="SurveyMapEntity::setVisibility" alt="" coords="215,843,412,870"/>
+<area shape="rect" id="node41" href="$class_survey_map_entity.html#a781ecb998f41521324088cd3ce66d9ce" title="SurveyMapEntity::setPosition" alt="" coords="216,894,411,920"/>
+<area shape="rect" id="node42" href="$class_survey_map_entity.html#a23640d7a462102b43b62b44204a99a2d" title="SurveyMapEntity::setRotation" alt="" coords="215,944,412,971"/>
+<area shape="rect" id="node43" href="$class_survey_map_entity.html#a5515fd4276cea4c35f2a1e33c2f7c2a8" title="SurveyMapEntity::setDescription" alt="" coords="206,995,421,1022"/>
+<area shape="rect" id="node4" href="$namespaceutf8.html#a07dcd36a2185e5c9f0b19dd88859cd6c" title="utf8::replace_invalid" alt="" coords="501,236,640,263"/>
+<area shape="rect" id="node5" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="720,236,899,263"/>
+<area shape="rect" id="node15" href="$namespaceutf8.html#a3827e78596fc38cfdebd721e9c45c901" title="The library API &#45; functions intended to be called by the users. " alt="" coords="762,360,857,387"/>
+<area shape="rect" id="node16" href="$namespaceutf8_1_1internal.html#ab4820484159ba613b4901476ceb24516" title="utf8::internal::is\l_trail" alt="" coords="753,73,865,114"/>
+<area shape="rect" id="node6" href="$namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="947,229,1106,270"/>
+<area shape="rect" id="node8" href="$namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="967,294,1087,336"/>
+<area shape="rect" id="node9" href="$namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="967,360,1087,401"/>
+<area shape="rect" id="node10" href="$namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="967,33,1087,74"/>
+<area shape="rect" id="node11" href="$namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="967,98,1087,140"/>
+<area shape="rect" id="node12" href="$namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="963,425,1090,466"/>
+<area shape="rect" id="node14" href="$namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="956,164,1097,205"/>
+<area shape="rect" id="node7" href="$namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1155,171,1296,198"/>
+<area shape="rect" id="node13" href="$namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="1169,425,1281,466"/>
+<area shape="rect" id="node20" href="$struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="497,1000,644,1027"/>
+<area shape="rect" id="node22" href="$class_collisions.html#aaa893c509f9b9b77459d50e3bef2c6ff" title="Collisions::parseGroundConfig" alt="" coords="471,899,670,926"/>
+<area shape="rect" id="node25" href="$namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="525,950,617,976"/>
+<area shape="rect" id="node21" href="$struct_error_utils.html#a3250a36825c8b55b26d1565addb7e922" title="ErrorUtils::ShowMsgBox" alt="" coords="726,1000,893,1027"/>
+<area shape="rect" id="node23" href="$scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="775,899,844,926"/>
+<area shape="rect" id="node24" href="$_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="1003,899,1050,926"/>
+<area shape="rect" id="node27" href="$class_ogre_1_1_movable_text.html#aed27a49ecadb3905afb7b5de4409d799" title="Ogre::MovableText::\lsetFontName" alt="" coords="500,536,641,577"/>
+<area shape="rect" id="node28" href="$class_ogre_1_1_movable_text.html#a8fc0b2d13ba89695e53152ad1c435306" title="Ogre::MovableText::\lsetTextAlignment" alt="" coords="500,601,641,642"/>
+<area shape="rect" id="node29" href="$class_ogre_1_1_movable_text.html#a0e4f2340efd854e591e07fb4bebcbeaa" title="Ogre::MovableText::\lsetAdditionalHeight" alt="" coords="500,666,641,708"/>
+<area shape="rect" id="node30" href="$class_ogre_1_1_movable_text.html#a88bb2321dd352795dfeff306928e48bc" title="Ogre::MovableText::\lshowOnTop" alt="" coords="500,732,641,773"/>
+<area shape="rect" id="node31" href="$class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::\lsetCharacterHeight" alt="" coords="500,405,641,446"/>
+<area shape="rect" id="node32" href="$class_ogre_1_1_movable_text.html#a7ed5e440d32fee6180e6eaa7094b3f5c" title="Ogre::MovableText::\lsetColor" alt="" coords="500,470,641,512"/>
+<area shape="rect" id="node33" href="$class_collisions.html#ab8dc3b86fee4e2aa47927bfeabe2ddfe" title="Collisions::hash_add" alt="" coords="738,644,881,671"/>
+<area shape="rect" id="node34" href="$class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Collisions::hashfunc" alt="" coords="957,644,1097,671"/>
+<area shape="rect" id="node36" href="$class_collisions.html#a2ef942fa770bd57c5638465d58bed210" title="Collisions::getMeshInformation" alt="" coords="469,848,672,875"/>
+<area shape="rect" id="node37" href="$class_collisions.html#a44e7f403a680e597a54209b2873b6e28" title="Collisions::addCollisionTri" alt="" coords="484,798,657,824"/>
+</map>

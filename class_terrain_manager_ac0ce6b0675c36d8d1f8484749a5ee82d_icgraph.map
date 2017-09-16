@@ -1,0 +1,6 @@
+<map id="TerrainManager::hasPreloadedTrucks" name="TerrainManager::hasPreloadedTrucks">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="253,12,461,39"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="509,12,771,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="819,12,869,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="918,12,991,39"/>
+</map>

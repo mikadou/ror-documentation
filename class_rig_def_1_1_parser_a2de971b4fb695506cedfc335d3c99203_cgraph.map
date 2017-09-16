@@ -1,0 +1,17 @@
+<map id="RigDef::Parser::ParseWheel2" name="RigDef::Parser::ParseWheel2">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="545,219,727,260"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#ae77a4970494c116e98a92be7a0160a16" title="RigDef::Parser::GetArgFloat" alt="" coords="801,49,988,75"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a635bdc3c7493275fc05f91d51c11945b" title="RigDef::Parser::GetArgInt" alt="" coords="549,117,723,143"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a57b7efa0a566ae343d6148a05d420eae" title="RigDef::Parser::GetArgNodeRef" alt="" coords="531,285,741,311"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="1055,353,1235,395"/>
+<area shape="rect" id="node10" href="$class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="807,335,982,362"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_parser.html#a2f105a1d96e4d6380a2c4e3232c2dec5" title="RigDef::Parser::GetArgRigidityNode" alt="" coords="249,335,482,362"/>
+<area shape="rect" id="node12" href="$class_rig_def_1_1_parser.html#a330ebe1e63aad0b46e8fa0b041274071" title="RigDef::Parser::GetArgBraking" alt="" coords="264,82,467,109"/>
+<area shape="rect" id="node13" href="$class_rig_def_1_1_parser.html#a8dd3a6b0c3903d1091ef17537fd00a16" title="RigDef::Parser::GetArgPropulsion" alt="" coords="256,183,475,210"/>
+<area shape="rect" id="node14" href="$class_rig_def_1_1_sequential_importer.html#a639c4f71bc37fc08f02a5b603ee14033" title="RigDef::SequentialImporter\l::GenerateNodesForWheel" alt="" coords="275,488,455,529"/>
+<area shape="rect" id="node16" href="$class_rig_def_1_1_node_1_1_ref.html#a5912183c0dfa018a32190a5bc89b53c8" title="RigDef::Node::Ref::\lIsValidAnyState" alt="" coords="296,553,435,595"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="1049,167,1242,194"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_parser.html#a81784a06397ed377c39759981d6c700b" title="RigDef::Parser::GetArgLong" alt="" coords="801,117,988,143"/>
+<area shape="rect" id="node8" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="789,285,1000,311"/>
+<area shape="rect" id="node15" href="$class_rig_def_1_1_sequential_importer.html#a5f5e30fbc3b2f58adb15a8f64bbecd15" title="RigDef::SequentialImporter\l::AddGeneratedNode" alt="" coords="546,488,726,529"/>
+</map>

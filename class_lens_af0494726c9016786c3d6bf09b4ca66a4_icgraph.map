@@ -1,0 +1,6 @@
+<map id="Lens::setFieldOfView" name="Lens::setFieldOfView">
+<area shape="rect" id="node2" href="$class_d_o_f_manager.html#ab225c829d6ec9cabe426e9e9412b03ef" title="DOFManager::zoomView" alt="" coords="206,5,375,32"/>
+<area shape="rect" id="node3" href="$class_d_o_f_manager.html#a8c15f49d204390ffa9e54542e1e7f961" title="DOFManager::setZoom" alt="" coords="211,56,370,83"/>
+<area shape="rect" id="node4" href="$class_d_o_f_manager.html#acc47c3c82ae3490bdcc33afc88280d2b" title="DOFManager::setLensFOV" alt="" coords="200,107,381,133"/>
+<area shape="rect" id="node5" href="$class_d_o_f_manager.html#a7899d5f2eaa03945719f581cdf568606" title="DOFManager::frameStarted" alt="" coords="430,107,613,133"/>
+</map>

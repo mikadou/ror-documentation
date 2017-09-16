@@ -1,0 +1,25 @@
+<map id="RoR::LandVehicleSimulation::UpdateCruiseControl" name="RoR::LandVehicleSimulation::UpdateCruiseControl">
+<area shape="rect" id="node2" href="$class_beam_engine.html#ae5f87426f9dc96c4f4bf377b53e9936a" title="BeamEngine::getGear" alt="" coords="277,5,427,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="263,56,441,83"/>
+<area shape="rect" id="node4" href="$class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="517,524,701,551"/>
+<area shape="rect" id="node7" href="$class_beam_engine.html#abb3f5e80a52e013b8510d4ff4bc171f5" title="BeamEngine::isRunning" alt="" coords="271,157,433,184"/>
+<area shape="rect" id="node8" href="$class_beam_engine.html#acb984f668e093b13ca9fad182831763e" title="BeamEngine::hasContact" alt="" coords="267,208,437,235"/>
+<area shape="rect" id="node9" href="$class_beam.html#aa436790ce4151954491218752b325a1d" title="Beam::cruisecontrolToggle" alt="" coords="263,259,441,285"/>
+<area shape="rect" id="node10" href="$class_beam_engine.html#ab44a19bd64049dcd338fcf6994e27f1d" title="BeamEngine::getAccToHoldRPM" alt="" coords="243,107,461,133"/>
+<area shape="rect" id="node15" href="$class_beam_engine.html#a871214fce37bde9b73e59494e2dc2bca" title="BeamEngine::getRPM" alt="" coords="276,376,428,403"/>
+<area shape="rect" id="node16" href="$class_beam_engine.html#aeffa6a560fba720ac6af0a33f3ba1d1e" title="BeamEngine::getEngineTorque" alt="" coords="251,427,453,453"/>
+<area shape="rect" id="node17" href="$class_beam_engine.html#abc2a45e43ee553e818feb2f505d6f309" title="BeamEngine::getBrakingTorque" alt="" coords="249,477,455,504"/>
+<area shape="rect" id="node18" href="$class_beam.html#a0f3e32834815ae635f01fcf68e078b87" title="Beam::getTotalMass" alt="" coords="281,528,423,555"/>
+<area shape="rect" id="node19" href="$class_beam_engine.html#a0da07abab36323b70d48fe5e9efe01fc" title="BeamEngine::getMaxRPM" alt="" coords="263,579,441,605"/>
+<area shape="rect" id="node20" href="$class_beam_engine.html#a46fac8fa7e732ae12edd43017a3e5fc8" title="BeamEngine::getMinRPM" alt="" coords="265,629,439,656"/>
+<area shape="rect" id="node21" href="$class_beam_engine.html#a2a9f0148195ac8b87fd92456743f2c01" title="BeamEngine::getAcc" alt="" coords="279,680,425,707"/>
+<area shape="rect" id="node22" href="$class_beam_engine.html#a03100b0e01ef921e210733044cdb71a6" title="BeamEngine::autoSetAcc" alt="" coords="266,781,438,808"/>
+<area shape="rect" id="node24" href="$class_input_engine.html#a72145988ab99faec6f618c2a4011d236" title="InputEngine::getEventBool\lValue" alt="" coords="263,310,441,351"/>
+<area shape="rect" id="node5" href="$class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="773,499,945,525"/>
+<area shape="rect" id="node6" href="$class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="781,549,937,576"/>
+<area shape="rect" id="node11" href="$class_beam_engine.html#a8dd9a69eaf18df6ed1cc51491719e2d2" title="BeamEngine::getEnginePower" alt="" coords="510,107,709,133"/>
+<area shape="rect" id="node12" href="$class_torque_curve.html#ac086875124a09f29072f016ae3c99642" title="TorqueCurve::getEngineTorque" alt="" coords="757,81,960,108"/>
+<area shape="rect" id="node13" href="$class_beam_engine.html#afa110a2bacf71a91bb89775c3f3a1605" title="BeamEngine::getTurboPower" alt="" coords="763,132,955,159"/>
+<area shape="rect" id="node14" href="$class_beam_engine.html#a97f9e8ae65b27a623c9aefaba01b5a3b" title="BeamEngine::getTurboPSI" alt="" coords="1009,132,1186,159"/>
+<area shape="rect" id="node23" href="$class_beam_engine.html#a74010b85a774cb7e3bd4c494bd29e315" title="BeamEngine::setAcc" alt="" coords="537,781,682,808"/>
+</map>

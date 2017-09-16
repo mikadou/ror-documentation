@@ -1,0 +1,5 @@
+<map id="GameScript::showMessageBox" name="GameScript::showMessageBox">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="296,5,475,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_manager.html#ab0713eba09affac3da66c81fc8e9741f" title="RoR::GUIManager::ShowMessageBox" alt="" coords="261,56,509,83"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1g_message_box.html#a1a946ca3996e0c951b95fb59c781b92f" title="RoR::GUI::gMessageBox\l::ShowMessageBox" alt="" coords="558,49,730,90"/>
+</map>

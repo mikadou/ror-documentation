@@ -1,0 +1,10 @@
+<map id="Beam::mouseMove" name="Beam::mouseMove">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_scene_mouse.html#a7a0d8c6d6ebe7f330e27f7bab0eb18d9" title="RoR::SceneMouse::release\lMousePick" alt="" coords="190,59,373,101"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_scene_mouse.html#ac2615c541157fa61b08a7ca5bdd340f9" title="RoR::SceneMouse::update" alt="" coords="191,136,371,163"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_scene_mouse.html#a8577d57989d294eea1054d9c21abe567" title="RoR::SceneMouse::SceneMouse" alt="" coords="430,5,647,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_scene_mouse.html#a4b6998ce12990478a6a2bf2e59b2eb1d" title="RoR::SceneMouse::mouseMoved" alt="" coords="429,56,648,83"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_scene_mouse.html#a3acc549dff8747f1a0af196526895dc0" title="RoR::SceneMouse::mouseReleased" alt="" coords="421,107,656,133"/>
+<area shape="rect" id="node5" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="712,56,923,83"/>
+<area shape="rect" id="node7" href="$class_g_u_i_input_manager.html#a5f096906671c8b2fc404353cb0cc3cf4" title="GUIInputManager::mouseReleased" alt="" coords="704,107,931,133"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="431,157,646,184"/>
+</map>

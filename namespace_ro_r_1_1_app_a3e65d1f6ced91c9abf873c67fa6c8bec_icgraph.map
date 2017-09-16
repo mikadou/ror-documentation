@@ -1,0 +1,9 @@
+<map id="RoR::App::GetAppLanguage" name="RoR::App::GetAppLanguage">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="263,5,446,46"/>
+<area shape="rect" id="node4" href="$class_game_script.html#a8c02937795d82f6bc0de53d8e939993d" title="GameScript::useOnlineAPIDirectly" alt="" coords="243,71,467,97"/>
+<area shape="rect" id="node6" href="$class_language_engine.html#a76cb37a44a39216fd83ab38285eacf94" title="LanguageEngine::setup" alt="" coords="275,121,434,148"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="515,12,730,39"/>
+<area shape="rect" id="node5" href="$class_game_script.html#a57fef318c599e4d2f86aa9b4b7f2ec12" title="GameScript::useOnlineAPI" alt="" coords="533,71,712,97"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="597,121,648,148"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="779,121,853,148"/>
+</map>

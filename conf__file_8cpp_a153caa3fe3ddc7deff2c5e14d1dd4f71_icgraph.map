@@ -1,0 +1,7 @@
+<map id="SanitizeUtf8String" name="SanitizeUtf8String">
+<area shape="rect" id="node2" href="$class_settings.html#a3610937cea22837c48e59a1c9493f295" title="Settings::loadSettings" alt="" coords="206,5,357,32"/>
+<area shape="rect" id="node3" href="$class_my_dialog.html#a3a49421662fe7600e722c3ca32b48a4d" title="MyDialog::LoadConfig" alt="" coords="206,56,357,83"/>
+<area shape="rect" id="node6" href="$class_character.html#a56efcb1702c8ea823659e5106cc03333" title="Character::receiveStreamData" alt="" coords="182,107,381,133"/>
+<area shape="rect" id="node4" href="$class_my_dialog.html#ac878405673c6177b80014e3ea1db6af7" title="MyDialog::MyDialog" alt="" coords="430,56,570,83"/>
+<area shape="rect" id="node5" href="$class_ro_r_config_app.html#a2a0306257bf33d25102a9ace3b2ff59a" title="RoRConfigApp::OnInit" alt="" coords="619,56,773,83"/>
+</map>

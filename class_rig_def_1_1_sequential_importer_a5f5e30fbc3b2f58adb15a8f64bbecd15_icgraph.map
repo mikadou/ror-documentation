@@ -1,0 +1,14 @@
+<map id="RigDef::SequentialImporter::AddGeneratedNode" name="RigDef::SequentialImporter::AddGeneratedNode">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a5c9104deeaf4a7d0fc3d147ff2a64fde" title="RigDef::Parser::ParseCinecam" alt="" coords="235,5,437,32"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_sequential_importer.html#a639c4f71bc37fc08f02a5b603ee14033" title="RigDef::SequentialImporter\l::GenerateNodesForWheel" alt="" coords="246,78,426,119"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a99a49d75798b1fa5dfbd00873455fbeb" title="RigDef::Parser::ProcessCurrentLine" alt="" coords="728,85,960,112"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#ad1920ba0a8dc23ac5043b2c270ef5f47" title="RigDef::Parser::ProcessRawLine" alt="" coords="1008,85,1224,112"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#ab08d0ba4ffb90b72cb351014bb7861bd" title="RigDef::Parser::ProcessOgre\lStream" alt="" coords="1273,78,1466,119"/>
+<area shape="rect" id="node6" href="$class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="1560,60,1685,87"/>
+<area shape="rect" id="node8" href="$class_cache_system.html#ad640fd28c3075eb6310d8d8f3475cefb" title="CacheSystem::fillTruckDetailInfo" alt="" coords="1515,111,1730,137"/>
+<area shape="rect" id="node7" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="1779,60,1877,87"/>
+<area shape="rect" id="node10" href="$class_rig_def_1_1_parser.html#a2de971b4fb695506cedfc335d3c99203" title="RigDef::Parser::ParseWheel2" alt="" coords="485,35,680,61"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_parser.html#ab3a94bdd7e33ec265315b873cebdce7c" title="RigDef::Parser::ParseWheel" alt="" coords="489,85,677,112"/>
+<area shape="rect" id="node12" href="$class_rig_def_1_1_parser.html#a03587a8b94beca0dcf706ec936f77bab" title="RigDef::Parser::ParseMesh\lWheelUnified" alt="" coords="491,137,674,178"/>
+<area shape="rect" id="node13" href="$class_rig_def_1_1_parser.html#a6bf9cf8041b531158f9a8319d696b2cc" title="RigDef::Parser::ParseFlex\lBodyWheel" alt="" coords="495,202,671,243"/>
+</map>

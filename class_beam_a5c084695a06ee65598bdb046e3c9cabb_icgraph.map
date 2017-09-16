@@ -1,0 +1,5 @@
+<map id="Beam::resolveCollisions" name="Beam::resolveCollisions">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#abc123f9d1e56e13a72e5f80fdaa5a17e" title="RoRFrameListener::Finalize\lTruckSpawning" alt="" coords="217,5,402,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="451,5,634,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="683,12,898,39"/>
+</map>

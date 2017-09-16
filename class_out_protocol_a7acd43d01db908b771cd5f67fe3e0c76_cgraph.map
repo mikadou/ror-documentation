@@ -1,0 +1,11 @@
+<map id="OutProtocol::OutProtocol" name="OutProtocol::OutProtocol">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ada851691f76c1e8a7f92e6acae3f55d2" title="RoR::App::GetIoOutGaugeDelay" alt="" coords="221,5,435,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a0691af61ccdfcd49da7eb8996dd60d2e" title="RoR::App::GetIoOutGaugeMode" alt="" coords="223,56,433,83"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#ae6d5ad4be9c0c15f8cd72a1bcd384de4" title="RoR::App::GetIoOutGaugeId" alt="" coords="233,107,423,133"/>
+<area shape="rect" id="node5" href="$class_out_protocol.html#a96a73792edfd03f3ed9226a7cd2f9ebd" title="OutProtocol::startup" alt="" coords="259,157,397,184"/>
+<area shape="rect" id="node6" href="$namespaceutf8.html#a3827e78596fc38cfdebd721e9c45c901" title="The library API &#45; functions intended to be called by the users. " alt="" coords="537,107,631,133"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#a251dc9461db5ba5bc294ba1c679acbe3" title="RoR::App::GetIoOutGaugeIp" alt="" coords="489,157,679,184"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_app.html#ae4649953dced952606844921b58d2f3e" title="RoR::App::GetIoOutGaugePort" alt="" coords="483,208,685,235"/>
+<area shape="rect" id="node7" href="$namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="734,99,861,141"/>
+<area shape="rect" id="node8" href="$namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="909,99,1021,141"/>
+</map>

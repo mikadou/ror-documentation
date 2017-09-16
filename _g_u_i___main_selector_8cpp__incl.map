@@ -1,0 +1,26 @@
+<map id="source/main/gui/panels/GUI_MainSelector.cpp" name="source/main/gui/panels/GUI_MainSelector.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___main_selector_8h.html" title="GUI_MainSelector.h" alt="" coords="2671,96,2811,123"/>
+<area shape="rect" id="node6" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1165,320,1300,347"/>
+<area shape="rect" id="node23" href="$_utils_8h.html" title="Utils.h" alt="" coords="2063,245,2123,272"/>
+<area shape="rect" id="node27" href="$_language_8h.html" title="Language.h" alt="" coords="199,171,288,197"/>
+<area shape="rect" id="node31" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="1065,171,1172,197"/>
+<area shape="rect" id="node36" href="$_g_u_i___loading_window_8h.html" title="GUI_LoadingWindow.h" alt="" coords="606,171,761,197"/>
+<area shape="rect" id="node38" href="$_input_engine_8h.html" title="Input logic. " alt="" coords="2019,96,2121,123"/>
+<area shape="rect" id="node45" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="1507,245,1604,272"/>
+<area shape="rect" id="node46" href="$_cache_system_8h.html" title="Caches information about installed mods (vehicles, terrains...) " alt="" coords="466,171,581,197"/>
+<area shape="rect" id="node47" href="$_content_manager_8h.html" title="ContentManager.h" alt="" coords="313,171,441,197"/>
+<area shape="rect" id="node48" href="$_skin_manager_8h.html" title="SkinManager.h" alt="" coords="1404,96,1513,123"/>
+<area shape="rect" id="node49" href="$_ro_r_frame_listener_8h.html" title="RoRFrameListener.h" alt="" coords="786,171,928,197"/>
+<area shape="rect" id="node50" href="$_main_menu_8h.html" title="MainMenu.h" alt="" coords="1217,171,1311,197"/>
+<area shape="rect" id="node3" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="2437,469,2589,496"/>
+<area shape="rect" id="node4" href="$_g_u_i___main_selector_layout_8h.html" title="GUI_MainSelectorLayout.h" alt="" coords="2652,171,2831,197"/>
+<area shape="rect" id="node5" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="1782,245,1884,272"/>
+<area shape="rect" id="node18" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2277,395,2419,421"/>
+<area shape="rect" id="node19" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1184,395,1355,421"/>
+<area shape="rect" id="node20" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="190,395,271,421"/>
+<area shape="rect" id="node25" href="$checked_8h.html" title="utf8/checked.h" alt="" coords="2241,320,2348,347"/>
+<area shape="rect" id="node26" href="$unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="1939,320,2061,347"/>
+<area shape="rect" id="node28" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="366,245,452,272"/>
+<area shape="rect" id="node32" href="$_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="867,245,1001,272"/>
+<area shape="rect" id="node39" href="$_ro_r_window_event_utilities_8h.html" title="RoRWindowEventUtilities.h" alt="" coords="1521,171,1705,197"/>
+</map>

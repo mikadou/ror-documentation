@@ -1,0 +1,5 @@
+<map id="save" name="save">
+<area shape="rect" id="node2" href="$class_advanced_screen.html#a5f8791e5005d7f0567d03db2ef3bf792" title="AdvancedScreen::write" alt="" coords="104,12,261,39"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="310,5,493,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="542,12,757,39"/>
+</map>

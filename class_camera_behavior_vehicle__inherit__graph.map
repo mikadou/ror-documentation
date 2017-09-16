@@ -1,0 +1,7 @@
+<map id="CameraBehaviorVehicle" name="CameraBehaviorVehicle">
+<area shape="rect" id="node5" href="$class_camera_behavior_vehicle_cine_cam.html" title="CameraBehaviorVehicleCineCam" alt="" coords="5,320,221,347"/>
+<area shape="rect" id="node6" href="$class_camera_behavior_vehicle_spline.html" title="CameraBehaviorVehicleSpline" alt="" coords="246,320,444,347"/>
+<area shape="rect" id="node2" href="$class_camera_behavior_orbit.html" title="CameraBehaviorOrbit" alt="" coords="156,171,303,197"/>
+<area shape="rect" id="node3" href="$class_i_behavior.html" title="IBehavior\&lt; CameraManager\l::CameraContext \&gt;" alt="" coords="137,81,321,122"/>
+<area shape="rect" id="node4" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="149,5,308,32"/>
+</map>

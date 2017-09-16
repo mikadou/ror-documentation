@@ -1,0 +1,27 @@
+<map id="CameraBehaviorStatic::update" name="CameraBehaviorStatic::update">
+<area shape="rect" id="node2" href="$class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="233,5,362,32"/>
+<area shape="rect" id="node3" href="$class_beam.html#a7d009b83ca5b166efe7c356abfcc3490" title="Beam::getRotation" alt="" coords="232,56,363,83"/>
+<area shape="rect" id="node4" href="$class_character.html#a2c056adebe0e35330a3eae862667f1d4" title="Character::getPosition" alt="" coords="221,107,373,133"/>
+<area shape="rect" id="node5" href="$class_character.html#a7e18e6ea7965b2e32946a06256ec8984" title="Character::getRotation" alt="" coords="220,157,375,184"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="208,208,387,235"/>
+<area shape="rect" id="node7" href="$class_input_engine.html#af2b4c31bf4b64b4b78815142511ab343" title="InputEngine::getEventBool\lValueBounce" alt="" coords="209,259,386,301"/>
+<area shape="rect" id="node12" href="$namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="247,325,348,352"/>
+<area shape="rect" id="node24" href="$_camera_behavior_static_8cpp.html#a7843b14601f5054dcceab09d24800ab4" title="intersectsTerrain" alt="" coords="238,427,357,453"/>
+<area shape="rect" id="node25" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="436,386,612,427"/>
+<area shape="rect" id="node26" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="435,460,613,487"/>
+<area shape="rect" id="node8" href="$class_input_engine.html#a72145988ab99faec6f618c2a4011d236" title="InputEngine::getEventBool\lValue" alt="" coords="435,235,613,277"/>
+<area shape="rect" id="node9" href="$class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="661,195,845,221"/>
+<area shape="rect" id="node10" href="$class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="894,144,1066,171"/>
+<area shape="rect" id="node11" href="$class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="902,195,1058,221"/>
+<area shape="rect" id="node13" href="$namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="485,331,563,357"/>
+<area shape="rect" id="node14" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="664,425,843,452"/>
+<area shape="rect" id="node15" href="$namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="901,246,1059,287"/>
+<area shape="rect" id="node17" href="$namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="920,311,1040,353"/>
+<area shape="rect" id="node18" href="$namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="920,377,1040,418"/>
+<area shape="rect" id="node19" href="$namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="920,442,1040,483"/>
+<area shape="rect" id="node20" href="$namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="920,507,1040,549"/>
+<area shape="rect" id="node21" href="$namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="917,573,1043,614"/>
+<area shape="rect" id="node23" href="$namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="909,638,1051,679"/>
+<area shape="rect" id="node16" href="$namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1115,384,1256,411"/>
+<area shape="rect" id="node22" href="$namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="1129,573,1241,614"/>
+</map>

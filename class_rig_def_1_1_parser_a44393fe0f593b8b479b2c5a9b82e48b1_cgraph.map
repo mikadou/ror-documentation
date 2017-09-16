@@ -1,0 +1,7 @@
+<map id="RigDef::Parser::ParseCruiseControl" name="RigDef::Parser::ParseCruiseControl">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="479,5,662,46"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="713,96,906,123"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#ae77a4970494c116e98a92be7a0160a16" title="RigDef::Parser::GetArgFloat" alt="" coords="243,121,429,148"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a635bdc3c7493275fc05f91d51c11945b" title="RigDef::Parser::GetArgInt" alt="" coords="249,172,423,199"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_parser.html#a81784a06397ed377c39759981d6c700b" title="RigDef::Parser::GetArgLong" alt="" coords="477,172,664,199"/>
+</map>

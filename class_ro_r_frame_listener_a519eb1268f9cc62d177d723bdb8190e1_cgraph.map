@@ -1,0 +1,24 @@
+<map id="RoRFrameListener::HideGUI" name="RoRFrameListener::HideGUI">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="253,5,457,46"/>
+<area shape="rect" id="node4" href="$class_beam.html#a209b3a249019c64c056bb14b1af7fbdc" title="Beam::getReplay" alt="" coords="293,71,416,97"/>
+<area shape="rect" id="node5" href="$class_replay.html#acecd142f906e5b5e72cccad110fe632f" title="Replay::setHidden" alt="" coords="289,121,420,148"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="257,172,452,199"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="265,223,444,249"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_manager.html#a97e4d355c4e857bde82d70735a8ded96" title="RoR::GUIManager::SetVisible\l_MpClientList" alt="" coords="255,274,454,315"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="253,340,456,367"/>
+<area shape="rect" id="node11" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="245,391,464,433"/>
+<area shape="rect" id="node15" href="$class_survey_map_manager.html#aeebd7d253cbe08237389c73ee4100e21" title="SurveyMapManager::setVisibility" alt="" coords="248,457,461,484"/>
+<area shape="rect" id="node16" href="$class_camera_manager.html#ad07471d660e56e45c7c612e7312da666" title="CameraManager::hasActive\lBehavior" alt="" coords="263,509,447,550"/>
+<area shape="rect" id="node17" href="$class_camera_manager.html#a213c263271f91e4eca01182f034e8a04" title="CameraManager::getCurrent\lBehavior" alt="" coords="261,574,448,615"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_g_u_i_manager.html#ae6376fb591e87d8aedff5fc5e5655191" title="RoR::GUIManager::hideGUI" alt="" coords="261,640,448,667"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="520,12,715,39"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#a9b584f54029546d06eccf2e1e60a1d3e" title="RoR::GUI::MpClientList\l::SetVisible" alt="" coords="536,274,699,315"/>
+<area shape="rect" id="node12" href="$class_dash_board_manager.html#aab1c20ed732f3e11ea290a2f90be99e0" title="DashBoardManager::wasLoaded" alt="" coords="512,373,723,400"/>
+<area shape="rect" id="node13" href="$class_dash_board_manager.html#a21ffd946b6843df16ca7b3ef704b596a" title="DashBoardManager::setVisible" alt="" coords="516,424,719,451"/>
+<area shape="rect" id="node14" href="$class_dash_board.html#a650c134fdce0c84a77d84d2c23bdccbe" title="DashBoard::setVisible" alt="" coords="771,424,923,451"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#aac73d63034f48e89355379688c44a616" title="RoR::GUI::SimUtils\l::HideNotificationBox" alt="" coords="544,502,691,543"/>
+<area shape="rect" id="node20" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#a5f475af36598d0690b88e8ba2953a79f" title="RoR::GUI::SimUtils\l::SetFPSBoxVisible" alt="" coords="548,567,687,609"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ad563d9ee9112e276c9d795dbfb0a32c9" title="RoR::GUI::SimUtils\l::SetTruckInfoBoxVisible" alt="" coords="534,633,701,674"/>
+<area shape="rect" id="node22" href="$class_ro_r_1_1_g_u_i_1_1_game_chat_box.html#aeaa7f28a8db70da61a55bd8c03e5cf16" title="RoR::GUI::GameChatBox\l::Hide" alt="" coords="530,698,705,739"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#a46b7b05ceea5770f438c54fb655bc01e" title="RoR::GUI::SimUtils\l::DisableNotifications" alt="" coords="544,763,691,805"/>
+</map>

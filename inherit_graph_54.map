@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_flexable.html" title="Flexable" alt="" coords="6,56,77,83"/>
+<area shape="rect" id="node2" href="$class_flex_body.html" title="FlexBody" alt="" coords="145,5,223,32"/>
+<area shape="rect" id="node3" href="$class_flex_mesh.html" title="FlexMesh" alt="" coords="145,56,223,83"/>
+<area shape="rect" id="node4" href="$class_flex_mesh_wheel.html" title="Consists of static mesh, representing the rim, and dynamic mesh, representing the tire..." alt="" coords="126,107,242,133"/>
+</map>

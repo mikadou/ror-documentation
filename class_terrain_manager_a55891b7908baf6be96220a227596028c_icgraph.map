@@ -1,0 +1,7 @@
+<map id="TerrainManager::getObjectManager" name="TerrainManager::getObjectManager">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="245,5,427,46"/>
+<area shape="rect" id="node4" href="$class_game_script.html#ac9ef8b95e5fd759b73ef414e9ae9a6a8" title="GameScript::destroyObject" alt="" coords="246,71,426,97"/>
+<area shape="rect" id="node5" href="$class_game_script.html#aa46b0d78d78459cbe2e74dee5e63365a" title="GameScript::moveObjectVisuals" alt="" coords="230,121,442,148"/>
+<area shape="rect" id="node6" href="$class_game_script.html#adc155d46516906fb9bfddde649c02ee6" title="GameScript::spawnObject" alt="" coords="249,172,423,199"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="491,12,706,39"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="RigDef::Parser::ParseOptionalInertia" name="RigDef::Parser::ParseOptionalInertia">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#ab0e468bb368d063d7326a10206217c98" title="RigDef::Parser::ParseCommands\lUnified" alt="" coords="253,5,472,46"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a17f151a41aad3d44521f30bcb1af4767" title="RigDef::Parser::ParseRotators\lUnified" alt="" coords="262,70,463,111"/>
+<area shape="rect" id="node10" href="$class_rig_def_1_1_parser.html#afd4b1a410e4258172447bd5112aa4b6d" title="RigDef::Parser::ParseHydros" alt="" coords="266,136,459,163"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a99a49d75798b1fa5dfbd00873455fbeb" title="RigDef::Parser::ProcessCurrentLine" alt="" coords="520,77,752,104"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#ad1920ba0a8dc23ac5043b2c270ef5f47" title="RigDef::Parser::ProcessRawLine" alt="" coords="800,77,1016,104"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#ab08d0ba4ffb90b72cb351014bb7861bd" title="RigDef::Parser::ProcessOgre\lStream" alt="" coords="1065,70,1258,111"/>
+<area shape="rect" id="node6" href="$class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="1352,52,1477,79"/>
+<area shape="rect" id="node8" href="$class_cache_system.html#ad640fd28c3075eb6310d8d8f3475cefb" title="CacheSystem::fillTruckDetailInfo" alt="" coords="1307,103,1522,129"/>
+<area shape="rect" id="node7" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="1571,52,1669,79"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DashBoard::DashBoard" name="DashBoard::DashBoard">
+<area shape="rect" id="node2" href="$class_dash_board.html#a3d799a9d929acf7112a858c5dca0a32f" title="DashBoard::loadLayout" alt="" coords="214,56,373,83"/>
+<area shape="rect" id="node3" href="$class_dash_board.html#afba8b31b1a688f0c60d18fcc2f536c33" title="DashBoard::loadLayoutRecursive" alt="" coords="422,56,639,83"/>
+<area shape="rect" id="node4" href="$class_dash_board.html#a69868007bdcc8aac2c1f2f02d9a0f383" title="DashBoard::windowResized" alt="" coords="688,5,875,32"/>
+<area shape="rect" id="node5" href="$_utils_8h.html#aa627c4d70c7cc89d6c8983a69b15739c" title="replaceString" alt="" coords="732,56,831,83"/>
+<area shape="rect" id="node6" href="$class_dash_board_manager.html#a66a30df4f89a4909e8aa274924959257" title="DashBoardManager::getLink\lIDForName" alt="" coords="688,107,875,149"/>
+</map>

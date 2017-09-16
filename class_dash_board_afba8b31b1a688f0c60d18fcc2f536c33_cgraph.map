@@ -1,0 +1,5 @@
+<map id="DashBoard::loadLayoutRecursive" name="DashBoard::loadLayoutRecursive">
+<area shape="rect" id="node2" href="$class_dash_board.html#a69868007bdcc8aac2c1f2f02d9a0f383" title="DashBoard::windowResized" alt="" coords="272,5,459,32"/>
+<area shape="rect" id="node3" href="$_utils_8h.html#aa627c4d70c7cc89d6c8983a69b15739c" title="replaceString" alt="" coords="316,56,415,83"/>
+<area shape="rect" id="node4" href="$class_dash_board_manager.html#a66a30df4f89a4909e8aa274924959257" title="DashBoardManager::getLink\lIDForName" alt="" coords="272,107,459,149"/>
+</map>

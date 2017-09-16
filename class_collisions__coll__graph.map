@@ -1,0 +1,48 @@
+<map id="Collisions" name="Collisions">
+<area shape="rect" id="node2" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="5,1311,165,1337"/>
+<area shape="rect" id="node3" href="$class_landusemap.html" title="Landusemap" alt="" coords="857,261,953,288"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html" title="RoRFrameListener" alt="" coords="839,777,971,804"/>
+<area shape="rect" id="node9" href="$class_heat_haze.html" title="HeatHaze" alt="" coords="509,728,590,755"/>
+<area shape="rect" id="node10" href="$class_heat_haze_listener.html" title="HeatHazeListener" alt="" coords="217,728,343,755"/>
+<area shape="rect" id="node16" href="$class_dust_manager.html" title="DustManager" alt="" coords="1010,8,1110,35"/>
+<area shape="rect" id="node17" href="$class_beam.html" title="Beam" alt="" coords="1872,1775,1928,1801"/>
+<area shape="rect" id="node21" href="$class_dust_pool.html" title="DustPool" alt="" coords="867,1719,943,1745"/>
+<area shape="rect" id="node26" href="$class_autopilot.html" title="Autopilot" alt="" coords="869,1624,942,1651"/>
+<area shape="rect" id="node30" href="$class_airfoil.html" title="Represents an airfoil http://en.wikipedia.org/wiki/Airfoil. " alt="" coords="373,1195,427,1221"/>
+<area shape="rect" id="node31" href="$class_airbrake.html" title="Airbrake" alt="" coords="870,1461,941,1488"/>
+<area shape="rect" id="node35" href="$class_flex_obj.html" title="FlexObj" alt="" coords="872,1379,939,1405"/>
+<area shape="rect" id="node36" href="$class_axle.html" title="class created from a struct will be ugly for a while. " alt="" coords="716,1773,764,1800"/>
+<area shape="rect" id="node37" href="$class_dash_board_manager.html" title="DashBoardManager" alt="" coords="1331,1877,1469,1904"/>
+<area shape="rect" id="node39" href="$class_replay.html" title="Replay" alt="" coords="369,1824,431,1851"/>
+<area shape="rect" id="node40" href="$class_point_col_detector.html" title="PointColDetector" alt="" coords="679,2075,801,2101"/>
+<area shape="rect" id="node43" href="$class_position_storage.html" title="PositionStorage" alt="" coords="1003,2012,1117,2039"/>
+<area shape="rect" id="node4" href="$structground__model__t.html" title="ground_model_t" alt="" coords="492,357,607,384"/>
+<area shape="rect" id="node5" href="$struct_collisions_1_1collision__tri__t.html" title="Collisions::collision\l_tri_t" alt="" coords="838,43,973,85"/>
+<area shape="rect" id="node25" href="$structwheel__t.html" title="wheel_t" alt="" coords="872,1100,939,1127"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_beam_factory.html" title="Builds and manages softbody actors; Manages multithreading. " alt="" coords="2035,627,2170,653"/>
+<area shape="rect" id="node34" href="$class_ro_r_1_1_skidmark.html" title="RoR::Skidmark" alt="" coords="1171,968,1283,995"/>
+<area shape="rect" id="node44" href="$class_ro_r_1_1_character_factory.html" title="RoR::CharacterFactory" alt="" coords="1147,703,1306,729"/>
+<area shape="rect" id="node12" href="$struct_ro_r_1_1_skin_def.html" title="RoR::SkinDef" alt="" coords="497,1103,601,1129"/>
+<area shape="rect" id="node18" href="$structrig__t.html" title="&lt; A simulation actor; typically a vehicle " alt="" coords="1577,1284,1623,1311"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_force_feedback.html" title="RoR::ForceFeedback" alt="" coords="476,779,623,805"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_skidmark_config.html" title="RoR::SkidmarkConfig" alt="" coords="474,1035,625,1061"/>
+<area shape="rect" id="node19" href="$structwing__t.html" title="wing_t" alt="" coords="1197,1561,1257,1588"/>
+<area shape="rect" id="node20" href="$class_buoyance.html" title="Buoyance" alt="" coords="1187,1675,1267,1701"/>
+<area shape="rect" id="node22" href="$structbeam__t.html" title="beam_t" alt="" coords="1194,1284,1259,1311"/>
+<area shape="rect" id="node23" href="$structnode__t.html" title="node_t" alt="" coords="519,1423,580,1449"/>
+<area shape="rect" id="node24" href="$structshock__t.html" title="shock_t" alt="" coords="871,920,939,947"/>
+<area shape="rect" id="node27" href="$structcollcab__rate__t.html" title="collcab_rate_t" alt="" coords="1175,804,1278,831"/>
+<area shape="rect" id="node28" href="$structsoundsource__t.html" title="soundsource_t" alt="" coords="1173,917,1280,944"/>
+<area shape="rect" id="node29" href="$structprop__t.html" title="prop_t" alt="" coords="1197,1019,1256,1045"/>
+<area shape="rect" id="node32" href="$structcparticle__t.html" title="cparticle_t" alt="" coords="1185,1069,1268,1096"/>
+<area shape="rect" id="node33" href="$class_aero_engine.html" title="AeroEngine" alt="" coords="1182,1183,1271,1209"/>
+<area shape="rect" id="node38" href="$struct_ro_r_1_1_per_vehicle_camera_context.html" title="RoR::PerVehicleCameraContext" alt="" coords="1494,1775,1706,1801"/>
+<area shape="rect" id="node41" href="$class_ogre_1_1_movable_text.html" title="Ogre::MovableText" alt="" coords="1533,1939,1667,1965"/>
+<area shape="rect" id="node42" href="$struct_ro_rnet_1_1_truck_state.html" title="&lt; Formerly oob_t " alt="" coords="1531,1989,1669,2016"/>
+<area shape="rect" id="node45" href="$structcollision__box__t.html" title="collision_box_t" alt="" coords="495,529,603,556"/>
+<area shape="rect" id="node46" href="$class_cache_entry.html" title="CacheEntry" alt="" coords="504,931,595,957"/>
+<area shape="rect" id="node47" href="$class_ro_r_1_1_gfx_envmap.html" title="A dynamic environment probe; Creates a cubemap with realtime reflections around specified point..." alt="" coords="486,829,613,856"/>
+<area shape="rect" id="node48" href="$structeventsource__t.html" title="eventsource_t" alt="" coords="853,109,957,136"/>
+<area shape="rect" id="node49" href="$struct_collisions_1_1hash__t.html" title="Collisions::hash_t" alt="" coords="842,160,969,187"/>
+<area shape="rect" id="node50" href="$class_i_height_finder.html" title="IHeightFinder" alt="" coords="855,211,955,237"/>
+</map>

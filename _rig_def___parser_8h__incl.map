@@ -1,0 +1,8 @@
+<map id="source/main/resources/rig_def_fileformat/RigDef_Parser.h" name="source/main/resources/rig_def_fileformat/RigDef_Parser.h">
+<area shape="rect" id="node2" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="5,333,163,360"/>
+<area shape="rect" id="node3" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match) " alt="" coords="403,184,505,211"/>
+<area shape="rect" id="node15" href="$_rig_def___sequential_importer_8h.html" title="RigDef_SequentialImporter.h" alt="" coords="106,109,296,136"/>
+<area shape="rect" id="node4" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="702,333,783,360"/>
+<area shape="rect" id="node6" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="305,259,416,285"/>
+<area shape="rect" id="node10" href="$_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="493,259,619,285"/>
+</map>

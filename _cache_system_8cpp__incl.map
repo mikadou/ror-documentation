@@ -1,0 +1,34 @@
+<map id="source/main/resources/CacheSystem.cpp" name="source/main/resources/CacheSystem.cpp">
+<area shape="rect" id="node2" href="$_cache_system_8h.html" title="Caches information about installed mods (vehicles, terrains...) " alt="" coords="525,320,640,347"/>
+<area shape="rect" id="node7" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="1294,245,1391,272"/>
+<area shape="rect" id="node8" href="$_settings_8h.html" title="Settings.h" alt="" coords="1281,320,1361,347"/>
+<area shape="rect" id="node10" href="$_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="1669,96,1763,123"/>
+<area shape="rect" id="node20" href="$_beam_engine_8h.html" title="BeamEngine.h" alt="" coords="1112,171,1219,197"/>
+<area shape="rect" id="node21" href="$_error_utils_8h.html" title="ErrorUtils.h" alt="" coords="949,96,1037,123"/>
+<area shape="rect" id="node22" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="665,320,772,347"/>
+<area shape="rect" id="node27" href="$_improved_config_file_8h.html" title="ImprovedConfigFile.h" alt="" coords="2911,395,3057,421"/>
+<area shape="rect" id="node32" href="$_language_8h.html" title="Language.h" alt="" coords="1115,320,1204,347"/>
+<area shape="rect" id="node35" href="$_platform_utils_8h.html" title="Platform&#45;specific utilities. " alt="" coords="639,469,748,496"/>
+<area shape="rect" id="node36" href="$_rig_def___parser_8h.html" title="RigDef_Parser.h" alt="" coords="2145,96,2263,123"/>
+<area shape="rect" id="node43" href="$_s_h_a1_8h.html" title="SHA1.h" alt="" coords="2839,171,2907,197"/>
+<area shape="rect" id="node46" href="$_sound_script_manager_8h.html" title="SoundScriptManager.h" alt="" coords="2447,96,2600,123"/>
+<area shape="rect" id="node47" href="$_terrain_manager_8h.html" title="TerrainManager.h" alt="" coords="2300,96,2423,123"/>
+<area shape="rect" id="node48" href="$_terrn2_fileformat_8h.html" title="Terrn2Fileformat.h" alt="" coords="2687,171,2815,197"/>
+<area shape="rect" id="node49" href="$_utils_8h.html" title="Utils.h" alt="" coords="2621,395,2680,421"/>
+<area shape="rect" id="node50" href="$_g_u_i___loading_window_8h.html" title="GUI_LoadingWindow.h" alt="" coords="797,320,952,347"/>
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1459,469,1593,496"/>
+<area shape="rect" id="node9" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1022,395,1108,421"/>
+<area shape="rect" id="node11" href="$_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="1957,171,2035,197"/>
+<area shape="rect" id="node13" href="$_slide_node_8h.html" title="SlideNode.h" alt="" coords="1905,245,1999,272"/>
+<area shape="rect" id="node14" href="$_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="1910,320,2036,347"/>
+<area shape="rect" id="node15" href="$node__t_8h.html" title="datatypes/node_t.h" alt="" coords="1488,320,1621,347"/>
+<area shape="rect" id="node16" href="$shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="1345,171,1484,197"/>
+<area shape="rect" id="node17" href="$beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="1591,245,1728,272"/>
+<area shape="rect" id="node18" href="$wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="1696,320,1835,347"/>
+<area shape="rect" id="node19" href="$rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="1509,171,1627,197"/>
+<area shape="rect" id="node23" href="$_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="93,395,228,421"/>
+<area shape="rect" id="node28" href="$_config_file_8h.html" title="ConfigFile.h" alt="" coords="2938,469,3029,496"/>
+<area shape="rect" id="node37" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="2423,245,2580,272"/>
+<area shape="rect" id="node38" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match) " alt="" coords="2023,245,2125,272"/>
+<area shape="rect" id="node40" href="$_rig_def___sequential_importer_8h.html" title="RigDef_SequentialImporter.h" alt="" coords="2293,171,2483,197"/>
+</map>

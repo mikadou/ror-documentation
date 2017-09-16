@@ -1,0 +1,7 @@
+<map id="RoRFrameListener::TeleportPlayer" name="RoRFrameListener::TeleportPlayer">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="241,5,445,46"/>
+<area shape="rect" id="node4" href="$class_character.html#a1884d7f3e305d9b23164fdbf208f1cc6" title="Character::setPosition" alt="" coords="267,71,419,97"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="493,12,688,39"/>
+<area shape="rect" id="node5" href="$class_survey_map_manager.html#a17809f36c8b9291270ced418f222faab" title="SurveyMapManager::getMap\lEntityByName" alt="" coords="496,63,685,105"/>
+<area shape="rect" id="node6" href="$class_survey_map_entity.html#a781ecb998f41521324088cd3ce66d9ce" title="SurveyMapEntity::setPosition" alt="" coords="493,129,688,156"/>
+</map>

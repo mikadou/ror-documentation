@@ -1,0 +1,10 @@
+<map id="CameraBehaviorVehicleCineCam::deactivate" name="CameraBehaviorVehicleCineCam::deactivate">
+<area shape="rect" id="node2" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="263,5,441,32"/>
+<area shape="rect" id="node3" href="$class_beam.html#a3304824c3e7285047f007c956318de09" title="Beam::prepareInside" alt="" coords="281,56,423,83"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="251,107,453,133"/>
+<area shape="rect" id="node5" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="243,158,461,199"/>
+<area shape="rect" id="node9" href="$class_beam.html#a23fbbd95dce6d7440124a59ff905e4d5" title="Beam::changedCamera" alt="" coords="273,224,431,251"/>
+<area shape="rect" id="node6" href="$class_dash_board_manager.html#aab1c20ed732f3e11ea290a2f90be99e0" title="DashBoardManager::wasLoaded" alt="" coords="509,140,720,167"/>
+<area shape="rect" id="node7" href="$class_dash_board_manager.html#a21ffd946b6843df16ca7b3ef704b596a" title="DashBoardManager::setVisible" alt="" coords="513,191,716,217"/>
+<area shape="rect" id="node8" href="$class_dash_board.html#a650c134fdce0c84a77d84d2c23bdccbe" title="DashBoard::setVisible" alt="" coords="768,191,920,217"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="RoR::MainMenu::MainMenuLoopUpdate" name="RoR::MainMenu::MainMenuLoopUpdate">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="283,5,485,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a9c821dcc2190b100f4003e72e0b924b1" title="RoR::App::SetPendingAppState" alt="" coords="279,56,489,83"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="287,107,481,133"/>
+<area shape="rect" id="node8" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="295,157,473,184"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_manager.html#a5dce3e55af3c2dddb41206be5c89593f" title="RoR::GUIManager::GetMpClientList" alt="" coords="267,208,501,235"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#ac6a46c70604c2aa7a8c451282aa03450" title="RoR::GUI::MpClientList\l::update" alt="" coords="303,259,465,301"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_g_u_i_manager.html#a99a04443af85997d08407656ec2b45b8" title="RoR::GUIManager::GetMpSelector" alt="" coords="271,325,497,352"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_g_u_i_1_1_multiplayer_selector.html#a7b54edd645e7c4b349fc0e4b742992ea" title="To be invoked periodically from main thread if refresh is in progress. " alt="" coords="273,377,495,418"/>
+<area shape="rect" id="node17" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="295,443,473,469"/>
+<area shape="rect" id="node18" href="$class_input_engine.html#a7e30f2d1d86a20caba80ead350269431" title="InputEngine::Capture" alt="" coords="311,493,457,520"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#ae7ca05a9e2c04da99c1305919b3002b3" title="RoR::App::SetVarEnum" alt="" coords="556,31,719,57"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#a18ba521dde82ec933a84f3dd87d372e9" title="RoR::App::AppStateToStr" alt="" coords="550,81,725,108"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_app.html#a3492dc6307a9d930ac73578e0d1f005e" title="RoR::App::LogVarUpdate" alt="" coords="812,31,983,57"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_mp_client_list.html#a39f1ace97e41e7f020fb11add7d32ccc" title="RoR::GUI::MpClientList\l::updateSlot" alt="" coords="556,259,719,301"/>
+<area shape="rect" id="node12" href="$class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="800,201,995,242"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_beam_factory.html#af81d989e1facfd300fd8935504f0cf2d" title="RoR::BeamFactory::checkStreamsOK" alt="" coords="774,267,1021,293"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_beam_factory.html#a9055984415b2d96fb51410c4323371ea" title="RoR::BeamFactory::checkStreams\lRemoteOK" alt="" coords="784,318,1011,359"/>
+</map>

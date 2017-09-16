@@ -1,0 +1,8 @@
+<map id="RoR::App::GetDiagTruckMass" name="RoR::App::GetDiagTruckMass">
+<area shape="rect" id="node2" href="$class_beam.html#a047eca9600b8c92686f5805590ece5fe" title="Beam::calc_masses2" alt="" coords="261,5,409,32"/>
+<area shape="rect" id="node5" href="$class_settings.html#a19d1e2e2df8600f7e2cd1c64363fe60f" title="Settings::SaveSettings" alt="" coords="257,56,413,83"/>
+<area shape="rect" id="node3" href="$class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="461,5,587,32"/>
+<area shape="rect" id="node4" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="635,5,733,32"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="499,56,549,83"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="647,56,721,83"/>
+</map>

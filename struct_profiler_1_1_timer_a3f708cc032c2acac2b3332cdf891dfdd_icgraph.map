@@ -1,0 +1,5 @@
+<map id="Profiler::Timer::ms" name="Profiler::Timer::ms">
+<area shape="rect" id="node2" href="$struct_profiler_1_1_timer.html#a5bf411f300dd206210966238e65364f4" title="Profiler::Timer::millicycles" alt="" coords="204,5,377,32"/>
+<area shape="rect" id="node3" href="$struct_profiler_1_1_timer.html#a39a7ba4e831714879393c79c0a18c993" title="Profiler::Timer::currentmillicycles" alt="" coords="184,56,397,83"/>
+<area shape="rect" id="node4" href="$struct_profiler_1_1_timer.html#ada03a3198fa3c26511b2bd97a56231bf" title="Profiler::Timer::avgms" alt="" coords="215,107,366,133"/>
+</map>

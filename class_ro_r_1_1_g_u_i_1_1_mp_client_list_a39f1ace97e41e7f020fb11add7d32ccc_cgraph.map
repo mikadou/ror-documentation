@@ -1,0 +1,5 @@
+<map id="RoR::GUI::MpClientList::updateSlot" name="RoR::GUI::MpClientList::updateSlot">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="243,5,437,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#af81d989e1facfd300fd8935504f0cf2d" title="RoR::BeamFactory::checkStreamsOK" alt="" coords="217,71,463,97"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#a9055984415b2d96fb51410c4323371ea" title="RoR::BeamFactory::checkStreams\lRemoteOK" alt="" coords="227,122,453,163"/>
+</map>

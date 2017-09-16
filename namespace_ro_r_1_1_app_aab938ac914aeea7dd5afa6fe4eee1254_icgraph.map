@@ -1,0 +1,16 @@
+<map id="RoR::App::SetVarFloat" name="RoR::App::SetVarFloat">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ae96b10fd9ba321925d7b2bb5a27ce75b" title="RoR::App::SetIoFFbackCameraGain" alt="" coords="211,325,447,352"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#a27b79bcac571d9d5e1a61f8a64f7b0df" title="RoR::App::SetIoFFbackCenterGain" alt="" coords="215,5,444,32"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_app.html#a36dff9d06a4992a97cd9b8ae0700114c" title="RoR::App::SetIoFFbackMasterGain" alt="" coords="214,56,445,83"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#a5055638ae899990814826a4d77d0115d" title="RoR::App::SetIoFFbackStressGain" alt="" coords="215,107,443,133"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#af5a01058e57977ba0ebfc5e1be104b40" title="RoR::App::SetAudioMaster\lVolume" alt="" coords="239,158,420,199"/>
+<area shape="rect" id="node8" href="$namespace_ro_r_1_1_app.html#a229ebaef4c949f8964c53f22dd7b095b" title="RoR::App::SetIoOutGaugeDelay" alt="" coords="223,224,435,251"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#a9a6bd96a68f4334bfcac32d781b051a6" title="RoR::App::SetGfxSightRange" alt="" coords="231,275,428,301"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_app.html#a72931ba89f662b881397d31da7000560" title="RoR::App::SetGfxFovExternal" alt="" coords="230,427,429,453"/>
+<area shape="rect" id="node14" href="$namespace_ro_r_1_1_app.html#a50c2959dfade0689fec6803ace3b5a89" title="RoR::App::SetGfxFovInternal" alt="" coords="232,376,427,403"/>
+<area shape="rect" id="node3" href="$class_settings.html#aa27b8db941ea9fa77ffff67c80b1d5be" title="Settings::ParseGlobalVar\lSetting" alt="" coords="506,217,675,258"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="499,394,682,435"/>
+<area shape="rect" id="node13" href="$class_settings.html#a017766bde6b39c2e123bbeb50f3237d2" title="Settings::SetGfxFovExternal" alt="" coords="496,460,685,487"/>
+<area shape="rect" id="node12" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="734,401,949,428"/>
+<area shape="rect" id="node15" href="$class_settings.html#a99c5eec8b9e74d09a7ac2f7aa97ecd19" title="Settings::SetGfxFovInternal" alt="" coords="499,343,683,369"/>
+</map>

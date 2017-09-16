@@ -1,0 +1,10 @@
+<map id="source/main/gameplay/BeamEngine.h" name="source/main/gameplay/BeamEngine.h">
+<area shape="rect" id="node2" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="1203,96,1300,123"/>
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1172,320,1307,347"/>
+<area shape="rect" id="node21" href="$_settings_8h.html" title="Settings.h" alt="" coords="1211,171,1292,197"/>
+<area shape="rect" id="node15" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1659,469,1812,496"/>
+<area shape="rect" id="node16" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1719,395,1861,421"/>
+<area shape="rect" id="node17" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1887,395,2057,421"/>
+<area shape="rect" id="node18" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2082,395,2163,421"/>
+<area shape="rect" id="node22" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1238,245,1324,272"/>
+</map>

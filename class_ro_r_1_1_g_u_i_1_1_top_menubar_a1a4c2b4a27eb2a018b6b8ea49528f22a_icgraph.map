@@ -1,0 +1,6 @@
+<map id="RoR::GUI::TopMenubar::SetSimController" name="RoR::GUI::TopMenubar::SetSimController">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#a875185e93587aeb2ab73220c1d2d4fc8" title="RoR::GUIManager::SetSimController" alt="" coords="217,12,455,39"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="504,12,763,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="811,12,861,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="910,12,983,39"/>
+</map>

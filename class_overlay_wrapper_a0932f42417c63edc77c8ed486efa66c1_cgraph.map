@@ -1,0 +1,8 @@
+<map id="OverlayWrapper::UpdateAerialHUD" name="OverlayWrapper::UpdateAerialHUD">
+<area shape="rect" id="node2" href="$class_aero_engine.html#a3455377c40761670b0b8d1b2b60098b5" title="AeroEngine::getThrottle" alt="" coords="283,5,442,32"/>
+<area shape="rect" id="node3" href="$class_aero_engine.html#a92371208b22f9c2f28c6850a92bbec3d" title="AeroEngine::isFailed" alt="" coords="291,56,434,83"/>
+<area shape="rect" id="node4" href="$class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="295,107,430,133"/>
+<area shape="rect" id="node5" href="$class_aero_engine.html#a427f0ecccc7b71c9188f0443448981c8" title="AeroEngine::getRPMpc" alt="" coords="283,157,442,184"/>
+<area shape="rect" id="node6" href="$class_aero_engine.html#a6d67284b994e8fa6b6d2896feee03951" title="AeroEngine::getType" alt="" coords="291,208,435,235"/>
+<area shape="rect" id="node7" href="$class_aero_engine.html#acee24708de2de2dd8491e6d404fa637b" title="AeroEngine::getIgnition" alt="" coords="284,259,441,285"/>
+</map>

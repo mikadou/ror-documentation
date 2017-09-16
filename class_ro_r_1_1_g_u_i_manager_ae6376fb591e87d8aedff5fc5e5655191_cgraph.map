@@ -1,0 +1,7 @@
+<map id="RoR::GUIManager::hideGUI" name="RoR::GUIManager::hideGUI">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#aac73d63034f48e89355379688c44a616" title="RoR::GUI::SimUtils\l::HideNotificationBox" alt="" coords="255,5,401,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#a5f475af36598d0690b88e8ba2953a79f" title="RoR::GUI::SimUtils\l::SetFPSBoxVisible" alt="" coords="259,70,397,111"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ad563d9ee9112e276c9d795dbfb0a32c9" title="RoR::GUI::SimUtils\l::SetTruckInfoBoxVisible" alt="" coords="245,135,411,177"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_game_chat_box.html#aeaa7f28a8db70da61a55bd8c03e5cf16" title="RoR::GUI::GameChatBox\l::Hide" alt="" coords="241,201,415,242"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#a46b7b05ceea5770f438c54fb655bc01e" title="RoR::GUI::SimUtils\l::DisableNotifications" alt="" coords="255,266,401,307"/>
+</map>

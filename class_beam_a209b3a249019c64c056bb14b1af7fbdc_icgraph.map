@@ -1,0 +1,5 @@
+<map id="Beam::getReplay" name="Beam::getReplay">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#a519eb1268f9cc62d177d723bdb8190e1" title="RoRFrameListener::HideGUI" alt="" coords="177,12,367,39"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="417,5,599,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="649,12,863,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RoR::GUI::FrictionSettings::SetVisible" name="RoR::GUI::FrictionSettings::SetVisible">
+<area shape="rect" id="node2" href="$class_collisions.html#a5a01ebfac678cb2f183b33fcb2c6545e" title="Collisions::getGroundModels" alt="" coords="244,5,433,32"/>
+<area shape="rect" id="node3" href="$class_collisions.html#a7840c7d5b2b56b4cc8f41778c0edb7a7" title="Collisions::getGroundModel\lByString" alt="" coords="247,57,430,98"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a52b83cc66a654dfc82333dc546f22a58" title="RoR::GUI::FrictionSettings\l::updateControls" alt="" coords="249,122,429,163"/>
+<area shape="rect" id="node5" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="249,188,428,215"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_manager.html#aa9d9cf9d3a246eb3200f4a1c1e299b5b" title="RoR::GUIManager::UnfocusGui" alt="" coords="235,239,443,265"/>
+</map>

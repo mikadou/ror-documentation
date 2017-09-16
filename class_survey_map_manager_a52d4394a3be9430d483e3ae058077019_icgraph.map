@@ -1,0 +1,9 @@
+<map id="SurveyMapManager::getMapZoom" name="SurveyMapManager::getMapZoom">
+<area shape="rect" id="node2" href="$class_survey_map_manager.html#a49258bae8179a976b3c96b4b8daee682" title="SurveyMapManager::Update" alt="" coords="1011,129,1199,156"/>
+<area shape="rect" id="node4" href="$class_survey_map_texture_creator.html#a889f0dd0655063c8cb78116cee9e6b1d" title="SurveyMapTextureCreator\l::update" alt="" coords="278,63,453,105"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1249,129,1463,156"/>
+<area shape="rect" id="node5" href="$class_survey_map_manager.html#ac55393b519c84d8c64cac83d21a952ec" title="SurveyMapManager::init" alt="" coords="532,71,695,97"/>
+<area shape="rect" id="node7" href="$class_survey_map_manager.html#ac7fddea7dd7050147998b735d3157718" title="SurveyMapManager::setMapZoom" alt="" coords="502,129,725,156"/>
+<area shape="rect" id="node6" href="$class_survey_map_manager.html#a68d4e0db3e913d1176cdfcd5a02d0b8b" title="SurveyMapManager::Survey\lMapManager" alt="" coords="775,63,961,105"/>
+<area shape="rect" id="node8" href="$class_survey_map_manager.html#ab0273b7367d936f9458d69a89de88e2d" title="SurveyMapManager::setMap\lZoomRelative" alt="" coords="773,181,963,222"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RoR::BeamFactory::removeTruck" name="RoR::BeamFactory::removeTruck">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_beam_factory.html#aaff4dc9bb034a75b63059308fb7f8075" title="RoR::BeamFactory::FindTruck\lInsideBox" alt="" coords="241,5,442,46"/>
+<area shape="rect" id="node3" href="$class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="491,12,623,39"/>
+</map>

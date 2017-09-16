@@ -1,0 +1,5 @@
+<map id="RigDef::Parser::ParseSetCollisionRange" name="RigDef::Parser::ParseSetCollisionRange">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="226,5,409,46"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#ae77a4970494c116e98a92be7a0160a16" title="RigDef::Parser::GetArgFloat" alt="" coords="224,71,411,97"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="459,41,653,68"/>
+</map>

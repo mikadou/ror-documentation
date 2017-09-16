@@ -1,0 +1,8 @@
+<map id="Autopilot::toggleAlt" name="Autopilot::toggleAlt">
+<area shape="rect" id="node2" href="$class_overlay_wrapper.html#a7059a60d3d3e067be79c66247298b56b" title="OverlayWrapper::mouseMoved" alt="" coords="187,56,389,83"/>
+<area shape="rect" id="node3" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="441,5,652,32"/>
+<area shape="rect" id="node4" href="$class_overlay_wrapper.html#aa0172aafc9f55e431f19a57a0f39da7b" title="OverlayWrapper::mousePressed" alt="" coords="441,56,652,83"/>
+<area shape="rect" id="node6" href="$class_overlay_wrapper.html#a813c49ce923d19067d0a656c0d79c610" title="OverlayWrapper::mouseReleased" alt="" coords="437,107,656,133"/>
+<area shape="rect" id="node5" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="707,56,927,83"/>
+<area shape="rect" id="node7" href="$class_g_u_i_input_manager.html#a5f096906671c8b2fc404353cb0cc3cf4" title="GUIInputManager::mouseReleased" alt="" coords="704,107,931,133"/>
+</map>

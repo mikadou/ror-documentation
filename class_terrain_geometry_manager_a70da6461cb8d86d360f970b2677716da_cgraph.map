@@ -1,0 +1,7 @@
+<map id="TerrainGeometryManager::getNormalAt" name="TerrainGeometryManager::getNormalAt">
+<area shape="rect" id="node2" href="$class_terrain_geometry_manager.html#a57cfde0ce76cbb55021a6838a6e69987" title="TerrainGeometryManager\l::getHeightAt" alt="" coords="225,38,394,79"/>
+<area shape="rect" id="node3" href="$class_terrain_geometry_manager.html#a0b29da6ca8332db2e5ea1d261dc48cf2" title="TerrainGeometryManager\l::getHeightAtWorldPosition" alt="" coords="443,38,623,79"/>
+<area shape="rect" id="node4" href="$class_terrain_geometry_manager.html#a67d2ee1f9fff22d648111b9c95b6dd28" title="TerrainGeometryManager\l::getTerrainPositionAlign" alt="" coords="681,5,850,46"/>
+<area shape="rect" id="node5" href="$class_terrain_geometry_manager.html#a8fbfda670ed07c778e59532916788da1" title="TerrainGeometryManager\l::getHeightAtTerrainPosition" alt="" coords="672,70,859,111"/>
+<area shape="rect" id="node6" href="$class_terrain_geometry_manager.html#ad89449bc945a3f768a06ded8a7e8a89f" title="TerrainGeometryManager\l::getHeightAtPoint" alt="" coords="907,70,1077,111"/>
+</map>

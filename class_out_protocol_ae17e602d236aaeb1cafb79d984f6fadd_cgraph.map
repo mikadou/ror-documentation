@@ -1,0 +1,10 @@
+<map id="OutProtocol::Update" name="OutProtocol::Update">
+<area shape="rect" id="node2" href="$class_beam_engine.html#a962b102fa1e48c7d541f19922053cadf" title="BeamEngine::hasTurbo" alt="" coords="205,5,363,32"/>
+<area shape="rect" id="node3" href="$class_beam_engine.html#ae5f87426f9dc96c4f4bf377b53e9936a" title="BeamEngine::getGear" alt="" coords="209,56,359,83"/>
+<area shape="rect" id="node4" href="$class_beam_engine.html#a871214fce37bde9b73e59494e2dc2bca" title="BeamEngine::getRPM" alt="" coords="208,107,360,133"/>
+<area shape="rect" id="node5" href="$class_beam_engine.html#a97f9e8ae65b27a623c9aefaba01b5a3b" title="BeamEngine::getTurboPSI" alt="" coords="195,157,373,184"/>
+<area shape="rect" id="node6" href="$class_beam_engine.html#acb984f668e093b13ca9fad182831763e" title="BeamEngine::hasContact" alt="" coords="199,208,369,235"/>
+<area shape="rect" id="node7" href="$class_beam_engine.html#abb3f5e80a52e013b8510d4ff4bc171f5" title="BeamEngine::isRunning" alt="" coords="203,259,365,285"/>
+<area shape="rect" id="node8" href="$class_beam_engine.html#a2a9f0148195ac8b87fd92456743f2c01" title="BeamEngine::getAcc" alt="" coords="211,309,357,336"/>
+<area shape="rect" id="node9" href="$class_beam_engine.html#ab734ee4c4bc73ed000c10ac3aba196eb" title="BeamEngine::getClutch" alt="" coords="204,360,364,387"/>
+</map>

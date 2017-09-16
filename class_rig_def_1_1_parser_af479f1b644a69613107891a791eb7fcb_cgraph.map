@@ -1,0 +1,8 @@
+<map id="RigDef::Parser::ParseDirectiveSetNodeDefaults" name="RigDef::Parser::ParseDirectiveSetNodeDefaults">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="266,5,449,46"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#ae77a4970494c116e98a92be7a0160a16" title="RigDef::Parser::GetArgFloat" alt="" coords="264,71,451,97"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="270,121,445,148"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_parser.html#aa0448d0c351e3163aa33245881947a40" title="RigDef::Parser::_ParseNode\lOptions" alt="" coords="263,173,452,214"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#abb8cfb41d0897fad9fc9039db596d473" title="RigDef::Parser::LogParsed\lDirectiveSetNodeDefaultsData" alt="" coords="256,238,459,279"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="507,125,701,152"/>
+</map>

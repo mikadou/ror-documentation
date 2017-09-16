@@ -1,0 +1,5 @@
+<map id="RoR::GUI::MultiplayerSelector" name="RoR::GUI::MultiplayerSelector">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_multiplayer_selector_layout.html" title="RoR::GUI::MultiplayerSelector\lLayout" alt="" coords="5,83,204,125"/>
+<area shape="rect" id="node3" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="38,5,172,32"/>
+<area shape="rect" id="node4" href="$struct_ro_r_1_1_g_u_i_1_1_serverlist_data.html" title="Private impl. to minimze header deps (&quot;json.h&quot;, &lt;thread&gt;, &lt;future&gt;) " alt="" coords="230,91,401,117"/>
+</map>

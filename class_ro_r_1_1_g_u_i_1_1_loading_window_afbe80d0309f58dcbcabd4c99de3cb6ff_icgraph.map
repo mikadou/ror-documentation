@@ -1,0 +1,6 @@
+<map id="RoR::GUI::LoadingWindow::setAutotrack" name="RoR::GUI::LoadingWindow::setAutotrack">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_main_menu.html#ab571dc971207c47c7bf6a0782c5d5eea" title="RoR::MainMenu::LeaveMultiplayer\lServer" alt="" coords="235,5,458,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="507,12,768,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="816,12,867,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="915,12,989,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Hydrax::DecalsManager::add" name="Hydrax::DecalsManager::add">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_hydrax.html#a572279649449549c7be3ef809221fbae" title="Hydrax::Hydrax::getMaterial\lManager" alt="" coords="245,5,432,46"/>
+<area shape="rect" id="node3" href="$class_hydrax_1_1_material_manager.html#ab723890a6e4e198c1db2cf19dbe8be87" title="Hydrax::MaterialManager\l::isCreated" alt="" coords="255,70,423,111"/>
+<area shape="rect" id="node4" href="$class_hydrax_1_1_decal.html#a8c81f3988be73eac2c1c03f947c74ed9" title="Hydrax::Decal::registerPass" alt="" coords="245,136,432,163"/>
+<area shape="rect" id="node6" href="$class_hydrax_1_1_material_manager.html#a648e7cd626194ea34c31a4bf422cdf4d" title="Hydrax::MaterialManager\l::getMaterial" alt="" coords="255,187,423,229"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_decal.html#aa517fc153970df9ccabffda04b27892c" title="Hydrax::Decal::unregister" alt="" coords="480,136,651,163"/>
+</map>

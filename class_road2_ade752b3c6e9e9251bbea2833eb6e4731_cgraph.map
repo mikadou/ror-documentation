@@ -1,0 +1,5 @@
+<map id="Road2::addCollisionQuad" name="Road2::addCollisionQuad">
+<area shape="rect" id="node2" href="$class_collisions.html#a44e7f403a680e597a54209b2873b6e28" title="Collisions::addCollisionTri" alt="" coords="224,5,397,32"/>
+<area shape="rect" id="node3" href="$class_collisions.html#ab8dc3b86fee4e2aa47927bfeabe2ddfe" title="Collisions::hash_add" alt="" coords="446,5,589,32"/>
+<area shape="rect" id="node4" href="$class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Collisions::hashfunc" alt="" coords="638,5,778,32"/>
+</map>

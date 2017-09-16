@@ -1,0 +1,10 @@
+<map id="RigDef::Parser::ParseManagedMaterials" name="RigDef::Parser::ParseManagedMaterials">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="285,5,467,46"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="542,59,735,85"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#a629f3ff2e6181f7953ec28168b0aac00" title="RigDef::Parser::GetArgStr" alt="" coords="551,135,726,161"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a8dd2eb7a7919afa103be17876cf1a6d2" title="RigDef::Parser::GetArgManagedTex" alt="" coords="259,172,493,199"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#ab3a56a250de7f20045e9aaa8f090e70f" title="RoR::App::GetCacheSystem" alt="" coords="280,223,472,249"/>
+<area shape="rect" id="node7" href="$struct_rig_def_1_1_managed_material.html#ac103fdc5fb34c014b05e4edbaa31e3e6" title="RigDef::ManagedMaterial\l::HasDamagedDiffuseMap" alt="" coords="287,274,465,315"/>
+<area shape="rect" id="node8" href="$class_cache_system.html#aa025222e89657b72478453191ee04878" title="CacheSystem::resourceExists\lInAllGroups" alt="" coords="276,339,476,381"/>
+<area shape="rect" id="node9" href="$struct_rig_def_1_1_managed_material.html#a0a78525bf6a3ed403ad367f851d26a34" title="RigDef::ManagedMaterial\l::HasSpecularMap" alt="" coords="291,405,461,446"/>
+</map>

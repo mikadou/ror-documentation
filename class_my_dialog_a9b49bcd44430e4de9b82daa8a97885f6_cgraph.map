@@ -1,0 +1,8 @@
+<map id="MyDialog::OnButPlay" name="MyDialog::OnButPlay">
+<area shape="rect" id="node2" href="$class_my_dialog.html#a9a7ec676289d323dc4fa0f0766b30c12" title="MyDialog::SaveConfig" alt="" coords="203,35,357,61"/>
+<area shape="rect" id="node7" href="$namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="234,85,326,112"/>
+<area shape="rect" id="node3" href="$class_my_dialog.html#a9dda5ceed397209fea3b86bf17b183d1" title="MyDialog::getSettingsControls" alt="" coords="405,63,605,89"/>
+<area shape="rect" id="node4" href="$wxutils_8h.html#acea10d469893caac689206a073cc165e" title="conv" alt="" coords="724,5,775,32"/>
+<area shape="rect" id="node5" href="$classwx_value_choice.html#a929749fefe92945893e8fc62107c770f" title="wxValueChoice::getSelected\lValueAsSTDString" alt="" coords="654,57,845,98"/>
+<area shape="rect" id="node6" href="$classwx_value_choice.html#a9193f92274299f15adefdb340ad58abe" title="wxValueChoice::getSelected\lValue" alt="" coords="894,86,1085,127"/>
+</map>

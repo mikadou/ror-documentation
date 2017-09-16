@@ -1,0 +1,28 @@
+<map id="source/main/gameplay/AutoPilot.cpp" name="source/main/gameplay/AutoPilot.cpp">
+<area shape="rect" id="node2" href="$_auto_pilot_8h.html" title="AutoPilot.h" alt="" coords="1657,320,1743,347"/>
+<area shape="rect" id="node22" href="$_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="750,96,844,123"/>
+<area shape="rect" id="node37" href="$_i_height_finder_8h.html" title="IHeightFinder.h" alt="" coords="1322,96,1432,123"/>
+<area shape="rect" id="node38" href="$_sound_script_manager_8h.html" title="SoundScriptManager.h" alt="" coords="1508,96,1661,123"/>
+<area shape="rect" id="node39" href="$_terrain_manager_8h.html" title="TerrainManager.h" alt="" coords="1876,395,1999,421"/>
+<area shape="rect" id="node44" href="$_water_8h.html" title="Water.h" alt="" coords="1409,320,1476,347"/>
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1060,469,1195,496"/>
+<area shape="rect" id="node21" href="$_terrain_object_manager_8h.html" title="TerrainObjectManager.h" alt="" coords="1538,395,1699,421"/>
+<area shape="rect" id="node15" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="347,619,500,645"/>
+<area shape="rect" id="node16" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="298,544,440,571"/>
+<area shape="rect" id="node17" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="695,544,865,571"/>
+<area shape="rect" id="node18" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="1966,544,2047,571"/>
+<area shape="rect" id="node23" href="$_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="1255,171,1333,197"/>
+<area shape="rect" id="node25" href="$_slide_node_8h.html" title="SlideNode.h" alt="" coords="1053,320,1147,347"/>
+<area shape="rect" id="node27" href="$_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="1009,171,1135,197"/>
+<area shape="rect" id="node28" href="$node__t_8h.html" title="datatypes/node_t.h" alt="" coords="168,395,301,421"/>
+<area shape="rect" id="node29" href="$shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="435,171,575,197"/>
+<area shape="rect" id="node30" href="$beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="326,395,463,421"/>
+<area shape="rect" id="node31" href="$wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="488,395,627,421"/>
+<area shape="rect" id="node32" href="$rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="738,171,856,197"/>
+<area shape="rect" id="node26" href="$_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1077,395,1179,421"/>
+<area shape="rect" id="node33" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="835,245,932,272"/>
+<area shape="rect" id="node34" href="$_settings_8h.html" title="Settings.h" alt="" coords="843,320,924,347"/>
+<area shape="rect" id="node35" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="863,395,949,421"/>
+<area shape="rect" id="node40" href="$_terrn2_fileformat_8h.html" title="Terrn2Fileformat.h" alt="" coords="2260,469,2388,496"/>
+<area shape="rect" id="node46" href="$_i_water_8h.html" title="IWater.h" alt="" coords="1305,395,1377,421"/>
+</map>

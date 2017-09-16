@@ -1,0 +1,51 @@
+<map id="WinMain" name="WinMain">
+<area shape="rect" id="node2" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="128,1244,179,1271"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a7cb39acc212f992f765bbc091bb652de" title="RoR::App::Init" alt="" coords="285,5,392,32"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_system.html#a49888453ad63100a98a0714a91d96a60" title="RoR::System::DetectBasePaths" alt="" coords="232,56,445,83"/>
+<area shape="rect" id="node5" href="$struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="757,160,904,187"/>
+<area shape="rect" id="node6" href="$namespace_ro_r_1_1_app.html#a545980ff052c69db53bdcff26057046e" title="RoR::App::SetSysLogsDir" alt="" coords="251,325,427,352"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#a2f5a32cc85742cc76773feb27da8036c" title="RoR::App::GetSysUserDir" alt="" coords="515,427,693,453"/>
+<area shape="rect" id="node8" href="$struct_ro_r_1_1_platform_utils.html#a1bf4d0b15332a9d583e75b25d5b16cab" title="RoR::PlatformUtils\l::FolderExists" alt="" coords="764,761,897,802"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#af341888bb18cf9d743c56111c8c90306" title="RoR::App::GetSysLogsDir" alt="" coords="250,848,427,875"/>
+<area shape="rect" id="node10" href="$struct_ro_r_1_1_platform_utils.html#af80a00ca1fe50cbfc0f96e9f0b967152" title="RoR::PlatformUtils\l::CreateFolder" alt="" coords="272,899,405,941"/>
+<area shape="rect" id="node11" href="$namespace_ro_r_1_1_app.html#a4e2bda25c8b29fae9db4761dec14c3d5" title="RoR::App::SetDiagTraceGlobals" alt="" coords="233,965,445,992"/>
+<area shape="rect" id="node12" href="$class_settings.html#ad1c21542e41500c873f654325aad486d" title="Settings::SetupAllPaths" alt="" coords="258,427,419,453"/>
+<area shape="rect" id="node13" href="$namespace_ro_r_1_1_app.html#a82b8d8aff12588e45f5eec0bb8f94484" title="RoR::App::GetSettings" alt="" coords="260,528,417,555"/>
+<area shape="rect" id="node14" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; Settings\l \&gt;::getSingleton" alt="" coords="523,521,685,562"/>
+<area shape="rect" id="node15" href="$class_settings.html#aa8257000628d4086aa8e792b26b35445" title="Settings::LoadSettings" alt="" coords="261,1016,416,1043"/>
+<area shape="rect" id="node16" href="$namespace_ro_r_1_1_app.html#a2c3bd075339dae711a99f41ae3916863" title="RoR::App::GetSysConfigDir" alt="" coords="511,597,697,624"/>
+<area shape="rect" id="node17" href="$namespace_ro_r_1_1_app.html#af4bed02c5707facd24d4d30cb4d2c732" title="RoR::App::GetSysCacheDir" alt="" coords="511,669,697,696"/>
+<area shape="rect" id="node18" href="$class_settings.html#aedfe597cc18de9ea1a028b55091c337d" title="Process command line arguments into settings. " alt="" coords="233,1117,444,1144"/>
+<area shape="rect" id="node19" href="$namespace_ro_r_1_1_app.html#a9c821dcc2190b100f4003e72e0b924b1" title="RoR::App::SetPendingAppState" alt="" coords="499,1092,709,1119"/>
+<area shape="rect" id="node20" href="$namespace_ro_r_1_1_app.html#a3a48fe28fc3ddcd372456e4b30721d9a" title="RoR::App::GetPendingAppState" alt="" coords="233,1168,444,1195"/>
+<area shape="rect" id="node21" href="$namespace_ro_r.html#a9eac2ea904b95ab307ed42c002c2df72" title="RoR::ShowCommandLineUsage" alt="" coords="233,1219,445,1245"/>
+<area shape="rect" id="node22" href="$namespace_ro_r.html#a81052941e70e11a3166a3216747cfd0b" title="RoR::ShowVersion" alt="" coords="271,1269,406,1296"/>
+<area shape="rect" id="node23" href="$namespace_ro_r_1_1_app.html#a5fa1633d09bda9bcb96b9ea0bef99414" title="RoR::App::StartOgreSubsystem" alt="" coords="233,1320,444,1347"/>
+<area shape="rect" id="node24" href="$namespace_ro_r_1_1_app.html#ac97cb16ef29debf3ca53f18fe1847ea3" title="RoR::App::CreateContentManager" alt="" coords="227,1371,450,1397"/>
+<area shape="rect" id="node25" href="$class_language_engine.html#a76cb37a44a39216fd83ab38285eacf94" title="LanguageEngine::setup" alt="" coords="259,1421,418,1448"/>
+<area shape="rect" id="node26" href="$namespace_ro_r_1_1_app.html#a092356c0c0b7281f160477e5d2d850d7" title="RoR::App::GetContentManager" alt="" coords="236,1472,441,1499"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_content_manager.html#a7cbddcf40c0f515169de4d4e6bb8fd11" title="RoR::ContentManager\l::AddResourcePack" alt="" coords="527,731,681,773"/>
+<area shape="rect" id="node28" href="$namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="503,1548,705,1575"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_ogre_subsystem.html#a2f68e736be01d118cae03e831b38a9df" title="RoR::OgreSubsystem\l::GetOgreRoot" alt="" coords="263,1625,414,1666"/>
+<area shape="rect" id="node30" href="$class_ro_r_1_1_ogre_subsystem.html#a6620196f431b09d0096516d214563fc7" title="RoR::OgreSubsystem\l::GetViewport" alt="" coords="263,1690,414,1731"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_g_u_i_manager.html#a2e3ad16d1e694d5602233269e7b19809" title="RoR::GUIManager::getRandom\lWallpaperImage" alt="" coords="235,1755,442,1797"/>
+<area shape="rect" id="node32" href="$namespace_ro_r_1_1_app.html#a34fd9b755fd86a3950e09f9096fde299" title="RoR::App::CreateCacheSystem" alt="" coords="233,1821,444,1848"/>
+<area shape="rect" id="node33" href="$namespace_ro_r_1_1_app.html#ab3a56a250de7f20045e9aaa8f090e70f" title="RoR::App::GetCacheSystem" alt="" coords="508,271,700,297"/>
+<area shape="rect" id="node34" href="$class_cache_system.html#ab7761707f5bc702ff025ff62778a8452" title="CacheSystem::setLocation" alt="" coords="249,1872,429,1899"/>
+<area shape="rect" id="node35" href="$class_ro_r_1_1_content_manager.html#a3d65ff91e47f235abdea3dcc9db62876" title="RoR::ContentManager\l::init" alt="" coords="262,579,415,621"/>
+<area shape="rect" id="node36" href="$namespace_ro_r_1_1_app.html#a17f35e957626e209d7d864a1020c7234" title="RoR::App::CreateGuiManager\lIfNotExists" alt="" coords="240,1923,437,1965"/>
+<area shape="rect" id="node37" href="$namespace_ro_r_1_1_app.html#ae0636ca6516e330dc00db941e083554f" title="RoR::App::CreateInputEngine" alt="" coords="241,1989,437,2016"/>
+<area shape="rect" id="node38" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="515,2069,693,2096"/>
+<area shape="rect" id="node39" href="$class_input_engine.html#afc5ef2151ca9c7a7af89c18dbbcdc65d" title="InputEngine::setupDefault" alt="" coords="252,1573,425,1600"/>
+<area shape="rect" id="node40" href="$class_ro_r_1_1_content_manager.html#ab1406d98df5c86cfe58921f55b478c38" title="RoR::ContentManager\l::InitManagedMaterials" alt="" coords="261,2157,416,2198"/>
+<area shape="rect" id="node41" href="$class_ro_r_1_1_content_manager.html#a861b35694f428e463a800052ac0e9f90" title="RoR::ContentManager\l::RegenCache" alt="" coords="262,209,415,250"/>
+<area shape="rect" id="node42" href="$class_cache_system.html#ae010322c2422bf8f8dbfce904257da31" title="CacheSystem::Startup" alt="" coords="527,160,681,187"/>
+<area shape="rect" id="node43" href="$namespace_ro_r_1_1_app.html#a4d178166eb0c3d99d88ff3b43c4283c7" title="RoR::App::GetIoFFbackEnabled" alt="" coords="233,2223,444,2249"/>
+<area shape="rect" id="node44" href="$class_ro_r_1_1_force_feedback.html#a9c205d6ba47708a3dde2657c8313c963" title="RoR::ForceFeedback\l::Setup" alt="" coords="265,2091,412,2133"/>
+<area shape="rect" id="node45" href="$namespace_ro_r_1_1_app.html#a859df9ef37b4e2602ea42987c0583a35" title="RoR::App::SetIoFFbackEnabled" alt="" coords="233,2273,444,2300"/>
+<area shape="rect" id="node46" href="$class_input_engine.html#aa85ec07499919e7de34d3de44c869875" title="InputEngine::windowResized" alt="" coords="243,2324,434,2351"/>
+<area shape="rect" id="node47" href="$namespace_ro_r_1_1_app.html#a12322365073d9e10639370e5f4eb3690" title="RoR::App::GetActiveAppState" alt="" coords="239,2375,439,2401"/>
+<area shape="rect" id="node48" href="$namespace_ro_r_1_1_app.html#ab34c46dd4e9e948efb5469cc1bf1b360" title="RoR::App::SetActiveAppState" alt="" coords="239,2425,438,2452"/>
+<area shape="rect" id="node49" href="$namespace_ro_r_1_1_app.html#ace3cf184630c4e8380fb9abdc2fd9c4e" title="RoR::App::GetDiagPreselected\lTerrain" alt="" coords="236,2477,441,2518"/>
+<area shape="rect" id="node50" href="$namespace_ro_r_1_1_app.html#aab1bb8a4a4fa09b4f6c05f1a2ed62627" title="RoR::App::GetPendingMpState" alt="" coords="236,2543,441,2569"/>
+</map>

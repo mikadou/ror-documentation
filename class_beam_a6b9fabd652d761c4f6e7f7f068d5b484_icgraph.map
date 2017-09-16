@@ -1,0 +1,5 @@
+<map id="Beam::calcAnimators" name="Beam::calcAnimators">
+<area shape="rect" id="node2" href="$class_beam.html#af9144e50803e6902e181048bcc791255" title="Beam::UpdatePropAnimations" alt="" coords="201,5,399,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="449,5,631,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="681,5,895,32"/>
+</map>

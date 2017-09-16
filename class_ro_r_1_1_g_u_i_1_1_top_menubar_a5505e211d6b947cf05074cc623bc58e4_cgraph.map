@@ -1,0 +1,4 @@
+<map id="RoR::GUI::TopMenubar::ReflectMultiplayerState" name="RoR::GUI::TopMenubar::ReflectMultiplayerState">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="221,5,416,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a4ee33e00f5d7deedd9fb0716e797a6b9" title="RoR::GUI::TopMenubar\l::triggerUpdateVehicleList" alt="" coords="233,57,405,98"/>
+</map>

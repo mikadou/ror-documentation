@@ -1,0 +1,21 @@
+<map id="RoR::GUI::OpenSaveFileDialog::OpenSaveFileDialog" name="RoR::GUI::OpenSaveFileDialog::OpenSaveFileDialog">
+<area shape="rect" id="node2" href="$classwraps_1_1_base_layout.html#a2dbd783151c111ebba363adf2cb53622" title="wraps::BaseLayout::\lassignWidget" alt="" coords="315,5,458,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#ad022fe2a00851cf65419bdd97cac4010" title="RoR::GUI::OpenSaveFileDialog\l::notifyListChangePosition" alt="" coords="283,70,491,111"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#ae04117018b6a0c82aee604912d9e7831" title="RoR::GUI::OpenSaveFileDialog\l::notifyListSelectAccept" alt="" coords="283,318,491,359"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a8c1b024be96a42a6be82b75bad012e1e" title="RoR::GUI::OpenSaveFileDialog\l::update" alt="" coords="816,434,1024,475"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#ade891e7428df4a7a4f99765b0c492361" title="RoR::GUI::OpenSaveFileDialog\l::notifyEditSelectAccept" alt="" coords="283,135,491,177"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a4ef8849803f1eb561068375f50c7919b" title="RoR::GUI::OpenSaveFileDialog\l::notifyUpButtonClick" alt="" coords="283,383,491,425"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a9267253699dd8441295323f62b23afb9" title="RoR::GUI::OpenSaveFileDialog\l::notifyDirectoryComboAccept" alt="" coords="283,449,491,490"/>
+<area shape="rect" id="node17" href="$namespace_ro_r_1_1_file_system.html#a3661a8bb720171f041d3470a4537f54f" title="RoR::FileSystem::getSystem\lCurrentFolder" alt="" coords="823,369,1017,410"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a037b18921b0deef4ca97e9f865c6540b" title="RoR::GUI::OpenSaveFileDialog\l::notifyDirectoryComboChangePosition" alt="" coords="262,514,511,555"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a8ff36b68147395ca8b37ad485471f79d" title="RoR::GUI::OpenSaveFileDialog\l::notifyMouseButtonClick" alt="" coords="283,201,491,242"/>
+<area shape="rect" id="node20" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a13f05cb5e94558f6e0a42470cf5d24bd" title="RoR::GUI::OpenSaveFileDialog\l::notifyWindowButtonPressed" alt="" coords="283,631,491,673"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#af224be69b772262517ad470e2c9977c8" title="RoR::GUI::OpenSaveFileDialog\l::upFolder" alt="" coords="560,419,768,461"/>
+<area shape="rect" id="node8" href="$namespace_ro_r_1_1_file_system.html#a78a496cdd3796294fcd6c3c452a23f10" title="RoR::FileSystem::concatenatePath" alt="" coords="1315,317,1544,344"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#acd8a186858a3b784b4ec6dc5f070b61a" title="RoR::GUI::OpenSaveFileDialog\l::accept" alt="" coords="560,201,768,242"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_file_system.html#ae33ccfefa159afb285835c8fa5498a8b" title="RoR::FileSystem::getSystem\lFileList" alt="" coords="1072,401,1267,442"/>
+<area shape="rect" id="node10" href="$namespace_ro_r_1_1_file_system.html#aefc2f14edd3f91d6c92ac4d9cfac865f" title="RoR::FileSystem::isReservedDir" alt="" coords="1322,408,1537,435"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_file_system.html#af8e0cce7d301d79f48f0367827a18ba2" title="RoR::FileSystem::isAbsolutePath" alt="" coords="1592,317,1811,344"/>
+<area shape="rect" id="node12" href="$namespace_ro_r_1_1_file_system.html#aba40b27eab251e32874f6fd4590e691d" title="RoR::FileSystem::isParentDir" alt="" coords="822,259,1018,285"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a9ea53706725c664f1977f406e7bad2d3" title="RoR::GUI::OpenSaveFileDialog\l::setCurrentFolder" alt="" coords="560,485,768,526"/>
+</map>

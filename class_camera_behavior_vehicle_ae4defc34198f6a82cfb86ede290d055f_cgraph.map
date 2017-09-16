@@ -1,0 +1,21 @@
+<map id="CameraBehaviorVehicle::update" name="CameraBehaviorVehicle::update">
+<area shape="rect" id="node2" href="$class_beam.html#a9bfc6d1ccf609d069ab142ec9b146719" title="Beam::getDirection" alt="" coords="263,13,398,40"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#ae9f45ba76d3204a02a689f4439c0c97e" title="RoR::App::GetGfxExternCamMode" alt="" coords="217,64,445,91"/>
+<area shape="rect" id="node4" href="$class_beam.html#a304819ff3ad7dafc09f7f64e0c908d2e" title="Beam::getMinimalCameraRadius" alt="" coords="223,115,438,141"/>
+<area shape="rect" id="node5" href="$class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="266,165,395,192"/>
+<area shape="rect" id="node6" href="$class_camera_behavior_orbit.html#ac2fbf5b905645faf54092ef1c081ef55" title="CameraBehaviorOrbit\l::update" alt="" coords="257,217,404,258"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="521,5,700,32"/>
+<area shape="rect" id="node8" href="$class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="519,56,703,83"/>
+<area shape="rect" id="node11" href="$class_camera_behavior_orbit.html#ac2c38d7776bb50ffb4a0d267c11acb2c" title="CameraBehaviorOrbit\l::reset" alt="" coords="537,107,684,149"/>
+<area shape="rect" id="node12" href="$namespace_ro_r_1_1_app.html#aa04ed1e7b697aa1f33f1bb1297cb3e48" title="RoR::App::GetConsole" alt="" coords="532,173,689,200"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_console.html#a6883dfc6a1d760581a917e101b6357c5" title="RoR::Console::putMessage" alt="" coords="519,224,703,251"/>
+<area shape="rect" id="node16" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="521,275,700,301"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_g_u_i_manager.html#a534a8e82d1b92384767ab1c555126bba" title="RoR::GUIManager::PushNotification" alt="" coords="493,325,728,352"/>
+<area shape="rect" id="node19" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="523,377,699,418"/>
+<area shape="rect" id="node20" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="522,443,699,469"/>
+<area shape="rect" id="node9" href="$class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="794,31,966,57"/>
+<area shape="rect" id="node10" href="$class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="802,81,958,108"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_manager.html#a982bc848eb4330aa9e57a54bfc60d975" title="RoR::GUIManager::GetConsole" alt="" coords="776,169,984,196"/>
+<area shape="rect" id="node15" href="$class_inter_thread_store_vector.html#a88d3f7e3e3ce109e13af1c46a12a50b0" title="InterThreadStoreVector\l\&lt; ConsoleMessage \&gt;::push" alt="" coords="789,221,971,262"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_g_u_i_1_1_sim_utils.html#ac18f8c423994b93276f5f33b22e53d41" title="RoR::GUI::SimUtils\l::PushNotification" alt="" coords="811,318,949,359"/>
+</map>

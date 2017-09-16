@@ -1,0 +1,7 @@
+<map id="OverlayWrapper::mouseMoved" name="OverlayWrapper::mouseMoved">
+<area shape="rect" id="node2" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="260,5,471,32"/>
+<area shape="rect" id="node3" href="$class_overlay_wrapper.html#aa0172aafc9f55e431f19a57a0f39da7b" title="OverlayWrapper::mousePressed" alt="" coords="260,56,471,83"/>
+<area shape="rect" id="node5" href="$class_overlay_wrapper.html#a813c49ce923d19067d0a656c0d79c610" title="OverlayWrapper::mouseReleased" alt="" coords="256,107,475,133"/>
+<area shape="rect" id="node4" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="526,56,746,83"/>
+<area shape="rect" id="node6" href="$class_g_u_i_input_manager.html#a5f096906671c8b2fc404353cb0cc3cf4" title="GUIInputManager::mouseReleased" alt="" coords="523,107,749,133"/>
+</map>

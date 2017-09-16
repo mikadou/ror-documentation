@@ -1,0 +1,8 @@
+<map id="RoR::SceneMouse::getMouseRay" name="RoR::SceneMouse::getMouseRay">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_scene_mouse.html#a4b6998ce12990478a6a2bf2e59b2eb1d" title="RoR::SceneMouse::mouseMoved" alt="" coords="283,5,501,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_scene_mouse.html#ac2615c541157fa61b08a7ca5bdd340f9" title="RoR::SceneMouse::update" alt="" coords="302,56,482,83"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_scene_mouse.html#aac902676aecccabc972d8a2c4835535b" title="RoR::SceneMouse::mousePressed" alt="" coords="278,107,506,133"/>
+<area shape="rect" id="node3" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="560,5,771,32"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="558,56,773,83"/>
+<area shape="rect" id="node7" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="555,107,775,133"/>
+</map>

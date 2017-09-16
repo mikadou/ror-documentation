@@ -1,0 +1,6 @@
+<map id="RoR::GUIManager::AdjustPauseMenuPosition" name="RoR::GUIManager::AdjustPauseMenuPosition">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ab0161218de3dc36879f3e69b84238eba" title="RoR::App::GetOgreSubsystem" alt="" coords="267,5,469,32"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="293,57,443,98"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_game_pause_menu.html#a935bd69cc5add1fcfe1c105e5b5b9d07" title="RoR::GUI::GamePauseMenu\l::SetPosition" alt="" coords="271,122,465,163"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_game_pause_menu.html#a4f9c57f4b339d8970055ee3bddb05019" title="RoR::GUI::GamePauseMenu\l::GetHeight" alt="" coords="271,187,465,229"/>
+</map>

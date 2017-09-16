@@ -1,0 +1,14 @@
+<map id="Collisions::Collisions" name="Collisions::Collisions">
+<area shape="rect" id="node2" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="207,5,383,46"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a2687b371c7fb85aae7da5715d015c6c4" title="RoR::App::GetDiagCollisions" alt="" coords="198,71,391,97"/>
+<area shape="rect" id="node4" href="$class_collisions.html#ab787df47353b8b839cf2187ab61ee514" title="Collisions::loadDefaultModels" alt="" coords="197,121,392,148"/>
+<area shape="rect" id="node13" href="$class_collisions.html#a7840c7d5b2b56b4cc8f41778c0edb7a7" title="Collisions::getGroundModel\lByString" alt="" coords="203,173,386,214"/>
+<area shape="rect" id="node5" href="$class_collisions.html#a3f2acd0249632458dd92a551210f83a1" title="Collisions::loadGroundModels\lConfigFile" alt="" coords="440,85,635,126"/>
+<area shape="rect" id="node12" href="$namespace_ro_r_1_1_app.html#a2c3bd075339dae711a99f41ae3916863" title="RoR::App::GetSysConfigDir" alt="" coords="444,151,631,177"/>
+<area shape="rect" id="node6" href="$struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="709,41,856,68"/>
+<area shape="rect" id="node8" href="$class_collisions.html#aaa893c509f9b9b77459d50e3bef2c6ff" title="Collisions::parseGroundConfig" alt="" coords="683,92,882,119"/>
+<area shape="rect" id="node11" href="$namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="737,143,829,169"/>
+<area shape="rect" id="node7" href="$struct_error_utils.html#a3250a36825c8b55b26d1565addb7e922" title="ErrorUtils::ShowMsgBox" alt="" coords="931,41,1098,68"/>
+<area shape="rect" id="node9" href="$scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="980,92,1049,119"/>
+<area shape="rect" id="node10" href="$_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="1147,92,1194,119"/>
+</map>

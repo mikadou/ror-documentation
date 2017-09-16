@@ -1,0 +1,15 @@
+<map id="Character::createMapEntity" name="Character::createMapEntity">
+<area shape="rect" id="node2" href="$class_survey_map_manager.html#a8d4bc71b43014156c7f1d620988ceb8f" title="SurveyMapManager::create\lNamedMapEntity" alt="" coords="245,5,427,46"/>
+<area shape="rect" id="node4" href="$class_survey_map_entity.html#a24cc0fef7d3f1f296e7e8ccf94413fa5" title="SurveyMapEntity::setState" alt="" coords="247,71,425,97"/>
+<area shape="rect" id="node12" href="$class_survey_map_entity.html#ad3cc1cb8f1e71f876290abb0eb004c05" title="SurveyMapEntity::setVisibility" alt="" coords="237,121,435,148"/>
+<area shape="rect" id="node13" href="$class_survey_map_entity.html#a781ecb998f41521324088cd3ce66d9ce" title="SurveyMapEntity::setPosition" alt="" coords="239,172,433,199"/>
+<area shape="rect" id="node14" href="$class_survey_map_entity.html#a23640d7a462102b43b62b44204a99a2d" title="SurveyMapEntity::setRotation" alt="" coords="237,223,435,249"/>
+<area shape="rect" id="node3" href="$class_survey_map_manager.html#a7af7a8d747001ee3749c4c0b97a32375" title="SurveyMapManager::create\lMapEntity" alt="" coords="489,5,671,46"/>
+<area shape="rect" id="node5" href="$class_survey_map_entity.html#ad83a9d2fd4ab8d3a3841f9e1b0eae729" title="SurveyMapEntity::updateIcon" alt="" coords="483,71,677,97"/>
+<area shape="rect" id="node6" href="$class_survey_map_entity.html#af393a262b4094ca586036e08943b6d72" title="SurveyMapEntity::update" alt="" coords="495,121,665,148"/>
+<area shape="rect" id="node7" href="$class_survey_map_manager.html#a959f28a84f3b54803983c734bcc849e1" title="SurveyMapManager::getMap\lEntitiesVisible" alt="" coords="749,30,939,71"/>
+<area shape="rect" id="node8" href="$class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="729,96,959,123"/>
+<area shape="rect" id="node10" href="$class_survey_map_manager.html#afdabdbdf87d39f253ecd17af1770a516" title="SurveyMapManager::getWindowSize" alt="" coords="725,147,963,173"/>
+<area shape="rect" id="node11" href="$class_survey_map_manager.html#aec8d2ee435b736ae628d3924a6d2b29d" title="SurveyMapManager::getMapSize" alt="" coords="737,197,951,224"/>
+<area shape="rect" id="node9" href="$class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="1011,89,1181,130"/>
+</map>

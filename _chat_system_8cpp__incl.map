@@ -1,0 +1,19 @@
+<map id="source/main/gameplay/ChatSystem.cpp" name="source/main/gameplay/ChatSystem.cpp">
+<area shape="rect" id="node2" href="$_chat_system_8h.html" title="ChatSystem.h" alt="" coords="769,96,876,123"/>
+<area shape="rect" id="node22" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="1177,96,1273,123"/>
+<area shape="rect" id="node25" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="1455,171,1561,197"/>
+<area shape="rect" id="node32" href="$_language_8h.html" title="Language.h" alt="" coords="987,171,1076,197"/>
+<area shape="rect" id="node35" href="$_utils_8h.html" title="Utils.h" alt="" coords="2042,96,2101,123"/>
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1172,320,1307,347"/>
+<area shape="rect" id="node21" href="$_network_8h.html" title="Network.h" alt="" coords="703,171,784,197"/>
+<area shape="rect" id="node15" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1659,469,1812,496"/>
+<area shape="rect" id="node16" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1719,395,1861,421"/>
+<area shape="rect" id="node17" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1887,395,2057,421"/>
+<area shape="rect" id="node18" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2082,395,2163,421"/>
+<area shape="rect" id="node23" href="$_settings_8h.html" title="Settings.h" alt="" coords="1146,171,1227,197"/>
+<area shape="rect" id="node24" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1090,245,1176,272"/>
+<area shape="rect" id="node26" href="$_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="1935,245,2069,272"/>
+<area shape="rect" id="node37" href="$checked_8h.html" title="utf8/checked.h" alt="" coords="2090,171,2197,197"/>
+<area shape="rect" id="node41" href="$unchecked_8h.html" title="utf8/unchecked.h" alt="" coords="2321,171,2444,197"/>
+<area shape="rect" id="node38" href="$core_8h.html" title="core.h" alt="" coords="2280,245,2337,272"/>
+</map>

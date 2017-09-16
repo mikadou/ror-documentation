@@ -1,0 +1,5 @@
+<map id="primitiveCollision" name="primitiveCollision">
+<area shape="rect" id="node2" href="$_approx_math_8h.html#aa827078e74a2a2b87a97a834d2359e88" title="approx_pow" alt="" coords="177,5,269,32"/>
+<area shape="rect" id="node3" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="177,56,269,83"/>
+<area shape="rect" id="node4" href="$_approx_math_8h.html#a9f32a288dbece202a4eaa1808aad5506" title="approx_exp" alt="" coords="178,107,267,133"/>
+</map>

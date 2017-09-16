@@ -1,0 +1,4 @@
+<map id="GameScript::loadTerrain" name="GameScript::loadTerrain">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#af4b16dd2fadb7771dae5f0d97f93eed8" title="RoR::App::SetSimNextTerrain" alt="" coords="217,5,415,32"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a14508a8885a04713a5a39d5628be83c9" title="RoR::App::SetVarStr" alt="" coords="465,5,610,32"/>
+</map>

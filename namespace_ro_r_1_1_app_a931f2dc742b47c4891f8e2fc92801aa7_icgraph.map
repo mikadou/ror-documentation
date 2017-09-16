@@ -1,0 +1,9 @@
+<map id="RoR::App::GetSysResourcesDir" name="RoR::App::GetSysResourcesDir">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_content_manager.html#a7cbddcf40c0f515169de4d4e6bb8fd11" title="RoR::ContentManager\l::AddResourcePack" alt="" coords="267,93,421,135"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_content_manager.html#ab1406d98df5c86cfe58921f55b478c38" title="RoR::ContentManager\l::InitManagedMaterials" alt="" coords="499,209,653,251"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="731,42,992,69"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1040,130,1091,157"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_content_manager.html#a3d65ff91e47f235abdea3dcc9db62876" title="RoR::ContentManager\l::init" alt="" coords="785,152,938,193"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_content_manager.html#a379ef5af7a59b96f83e1d15b50163026" title="RoR::ContentManager\l::CheckAndLoadBaseResources" alt="" coords="470,35,682,76"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1139,130,1213,157"/>
+</map>

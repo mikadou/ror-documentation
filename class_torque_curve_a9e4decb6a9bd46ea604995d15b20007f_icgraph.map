@@ -1,0 +1,6 @@
+<map id="TorqueCurve::setTorqueModel" name="TorqueCurve::setTorqueModel">
+<area shape="rect" id="node2" href="$class_torque_curve.html#a326a84416643c9745752cc99bacd5211" title="Constructor. " alt="" coords="729,5,909,32"/>
+<area shape="rect" id="node3" href="$class_torque_curve.html#a90167faf4bdf85e8cfb461c24bb00be0" title="TorqueCurve::processLine" alt="" coords="270,31,445,57"/>
+<area shape="rect" id="node5" href="$class_torque_curve.html#aee98faa6b93b58a0ba7b4a76a32e2700" title="TorqueCurve::CreateNewCurve" alt="" coords="254,81,461,108"/>
+<area shape="rect" id="node4" href="$class_torque_curve.html#a68e95142e6044ef86a4b0509fcecc1d3" title="TorqueCurve::loadDefault\lTorqueModels" alt="" coords="509,27,680,69"/>
+</map>

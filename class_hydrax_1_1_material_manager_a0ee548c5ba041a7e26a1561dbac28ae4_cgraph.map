@@ -1,0 +1,11 @@
+<map id="Hydrax::MaterialManager::addDepthTextureTechnique" name="Hydrax::MaterialManager::addDepthTextureTechnique">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_material_manager.html#a13c5473bfc7c341d64ea2cdd93c73396" title="Hydrax::MaterialManager\l::_createDepthTextureGPUPrograms" alt="" coords="245,63,483,105"/>
+<area shape="rect" id="node3" href="$class_hydrax_1_1_material_manager.html#ae7b2cfea68cac81f2a366f005410e0d9" title="Hydrax::MaterialManager\l::_isComponent" alt="" coords="531,5,699,46"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#a011da649ae072cce9c6db28620b67a42" title="Hydrax::Hydrax::getPosition" alt="" coords="271,129,457,156"/>
+<area shape="rect" id="node6" href="$class_hydrax_1_1_hydrax.html#a99b530dca1b0ba95e43d4deeec01d7d1" title="Hydrax::Hydrax::getPlanes\lError" alt="" coords="274,181,454,222"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#a03b8b82e6223f7e3ec47d845957ec5e3" title="Hydrax::Hydrax::getDepth\lLimit" alt="" coords="277,246,451,287"/>
+<area shape="rect" id="node8" href="$class_hydrax_1_1_hydrax.html#a11c8fdf94b2cd7e7a4d52caff5e83b29" title="Hydrax::Hydrax::getDistLimit" alt="" coords="268,312,460,339"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#a4e9359d0ee14a3f1aae1776b7144bfab" title="Hydrax::Hydrax::getCaustics\lScale" alt="" coords="268,363,460,405"/>
+<area shape="rect" id="node10" href="$class_hydrax_1_1_hydrax.html#a608b120b0ee226cf85b1c5a1720f65a6" title="Hydrax::Hydrax::getCausticsEnd" alt="" coords="257,429,471,456"/>
+<area shape="rect" id="node4" href="$class_hydrax_1_1_material_manager.html#ac0f7c351a7df142a04023c3409d6d871" title="Hydrax::MaterialManager\l::createGpuProgram" alt="" coords="531,70,699,111"/>
+</map>

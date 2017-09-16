@@ -1,0 +1,51 @@
+<map id="GUIInputManager::mouseMoved" name="GUIInputManager::mouseMoved">
+<area shape="rect" id="node2" href="$class_g_u_i_input_manager.html#af743c86f4405a5d1d500411986acc9a8" title="GUIInputManager::WakeUpGUI" alt="" coords="277,119,485,146"/>
+<area shape="rect" id="node3" href="$namespace_ro_r_1_1_app.html#a68d6403d2b36006a6fa2d28f5ba8f12f" title="RoR::App::GetGuiManager" alt="" coords="1089,61,1268,87"/>
+<area shape="rect" id="node7" href="$namespace_ro_r_1_1_app.html#a7d08f57d04e928e5acd0258383a53efc" title="RoR::App::GetActiveSimState" alt="" coords="1363,455,1563,482"/>
+<area shape="rect" id="node8" href="$class_g_u_i_input_manager.html#af367cbabbd2130a3cb260f93da0bb914" title="GUIInputManager::checkPosition" alt="" coords="274,229,489,255"/>
+<area shape="rect" id="node9" href="$namespace_ro_r_1_1_app.html#a21686de9300823b37db5f3f8fe992fb1" title="RoR::App::GetOverlayWrapper" alt="" coords="280,279,483,306"/>
+<area shape="rect" id="node10" href="$class_overlay_wrapper.html#a7059a60d3d3e067be79c66247298b56b" title="OverlayWrapper::mouseMoved" alt="" coords="280,599,483,626"/>
+<area shape="rect" id="node25" href="$namespace_ro_r_1_1_app.html#a9cf485c85535821ad3aaf98c65263abd" title="RoR::App::GetSceneMouse" alt="" coords="289,381,474,407"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_scene_mouse.html#a4b6998ce12990478a6a2bf2e59b2eb1d" title="RoR::SceneMouse::mouseMoved" alt="" coords="800,783,1019,810"/>
+<area shape="rect" id="node40" href="$class_ro_r_1_1_g_u_i_manager.html#a623f1eecb14989861b229419d4dc35b0" title="RoR::GUIManager::GetTopMenubar" alt="" coords="265,650,497,677"/>
+<area shape="rect" id="node41" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a85cdceff2c0f1196726097bc04953567" title="RoR::GUI::TopMenubar\l::updatePositionUponMousePosition" alt="" coords="265,853,498,895"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_manager.html#ae032ae0ac0445e1b4bd8db096ab4802c" title="RoR::GUIManager::SetVisible\l_TopMenubar" alt="" coords="550,112,749,153"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a7ee247dd78285318bb567fc49eb8a467" title="RoR::GUI::TopMenubar\l::SetVisible" alt="" coords="829,112,990,153"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_manager.html#aa9d9cf9d3a246eb3200f4a1c1e299b5b" title="RoR::GUIManager::UnfocusGui" alt="" coords="1075,119,1283,146"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#a0398db79a92d8178b77e3733abc9a238" title="RoRFrameListener::GetBeam\lFactory" alt="" coords="1081,907,1276,948"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="RoR::BeamFactory::getCurrent\lTruck" alt="" coords="547,533,751,575"/>
+<area shape="rect" id="node14" href="$class_aero_engine.html#a90099d51230d1a393a298eb13699b536" title="AeroEngine::setThrottle" alt="" coords="570,954,729,981"/>
+<area shape="rect" id="node15" href="$class_aero_engine.html#a2b3797238e5475e8f7d97c0fb69929ac" title="AeroEngine::flipStart" alt="" coords="578,330,721,357"/>
+<area shape="rect" id="node16" href="$class_autopilot.html#a00b1d2ca9518bc352c4062342da50a9b" title="Autopilot::toggleHeading" alt="" coords="567,381,731,407"/>
+<area shape="rect" id="node17" href="$class_autopilot.html#af1607003da33dd35dad90c347e13538b" title="Autopilot::toggleAlt" alt="" coords="583,431,715,458"/>
+<area shape="rect" id="node18" href="$class_autopilot.html#a3a42fb5df8a890d4ea80e804a88aaa7b" title="Autopilot::toggleIAS" alt="" coords="580,482,719,509"/>
+<area shape="rect" id="node19" href="$class_autopilot.html#a8703f1437b71495a93b9a601c4707e84" title="Autopilot::toggleGPWS" alt="" coords="571,599,728,626"/>
+<area shape="rect" id="node20" href="$class_beam.html#a6ed36647ce357654c04703737db3463f" title="diff lock on or off " alt="" coords="561,650,738,677"/>
+<area shape="rect" id="node21" href="$class_autopilot.html#ad9a9a33193dc7b16154902459030dfd5" title="Autopilot::adjHDG" alt="" coords="585,701,713,727"/>
+<area shape="rect" id="node22" href="$class_autopilot.html#a10647aa3ee6ebd76b41cfbd9511ab19c" title="Autopilot::adjALT" alt="" coords="588,751,711,778"/>
+<area shape="rect" id="node23" href="$class_autopilot.html#a5a59895f0bb1ffd1ac55d115d36b30b6" title="Autopilot::adjVS" alt="" coords="591,802,707,829"/>
+<area shape="rect" id="node24" href="$class_autopilot.html#a19c3d3062afa0f1c4739ac80957ef9cf" title="Autopilot::adjIAS" alt="" coords="589,853,709,879"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_beam_factory.html#aadb09a68dc35fad593189242429df218" title="RoR::BeamFactory::getTruck" alt="" coords="812,834,1007,861"/>
+<area shape="rect" id="node27" href="$class_camera_manager.html#a4cc2781595b0f926f1dbd338b988c35f" title="CameraManager::mouseMoved" alt="" coords="1077,674,1281,701"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_scene_mouse.html#ac09143f60df04b55807fbe8550404b00" title="RoR::SceneMouse::getMouseRay" alt="" coords="1067,725,1290,751"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_beam_factory.html#a4941682a48735d61f13f27b67a4c0b8e" title="RoR::BeamFactory::getTrucks" alt="" coords="1078,1074,1279,1101"/>
+<area shape="rect" id="node30" href="$class_ro_r_1_1_beam_factory.html#a869e76f2a6708166204319cf355b3398" title="RoR::BeamFactory::getTruck\lCount" alt="" coords="1081,987,1276,1028"/>
+<area shape="rect" id="node31" href="$class_beam.html#a8b8e30801a15fd87d0cb99e09900bdbb" title="Beam::hookToggle" alt="" coords="1113,842,1244,869"/>
+<area shape="rect" id="node38" href="$class_ro_r_1_1_scene_mouse.html#a7a0d8c6d6ebe7f330e27f7bab0eb18d9" title="RoR::SceneMouse::release\lMousePick" alt="" coords="1087,776,1270,817"/>
+<area shape="rect" id="node32" href="$namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="1412,842,1513,869"/>
+<area shape="rect" id="node33" href="$namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="1679,842,1756,869"/>
+<area shape="rect" id="node34" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="1848,842,2027,869"/>
+<area shape="rect" id="node35" href="$namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="2075,769,2234,811"/>
+<area shape="rect" id="node36" href="$namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="2095,835,2215,876"/>
+<area shape="rect" id="node37" href="$namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="2095,900,2215,941"/>
+<area shape="rect" id="node39" href="$class_beam.html#a465164195a8158babeaa9506f91d52de" title="Beam::mouseMove" alt="" coords="1395,783,1530,810"/>
+<area shape="rect" id="node42" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a70583f192ad3c430862d4e17afac2a2f" title="RoR::GUI::TopMenubar\l::vehiclesListUpdate" alt="" coords="569,1027,730,1068"/>
+<area shape="rect" id="node43" href="$namespace_ro_r_1_1_app.html#a61093e1171e9aa1d2824499b9a6b8e18" title="RoR::App::GetActiveMpState" alt="" coords="812,1045,1007,1071"/>
+<area shape="rect" id="node44" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#addbf2f7c7b987d76109c9ed95f966437" title="RoR::GUI::TopMenubar\l::addUserToMenu" alt="" coords="829,1147,990,1188"/>
+<area shape="rect" id="node45" href="$_utils_8h.html#a23744b3f0e07a907bc9993afbcf37c2d" title="convertToMyGUIString" alt="" coords="1101,1242,1257,1269"/>
+<area shape="rect" id="node47" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#afc569f76db932594057f0ad6c6884003" title="RoR::GUI::TopMenubar\l::getUserString" alt="" coords="1098,1125,1259,1167"/>
+<area shape="rect" id="node49" href="$_utils_8cpp.html#aebe76599ecdd7fc4db8b64cba0beb94e" title="ANSI_TO_UTF" alt="" coords="1407,1187,1519,1214"/>
+<area shape="rect" id="node46" href="$_utils_8h.html#abe6f6cf9ad4e672e6f4db9fe552b6bcf" title="ANSI_TO_WCHAR" alt="" coords="1393,1242,1532,1269"/>
+<area shape="rect" id="node48" href="$namespace_ro_r_1_1_chat_system.html#a86899695cb4028cfac8466b79f993141" title="RoR::ChatSystem::GetColouredName" alt="" coords="1339,1133,1586,1159"/>
+<area shape="rect" id="node50" href="$namespace_ro_r_1_1_utils.html#ac62ee4a4a513a67cba1bdc7d9eb9c7a4" title="RoR::Utils::SanitizeUtf8\lString" alt="" coords="1635,1180,1799,1221"/>
+</map>

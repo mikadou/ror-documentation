@@ -1,0 +1,35 @@
+<map id="DashBoard::setVisible" name="DashBoard::setVisible">
+<area shape="rect" id="node2" href="$class_dash_board_manager.html#ad39dfa3f5fa0f1af56687508b3c4c082" title="DashBoardManager::loadDash\lBoard" alt="" coords="207,179,407,221"/>
+<area shape="rect" id="node5" href="$class_dash_board_manager.html#a21ffd946b6843df16ca7b3ef704b596a" title="DashBoardManager::setVisible" alt="" coords="205,245,408,272"/>
+<area shape="rect" id="node34" href="$class_dash_board_manager.html#a714e4e5bbf29e1854c06af1993fecebc" title="DashBoardManager::setVisible3d" alt="" coords="457,372,673,399"/>
+<area shape="rect" id="node3" href="$class_beam.html#ab0cbc6c4e3822fc5786af2c8036f7efb" title="Beam::LoadTruck" alt="" coords="503,187,628,213"/>
+<area shape="rect" id="node4" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="785,5,884,32"/>
+<area shape="rect" id="node6" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="456,238,675,279"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a519eb1268f9cc62d177d723bdb8190e1" title="RoRFrameListener::HideGUI" alt="" coords="1002,61,1193,88"/>
+<area shape="rect" id="node10" href="$class_ro_r_frame_listener.html#ad309b37d305d55def42d92f17abed557" title="RoRFrameListener::Changed\lCurrentVehicle" alt="" coords="739,434,931,475"/>
+<area shape="rect" id="node29" href="$class_camera_behavior_vehicle_cine_cam.html#a21a3912237dcbc89df32a1e393204cc0" title="CameraBehaviorVehicleCine\lCam::activate" alt="" coords="740,107,929,149"/>
+<area shape="rect" id="node30" href="$class_camera_behavior_vehicle_cine_cam.html#a58aa453475d7ec367d28112855c7693b" title="CameraBehaviorVehicleCine\lCam::deactivate" alt="" coords="740,173,929,214"/>
+<area shape="rect" id="node31" href="$class_overlay_wrapper.html#a50d12376259c4be6b680c07d51edfd85" title="OverlayWrapper::~Overlay\lWrapper" alt="" coords="746,238,923,279"/>
+<area shape="rect" id="node32" href="$class_overlay_wrapper.html#a90c064bb6d1febfe6fcbb7a50217dc53" title="Hides all overlays, but doesn&#39;t change visibility flags (for further restoring). " alt="" coords="739,303,931,345"/>
+<area shape="rect" id="node33" href="$class_overlay_wrapper.html#a36ed374bd304a754820517592703dafd" title="Shows all overlays flagged as &quot;visible&quot;. " alt="" coords="723,369,946,410"/>
+<area shape="rect" id="node8" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="2018,285,2201,326"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="2282,292,2497,319"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_beam_factory.html#ac70a8aa131a6709ebf05dc3c0f6dab10" title="RoR::BeamFactory::setCurrent\lTruck" alt="" coords="995,417,1199,458"/>
+<area shape="rect" id="node12" href="$class_ro_r_frame_listener.html#abc123f9d1e56e13a72e5f80fdaa5a17e" title="RoRFrameListener::Finalize\lTruckSpawning" alt="" coords="1767,314,1953,355"/>
+<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#a74e44d8907e7f6ffddedd260f307a764" title="RoRFrameListener::Reload\lCurrentTruck" alt="" coords="1769,497,1951,538"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#ad1c44bd3c1247dcd8b876ff7728fac32" title="RoR::GUI::TopMenubar\l::onMenuBtn" alt="" coords="2029,522,2190,563"/>
+<area shape="rect" id="node16" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="2259,672,2520,699"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_beam_factory.html#a5dcf02227633d77e77f39fc43317dc6b" title="RoR::BeamFactory::Delete\lTruck" alt="" coords="1269,650,1451,691"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_beam_factory.html#abcdedea5c3b7dab93c09ff70d904e038" title="RoR::BeamFactory::enterNext\lTruck" alt="" coords="1760,379,1960,421"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_beam_factory.html#a4d3987d8687c75d3eeac5352c86160e0" title="RoR::BeamFactory::enterPrevious\lTruck" alt="" coords="1249,139,1471,181"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_beam_factory.html#a297cce523629edad68ff2c05bcaa44ac" title="RoR::BeamFactory::enterRescue\lTruck" alt="" coords="1251,205,1469,246"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="2309,522,2470,563"/>
+<area shape="rect" id="node17" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2568,672,2619,699"/>
+<area shape="rect" id="node18" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="2667,672,2741,699"/>
+<area shape="rect" id="node20" href="$class_ro_r_1_1_beam_factory.html#aa770c50decf07b87d7ac747b64b8e3e5" title="RoR::BeamFactory::Create\lLocalRigInstance" alt="" coords="1525,585,1707,626"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_beam_factory.html#a32e01669e8f438abae20a1a463dcb355" title="RoR::BeamFactory::Create\lRemoteInstance" alt="" coords="1525,650,1707,691"/>
+<area shape="rect" id="node24" href="$class_ro_r_1_1_beam_factory.html#aa61f694b6230afbdc91bc33ef6acd73f" title="RoR::BeamFactory::Remove\lStreamSource" alt="" coords="1520,715,1712,757"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_beam_factory.html#a49a4ee797005fff135d8f88a085986a0" title="RoR::BeamFactory::remove\lTruck" alt="" coords="1523,781,1709,822"/>
+<area shape="rect" id="node21" href="$class_terrain_object_manager.html#a202d577cb222f42c46e5b6600c9626a4" title="TerrainObjectManager\l::loadPreloadedTrucks" alt="" coords="1784,665,1936,706"/>
+<area shape="rect" id="node22" href="$class_terrain_manager.html#ac666fc0221c16001186b83cd6df66691" title="TerrainManager::loadPreloaded\lTrucks" alt="" coords="2008,665,2211,706"/>
+</map>

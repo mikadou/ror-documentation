@@ -1,0 +1,6 @@
+<map id="RoR::BeamFactory::BeamFactory" name="RoR::BeamFactory::BeamFactory">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#ae7018401cc4bd62af0c413526a4883dc" title="RoR::App::GetAppMultithread" alt="" coords="275,5,471,32"/>
+<area shape="rect" id="node3" href="$_beam_factory_8cpp.html#a3b04fb20012111681e37dfe63f105f6d" title="hardware_concurrency" alt="" coords="521,56,674,83"/>
+<area shape="rect" id="node4" href="$_beam_factory_8cpp.html#a072263e1083c7f8018a06c63db890601" title="getNumberOfCPUCores" alt="" coords="291,107,455,133"/>
+<area shape="rect" id="node5" href="$_beam_factory_8cpp.html#a3700a017b9f2de8daf5240234abd59d4" title="cpuID" alt="" coords="569,107,626,133"/>
+</map>

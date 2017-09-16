@@ -1,0 +1,16 @@
+<map id="RoR::App::GetActiveSimState" name="RoR::App::GetActiveSimState">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="277,57,459,98"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="541,93,755,120"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_scene_mouse.html#a7a0d8c6d6ebe7f330e27f7bab0eb18d9" title="RoR::SceneMouse::release\lMousePick" alt="" coords="277,277,459,318"/>
+<area shape="rect" id="node7" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="821,273,1032,300"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_scene_mouse.html#a3acc549dff8747f1a0af196526895dc0" title="RoR::SceneMouse::mouseReleased" alt="" coords="531,375,765,401"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_scene_mouse.html#ac2615c541157fa61b08a7ca5bdd340f9" title="RoR::SceneMouse::update" alt="" coords="278,173,458,200"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_scene_mouse.html#aac902676aecccabc972d8a2c4835535b" title="RoR::SceneMouse::mousePressed" alt="" coords="254,397,482,424"/>
+<area shape="rect" id="node13" href="$class_camera_manager.html#a6ce8336f17845b1e87899d14ed0a0b98" title="CameraManager::Update" alt="" coords="284,5,452,32"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_console.html#a39381023fb19b10edfad9592ce2e1554" title="RoR::Console::eventCommand\lAccept" alt="" coords="265,455,471,497"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_scene_mouse.html#a8577d57989d294eea1054d9c21abe567" title="RoR::SceneMouse::SceneMouse" alt="" coords="539,273,757,300"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_scene_mouse.html#a4b6998ce12990478a6a2bf2e59b2eb1d" title="RoR::SceneMouse::mouseMoved" alt="" coords="539,324,757,351"/>
+<area shape="rect" id="node9" href="$class_g_u_i_input_manager.html#a5f096906671c8b2fc404353cb0cc3cf4" title="GUIInputManager::mouseReleased" alt="" coords="813,375,1040,401"/>
+<area shape="rect" id="node12" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="538,425,758,452"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_console.html#aba16cfd9f0894eb1312b1bc1155b6646" title="RoR::Console::Console" alt="" coords="567,476,729,503"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="registerOgreObjects" name="registerOgreObjects">
+<area shape="rect" id="node2" href="$_ogre_angelscript_8cpp.html#af1a099fe1bcc3cc7bc4b0504c90d973c" title="registerOgreRadian" alt="" coords="203,107,338,133"/>
+<area shape="rect" id="node7" href="$_ogre_angelscript_8cpp.html#a2ad7497ab11f0445b6499c84f8ac68c3" title="registerOgreDegree" alt="" coords="203,309,338,336"/>
+<area shape="rect" id="node12" href="$_ogre_angelscript_8cpp.html#adebc3ca774e00cd2fcce21c7d73d77be" title="registerOgreVector3" alt="" coords="201,487,340,513"/>
+<area shape="rect" id="node29" href="$_ogre_angelscript_8cpp.html#ab5e28d4115607b1699a8feb6d395a570" title="registerOgreQuaternion" alt="" coords="193,765,349,792"/>
+<area shape="rect" id="node3" href="$_ogre_angelscript_8cpp.html#a0cb0592703d0b0a0774fb2c6247297b8" title="RadianDefaultConstructor" alt="" coords="408,5,581,32"/>
+<area shape="rect" id="node4" href="$_ogre_angelscript_8cpp.html#a945a0362eca80e48bedc25b6317b3af7" title="RadianInitConstructor" alt="" coords="420,56,569,83"/>
+<area shape="rect" id="node5" href="$_ogre_angelscript_8cpp.html#ad157a50eed26ad25dde5c7fc44f35de5" title="RadianCopyConstructor" alt="" coords="413,107,576,133"/>
+<area shape="rect" id="node6" href="$_ogre_angelscript_8cpp.html#afc563b4d7961a852539b8513e4007c43" title="RadianCmp" alt="" coords="449,157,540,184"/>
+<area shape="rect" id="node8" href="$_ogre_angelscript_8cpp.html#aeeac2add64e3fd04cbf21315ad121884" title="DegreeDefaultConstructor" alt="" coords="407,208,582,235"/>
+<area shape="rect" id="node9" href="$_ogre_angelscript_8cpp.html#a61665b66588f8bb0843833d2740b45c6" title="DegreeInitConstructor" alt="" coords="419,259,570,285"/>
+<area shape="rect" id="node10" href="$_ogre_angelscript_8cpp.html#ad05898d814fca7de22250cb403d82454" title="DegreeCopyConstructor" alt="" coords="413,309,576,336"/>
+<area shape="rect" id="node11" href="$_ogre_angelscript_8cpp.html#a68eb96d0bd975774ac5f40403872d70a" title="DegreeCmp" alt="" coords="449,360,541,387"/>
+<area shape="rect" id="node13" href="$_ogre_angelscript_8cpp.html#acb6ac437f67288e7e5308879f7f2af6c" title="Vector3DefaultConstructor" alt="" coords="406,411,583,437"/>
+<area shape="rect" id="node14" href="$_ogre_angelscript_8cpp.html#abcf713fb767684dd9d2b4ab3aecb0e1f" title="Vector3InitConstructor" alt="" coords="418,461,571,488"/>
+<area shape="rect" id="node15" href="$_ogre_angelscript_8cpp.html#a15fb9bc475a4f58e13209466f57e2621" title="Vector3CopyConstructor" alt="" coords="411,512,578,539"/>
+<area shape="rect" id="node16" href="$_ogre_angelscript_8cpp.html#ae46eddf20559693768459a088f0dae83" title="Vector3InitConstructorScaler" alt="" coords="399,563,590,589"/>
+<area shape="rect" id="node17" href="$namespaceutf8.html#a75394fbfe91b1122e2602a6d73c5f612" title="utf8::distance" alt="" coords="444,613,545,640"/>
+<area shape="rect" id="node18" href="$namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="640,613,717,640"/>
+<area shape="rect" id="node19" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="765,613,944,640"/>
+<area shape="rect" id="node20" href="$namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="993,410,1151,451"/>
+<area shape="rect" id="node22" href="$namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="1012,475,1132,517"/>
+<area shape="rect" id="node23" href="$namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="1012,541,1132,582"/>
+<area shape="rect" id="node24" href="$namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="1012,606,1132,647"/>
+<area shape="rect" id="node25" href="$namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="1012,671,1132,713"/>
+<area shape="rect" id="node26" href="$namespaceutf8_1_1internal.html#a97b553137aaeda6e8ca6f8d46f78fd79" title="utf8::internal::is\l_code_point_valid" alt="" coords="1009,737,1135,778"/>
+<area shape="rect" id="node28" href="$namespaceutf8_1_1internal.html#a3160f6f24dff465f64f83cb0e66995c6" title="utf8::internal::is\l_overlong_sequence" alt="" coords="1001,802,1143,843"/>
+<area shape="rect" id="node21" href="$namespaceutf8_1_1internal.html#adf6e0469e279b9562aa461b4c3c1e7e4" title="utf8::internal::mask8" alt="" coords="1200,548,1341,575"/>
+<area shape="rect" id="node27" href="$namespaceutf8_1_1internal.html#a31a185a6bc8b9bf454191a8a95a93595" title="utf8::internal::is\l_surrogate" alt="" coords="1215,737,1327,778"/>
+<area shape="rect" id="node30" href="$_ogre_angelscript_8cpp.html#ab82e030ab1aaecb57569b24755cd3460" title="QuaternionDefaultConstructor" alt="" coords="397,664,592,691"/>
+<area shape="rect" id="node31" href="$_ogre_angelscript_8cpp.html#a5994fffcc27c23e9f1c93e51b8fdbba3" title="QuaternionInitConstructor1" alt="" coords="405,715,584,741"/>
+<area shape="rect" id="node32" href="$_ogre_angelscript_8cpp.html#aaa3e671857e43117aa2de3f5ad9ccc9f" title="QuaternionInitConstructor2" alt="" coords="405,765,584,792"/>
+<area shape="rect" id="node33" href="$_ogre_angelscript_8cpp.html#ade8bc7dfb15a4e42d9dbe5ff5a858e29" title="QuaternionInitConstructor3" alt="" coords="405,816,584,843"/>
+<area shape="rect" id="node34" href="$_ogre_angelscript_8cpp.html#a6722e9762d240c2096b5780a64bca128" title="QuaternionInitConstructor\lScaler" alt="" coords="409,867,580,909"/>
+<area shape="rect" id="node35" href="$_ogre_angelscript_8cpp.html#a3e7bee4e6079ab66aa0d0c6d1c638f94" title="QuaternionCopyConstructor" alt="" coords="403,933,587,960"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RoR::GUI::VehicleDescription::SetVisible" name="RoR::GUI::VehicleDescription::SetVisible">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#ad46c5b182f16d522a6a84c4da2464299" title="RoR::GUIManager::SetVisible\l_VehicleDescription" alt="" coords="254,5,453,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_manager.html#ab4ed29f54999b3bf85033f937b3736b9" title="RoR::GUIManager::Reflect\lGameState" alt="" coords="263,70,444,111"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="501,77,552,104"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="601,77,674,104"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SlideNode::getClosestRail" name="SlideNode::getClosestRail">
+<area shape="rect" id="node2" href="$class_slide_node.html#a5e9c99e329a64b1233bd26cd2506c4ba" title="SlideNode::UpdatePosition" alt="" coords="229,56,408,83"/>
+<area shape="rect" id="node3" href="$class_slide_node.html#a3b6be868fa3b7becc403a3169d864a19" title="SlideNode::ResetPositions" alt="" coords="456,56,635,83"/>
+<area shape="rect" id="node4" href="$class_slide_node.html#a62cf14fa6911369caf82d59fd5103baf" title="SlideNode::reset" alt="" coords="710,5,829,32"/>
+<area shape="rect" id="node5" href="$class_slide_node.html#a1e7f3cdbbe2d0ae1085caa1207882355" title="SlideNode::setDefaultRail" alt="" coords="683,56,856,83"/>
+<area shape="rect" id="node6" href="$class_slide_node.html#a48a9688174aeab0f3419520f674ee666" title="SlideNode::attachToRail" alt="" coords="687,107,851,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RigDef::SequentialImporter::GetNodeArrayOffset" name="RigDef::SequentialImporter::GetNodeArrayOffset">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_sequential_importer.html#ac2e3fa72a3d0f97a7cebe79456efd2ef" title="RigDef::SequentialImporter\l::ResolveNodeByIndex" alt="" coords="235,5,415,46"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_sequential_importer.html#a97bec71f6d710c1c6804d9b1e03977a5" title="RigDef::SequentialImporter\l::ResolveNode" alt="" coords="235,70,415,111"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_sequential_importer.html#a6029705326e0cfa1d42e06ff8a3937de" title="RigDef::SequentialImporter\l::ResolveFlexbodyForset" alt="" coords="465,5,645,46"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_sequential_importer.html#a3b5fe4ea5c9ab72bab2c88845cbe144a" title="RigDef::SequentialImporter\l::ResolveNodeRanges" alt="" coords="465,70,645,111"/>
+</map>

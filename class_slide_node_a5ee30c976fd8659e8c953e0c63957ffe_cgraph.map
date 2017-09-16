@@ -1,0 +1,7 @@
+<map id="SlideNode::getLenTo" name="SlideNode::getLenTo">
+<area shape="rect" id="node2" href="$_approx_math_8h.html#acef50edb11d98b88532e602f908bc66a" title="fast_length" alt="" coords="382,5,469,32"/>
+<area shape="rect" id="node5" href="$_slide_node_8h.html#a1374c7f675026994ece6f0dfef2009eb" title="nearestPointOnLine" alt="" coords="197,56,333,83"/>
+<area shape="rect" id="node3" href="$_approx_math_8h.html#a4593bca5b40d11d9d1fa73ad23d30025" title="fast_sqrt" alt="" coords="534,5,607,32"/>
+<area shape="rect" id="node4" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="673,31,765,57"/>
+<area shape="rect" id="node6" href="$_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="517,56,624,83"/>
+</map>

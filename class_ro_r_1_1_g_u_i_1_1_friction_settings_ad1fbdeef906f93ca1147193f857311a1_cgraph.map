@@ -1,0 +1,7 @@
+<map id="RoR::GUI::FrictionSettings::event_btn_MouseButtonClick" name="RoR::GUI::FrictionSettings::event_btn_MouseButtonClick">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a68f89f8c947082c37538b73bb2f1fa60" title="RoR::GUI::FrictionSettings\l::showHelp" alt="" coords="257,5,437,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a52b83cc66a654dfc82333dc546f22a58" title="RoR::GUI::FrictionSettings\l::updateControls" alt="" coords="257,70,437,111"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a78e80b3ab77b49947ca7253dbe9ee448" title="RoR::GUI::FrictionSettings\l::applyChanges" alt="" coords="257,135,437,177"/>
+<area shape="rect" id="node3" href="$_utils_8h.html#a23744b3f0e07a907bc9993afbcf37c2d" title="convertToMyGUIString" alt="" coords="486,12,642,39"/>
+<area shape="rect" id="node4" href="$_utils_8h.html#abe6f6cf9ad4e672e6f4db9fe552b6bcf" title="ANSI_TO_WCHAR" alt="" coords="691,12,829,39"/>
+</map>

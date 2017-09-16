@@ -1,0 +1,14 @@
+<map id="RoR::App::GetGfxSkyMode" name="RoR::App::GetGfxSkyMode">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="241,5,423,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1224,180,1485,207"/>
+<area shape="rect" id="node7" href="$class_terrain_manager.html#a13e84f666b59e55f3c67ee345bda5873" title="TerrainManager::initSubSystems" alt="" coords="474,180,686,207"/>
+<area shape="rect" id="node10" href="$class_terrain_manager.html#ae9f5225285a5636f72bbe201d05961b9" title="TerrainManager::initSkySub\lSystem" alt="" coords="241,173,423,214"/>
+<area shape="rect" id="node11" href="$class_terrain_manager.html#ab6b319eaeebe6580116b98fcd33ab2a3" title="TerrainManager::initLight" alt="" coords="249,239,415,265"/>
+<area shape="rect" id="node12" href="$_settings_8cpp.html#a9aa1383ba7ef361fd4bac9e380376ad2" title="App__GfxSkyToStr" alt="" coords="513,281,647,308"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="473,12,687,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1533,213,1584,240"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1633,213,1706,240"/>
+<area shape="rect" id="node8" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="736,180,920,207"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="968,180,1176,207"/>
+<area shape="rect" id="node13" href="$class_settings.html#a19d1e2e2df8600f7e2cd1c64363fe60f" title="Settings::SaveSettings" alt="" coords="750,275,906,301"/>
+</map>

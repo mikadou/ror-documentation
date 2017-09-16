@@ -1,0 +1,9 @@
+<map id="Triangle::normal" name="Triangle::normal">
+<area shape="rect" id="node2" href="$class_cartesian_to_triangle_transform.html#a014b1decec8b4a81272365c7d1a5af2f" title="Initialize the transformation matrix. " alt="" coords="169,5,367,46"/>
+<area shape="rect" id="node4" href="$_dynamic_collisions_8h.html#a2e06e402bcfbf043fcf34f1105bcd5a4" title="interTruckCollisions" alt="" coords="199,71,337,97"/>
+<area shape="rect" id="node8" href="$_dynamic_collisions_8h.html#a99a047f3ac95e36f940d6665816e6087" title="intraTruckCollisions" alt="" coords="199,121,337,148"/>
+<area shape="rect" id="node3" href="$class_cartesian_to_triangle_transform.html#afeb284fed6c3b2efdf38a62973296360" title="Transform point into local triangle coordinates. " alt="" coords="417,5,615,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_beam_factory.html#ac25b17e65074996433c472da5028fed1" title="RoR::BeamFactory::Update\lPhysicsSimulation" alt="" coords="423,91,609,133"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="665,99,847,125"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="897,99,1111,125"/>
+</map>

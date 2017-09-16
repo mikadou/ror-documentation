@@ -1,0 +1,7 @@
+<map id="BeamEngine::getIdleMixture" name="BeamEngine::getIdleMixture">
+<area shape="rect" id="node2" href="$class_beam_engine.html#ab44a19bd64049dcd338fcf6994e27f1d" title="BeamEngine::getAccToHoldRPM" alt="" coords="241,31,458,57"/>
+<area shape="rect" id="node3" href="$class_beam_engine.html#a8dd9a69eaf18df6ed1cc51491719e2d2" title="BeamEngine::getEnginePower" alt="" coords="507,31,706,57"/>
+<area shape="rect" id="node4" href="$class_torque_curve.html#ac086875124a09f29072f016ae3c99642" title="TorqueCurve::getEngineTorque" alt="" coords="755,5,957,32"/>
+<area shape="rect" id="node5" href="$class_beam_engine.html#afa110a2bacf71a91bb89775c3f3a1605" title="BeamEngine::getTurboPower" alt="" coords="760,56,952,83"/>
+<area shape="rect" id="node6" href="$class_beam_engine.html#a97f9e8ae65b27a623c9aefaba01b5a3b" title="BeamEngine::getTurboPSI" alt="" coords="1006,56,1183,83"/>
+</map>

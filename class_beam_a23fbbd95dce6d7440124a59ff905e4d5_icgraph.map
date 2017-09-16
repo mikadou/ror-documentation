@@ -1,0 +1,6 @@
+<map id="Beam::changedCamera" name="Beam::changedCamera">
+<area shape="rect" id="node2" href="$class_camera_behavior_vehicle_cine_cam.html#a21a3912237dcbc89df32a1e393204cc0" title="CameraBehaviorVehicleCine\lCam::activate" alt="" coords="213,5,403,46"/>
+<area shape="rect" id="node3" href="$class_camera_behavior_vehicle_cine_cam.html#a58aa453475d7ec367d28112855c7693b" title="CameraBehaviorVehicleCine\lCam::deactivate" alt="" coords="213,70,403,111"/>
+<area shape="rect" id="node4" href="$class_camera_behavior_vehicle_cine_cam.html#a4fdcc1a78247942c0054953c443e4777" title="CameraBehaviorVehicleCine\lCam::switchBehavior" alt="" coords="213,135,403,177"/>
+<area shape="rect" id="node5" href="$class_beam.html#a0d55b25fa0d1623305f3ac51694cbd42" title="Beam::Beam" alt="" coords="259,201,357,228"/>
+</map>

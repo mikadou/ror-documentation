@@ -1,0 +1,4 @@
+<map id="RoR::ForceFeedback::Setup" name="RoR::ForceFeedback::Setup">
+<area shape="rect" id="node2" href="$namespace_ro_r_1_1_app.html#a21fb1ba18d55ba3c4b0dfd2f36df7891" title="RoR::App::GetInputEngine" alt="" coords="215,5,393,32"/>
+<area shape="rect" id="node3" href="$class_input_engine.html#aed2314bed0c69f2d4db14f008741bc89" title="InputEngine::getForceFeedback\lDevice" alt="" coords="201,57,407,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="RoR::GUI::TeleportWindow::ShowAltmodeCursor" name="RoR::GUI::TeleportWindow::ShowAltmodeCursor">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#ac12c3b21c2d449c71b26173369aa3a38" title="RoR::GUI::TeleportWindow\l::MinimapGotFocus" alt="" coords="238,5,421,46"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#af5ee78f38d36e527dcf15acba2c1645d" title="RoR::GUI::TeleportWindow\l::MinimapLostFocus" alt="" coords="238,70,421,111"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a243abfa71535acbec366933a9c08c33b" title="RoR::GUI::TeleportWindow\l::EnableAltMode" alt="" coords="238,135,421,177"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a09839bd0d122825f6ae2fbd75cd8bfcb" title="RoR::GUI::TeleportWindow\l::TeleportWindow" alt="" coords="473,38,655,79"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a0068aab5f9d3800bb3e082509403e326" title="RoR::GUI::TeleportWindow\l::TeleportWindowFrameStep" alt="" coords="470,135,658,177"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="707,143,922,169"/>
+</map>

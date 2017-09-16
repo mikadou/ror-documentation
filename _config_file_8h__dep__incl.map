@@ -1,0 +1,20 @@
+<map id="source/main/utils/ConfigFile.h" name="source/main/utils/ConfigFile.h">
+<area shape="rect" id="node2" href="$_g_u_i___game_settings_8h.html" title="source/main/gui/panels\l/GUI_GameSettings.h" alt="" coords="361,97,516,138"/>
+<area shape="rect" id="node9" href="$_terrn2_fileformat_8cpp.html" title="source/main/resources\l/terrn2_fileformat/Terrn2Fileformat.cpp" alt="" coords="926,97,1169,138"/>
+<area shape="rect" id="node10" href="$_terrain_geometry_manager_8h.html" title="source/main/terrain\l/TerrainGeometryManager.h" alt="" coords="1195,97,1379,138"/>
+<area shape="rect" id="node14" href="$_config_file_8cpp.html" title="source/main/utils/Config\lFile.cpp" alt="" coords="1403,97,1565,138"/>
+<area shape="rect" id="node15" href="$_improved_config_file_8h.html" title="source/main/utils/Improved\lConfigFile.h" alt="" coords="723,97,901,138"/>
+<area shape="rect" id="node3" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="206,285,423,312"/>
+<area shape="rect" id="node4" href="$_g_u_i___game_main_menu_8h.html" title="source/main/gui/panels\l/GUI_GameMainMenu.h" alt="" coords="115,187,277,229"/>
+<area shape="rect" id="node6" href="$_g_u_i___game_pause_menu_8h.html" title="source/main/gui/panels\l/GUI_GamePauseMenu.h" alt="" coords="353,187,524,229"/>
+<area shape="rect" id="node8" href="$_g_u_i___game_settings_8cpp.html" title="source/main/gui/panels\l/GUI_GameSettings.cpp" alt="" coords="549,187,713,229"/>
+<area shape="rect" id="node5" href="$_g_u_i___game_main_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GameMainMenu.cpp" alt="" coords="5,278,181,319"/>
+<area shape="rect" id="node7" href="$_g_u_i___game_pause_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GamePauseMenu.cpp" alt="" coords="448,278,635,319"/>
+<area shape="rect" id="node11" href="$_terrain_geometry_manager_8cpp.html" title="source/main/terrain\l/TerrainGeometryManager.cpp" alt="" coords="1087,187,1285,229"/>
+<area shape="rect" id="node12" href="$_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="1309,187,1449,229"/>
+<area shape="rect" id="node13" href="$_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="1475,187,1653,229"/>
+<area shape="rect" id="node16" href="$_cache_system_8cpp.html" title="source/main/resources\l/CacheSystem.cpp" alt="" coords="909,187,1063,229"/>
+<area shape="rect" id="node17" href="$_local_storage_8h.html" title="source/main/scripting\l/LocalStorage.h" alt="" coords="739,187,885,229"/>
+<area shape="rect" id="node18" href="$_local_storage_8cpp.html" title="source/main/scripting\l/LocalStorage.cpp" alt="" coords="869,278,1016,319"/>
+<area shape="rect" id="node19" href="$_script_engine_8cpp.html" title="source/main/scripting\l/ScriptEngine.cpp" alt="" coords="699,278,845,319"/>
+</map>

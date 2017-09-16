@@ -1,0 +1,23 @@
+<map id="RoR::GUI::LoadingWindow::setProgress" name="RoR::GUI::LoadingWindow::setProgress">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="979,134,1187,160"/>
+<area shape="rect" id="node6" href="$class_ro_r_frame_listener.html#a1610b21686ae680582623cde69b85f2b" title="RoRFrameListener::Cleanup\lAfterSimulation" alt="" coords="742,17,930,58"/>
+<area shape="rect" id="node8" href="$class_cache_system.html#a4439130b97404a54bca3ca9768586c48" title="CacheSystem::incremental\lCacheUpdate" alt="" coords="746,389,926,430"/>
+<area shape="rect" id="node12" href="$class_cache_system.html#ac6465dadeeecad40df66f76583fae492" title="CacheSystem::loadAllZips\lInResourceGroup" alt="" coords="254,330,431,372"/>
+<area shape="rect" id="node14" href="$class_cache_system.html#afa2911e77ee5652f6b1739a8b1f334c4" title="CacheSystem::loadAllDirectories\lInResourceGroup" alt="" coords="235,265,450,306"/>
+<area shape="rect" id="node15" href="$class_cache_system.html#a89beaf10bee2aa07b474fcc4b9c7782a" title="CacheSystem::checkForNew\lZipsInResourceGroup" alt="" coords="245,513,440,554"/>
+<area shape="rect" id="node17" href="$class_cache_system.html#ab2251b8c119efb98588c8c85f882aa3f" title="CacheSystem::checkForNew\lDirectoriesInResourceGroup" alt="" coords="245,448,440,489"/>
+<area shape="rect" id="node18" href="$class_terrain_geometry_manager.html#a3433648af8303236ea2d3435ab2b279b" title="TerrainGeometryManager\l::initTerrain" alt="" coords="258,200,427,241"/>
+<area shape="rect" id="node21" href="$class_terrain_object_manager.html#a45ccbf51f9c0ecac68927fed5e52eaa4" title="TerrainObjectManager\l::loadObjectConfigFile" alt="" coords="267,134,418,176"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1541,134,1803,160"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1851,159,1901,186"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1950,159,2023,186"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="1235,67,1493,94"/>
+<area shape="rect" id="node9" href="$class_cache_system.html#a37e784da57c57f56a428f61a53b4d618" title="CacheSystem::generateCache" alt="" coords="982,304,1183,331"/>
+<area shape="rect" id="node10" href="$class_cache_system.html#ae010322c2422bf8f8dbfce904257da31" title="CacheSystem::Startup" alt="" coords="1287,243,1441,270"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_content_manager.html#a861b35694f428e463a800052ac0e9f90" title="RoR::ContentManager\l::RegenCache" alt="" coords="1595,236,1749,277"/>
+<area shape="rect" id="node13" href="$class_cache_system.html#a2f2307345ec188913271a4cc5220c1bb" title="CacheSystem::loadAllZips" alt="" coords="507,304,685,331"/>
+<area shape="rect" id="node16" href="$class_cache_system.html#ac30fff8eecfc197fc4ccca8c6cf06109" title="CacheSystem::checkForNew\lContent" alt="" coords="499,448,693,489"/>
+<area shape="rect" id="node19" href="$class_terrain_geometry_manager.html#ac4467adecede14a9bf83a4bf871201d8" title="TerrainGeometryManager\l::loadOgreTerrainConfig" alt="" coords="511,200,681,241"/>
+<area shape="rect" id="node20" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="744,142,928,168"/>
+<area shape="rect" id="node22" href="$class_terrain_manager.html#a4ad87b973cb6af52daaf530a5feff167" title="TerrainManager::loadTerrain\lObjects" alt="" coords="504,134,688,176"/>
+</map>

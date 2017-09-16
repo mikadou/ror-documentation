@@ -1,0 +1,32 @@
+<map id="source/main/physics/collision/Collisions.cpp" name="source/main/physics/collision/Collisions.cpp">
+<area shape="rect" id="node2" href="$_collisions_8h.html" title="Collisions.h" alt="" coords="403,245,493,272"/>
+<area shape="rect" id="node23" href="$_approx_math_8h.html" title="ApproxMath.h" alt="" coords="989,469,1091,496"/>
+<area shape="rect" id="node27" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="1583,171,1680,197"/>
+<area shape="rect" id="node28" href="$_settings_8h.html" title="Settings.h" alt="" coords="1533,245,1613,272"/>
+<area shape="rect" id="node30" href="$_beam_factory_8h.html" title="BeamFactory.h" alt="" coords="1041,171,1151,197"/>
+<area shape="rect" id="node34" href="$_error_utils_8h.html" title="ErrorUtils.h" alt="" coords="1993,395,2081,421"/>
+<area shape="rect" id="node35" href="$_i_height_finder_8h.html" title="IHeightFinder.h" alt="" coords="2058,469,2168,496"/>
+<area shape="rect" id="node36" href="$_landusemap_8h.html" title="Landusemap.h" alt="" coords="713,395,820,421"/>
+<area shape="rect" id="node37" href="$_language_8h.html" title="Language.h" alt="" coords="1759,245,1848,272"/>
+<area shape="rect" id="node40" href="$_movable_text_8h.html" title="MovableText.h" alt="" coords="1849,96,1956,123"/>
+<area shape="rect" id="node43" href="$_ro_r_frame_listener_8h.html" title="RoRFrameListener.h" alt="" coords="1325,96,1467,123"/>
+<area shape="rect" id="node47" href="$_scripting_8h.html" title="Scripting.h" alt="" coords="2162,96,2245,123"/>
+<area shape="rect" id="node49" href="$_terrain_manager_8h.html" title="TerrainManager.h" alt="" coords="2224,469,2347,496"/>
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1320,544,1455,571"/>
+<area shape="rect" id="node20" href="$_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="931,320,1025,347"/>
+<area shape="rect" id="node15" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="842,693,995,720"/>
+<area shape="rect" id="node16" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2270,619,2412,645"/>
+<area shape="rect" id="node17" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="956,619,1127,645"/>
+<area shape="rect" id="node18" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="799,619,880,645"/>
+<area shape="rect" id="node21" href="$_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="845,395,923,421"/>
+<area shape="rect" id="node22" href="$_slide_node_8h.html" title="SlideNode.h" alt="" coords="948,395,1041,421"/>
+<area shape="rect" id="node29" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1319,320,1405,347"/>
+<area shape="rect" id="node31" href="$_beam_8h.html" title="Beam.h" alt="" coords="945,245,1012,272"/>
+<area shape="rect" id="node32" href="$_dust_manager_8h.html" title="DustManager.h" alt="" coords="1138,245,1248,272"/>
+<area shape="rect" id="node33" href="$_network_8h.html" title="Network.h" alt="" coords="1324,245,1405,272"/>
+<area shape="rect" id="node44" href="$_character_factory_8h.html" title="CharacterFactory.h" alt="" coords="1175,171,1309,197"/>
+<area shape="rect" id="node45" href="$_environment_map_8h.html" title="EnvironmentMap.h" alt="" coords="612,544,741,571"/>
+<area shape="rect" id="node46" href="$_force_feedback_8h.html" title="ForceFeedback.h" alt="" coords="1335,171,1457,197"/>
+<area shape="rect" id="node48" href="$_script_events_8h.html" title="ScriptEvents.h" alt="" coords="2157,171,2264,197"/>
+<area shape="rect" id="node50" href="$_terrn2_fileformat_8h.html" title="Terrn2Fileformat.h" alt="" coords="2221,544,2349,571"/>
+</map>

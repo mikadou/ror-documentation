@@ -1,0 +1,10 @@
+<map id="TorqueCurve::getEngineTorque" name="TorqueCurve::getEngineTorque">
+<area shape="rect" id="node2" href="$class_beam_engine.html#a8dd9a69eaf18df6ed1cc51491719e2d2" title="BeamEngine::getEnginePower" alt="" coords="257,5,455,32"/>
+<area shape="rect" id="node3" href="$class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="1031,5,1174,32"/>
+<area shape="rect" id="node6" href="$class_beam_engine.html#ab44a19bd64049dcd338fcf6994e27f1d" title="BeamEngine::getAccToHoldRPM" alt="" coords="505,31,722,57"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_beam_factory.html#a87e6c050f0af4ef2e39976749ac9762c" title="RoR::BeamFactory::update" alt="" coords="1246,5,1429,32"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1478,5,1693,32"/>
+<area shape="rect" id="node7" href="$class_beam_engine.html#abdc4379a7db428debfe14d05972d808e" title="BeamEngine::getIdleMixture" alt="" coords="772,31,959,57"/>
+<area shape="rect" id="node8" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a20e0e3bfb3deaa213ffb06d283ae81c8" title="RoR::LandVehicleSimulation\l::UpdateCruiseControl" alt="" coords="771,82,960,123"/>
+<area shape="rect" id="node9" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="1008,82,1197,123"/>
+</map>

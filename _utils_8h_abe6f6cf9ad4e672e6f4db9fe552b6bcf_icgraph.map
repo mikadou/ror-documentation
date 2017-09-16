@@ -1,0 +1,39 @@
+<map id="ANSI_TO_WCHAR" name="ANSI_TO_WCHAR">
+<area shape="rect" id="node2" href="$_utils_8h.html#a23744b3f0e07a907bc9993afbcf37c2d" title="convertToMyGUIString" alt="" coords="193,188,349,215"/>
+<area shape="rect" id="node3" href="$class_replay.html#abdd355de2fdec7c897870b358e32c946" title="Replay::updateGUI" alt="" coords="433,5,567,32"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#ad1fa0de31aedf7811ebf298ff92e07de" title="RoR::GUI::FrictionSettings\l::setActiveCol" alt="" coords="410,57,590,98"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a68f89f8c947082c37538b73bb2f1fa60" title="RoR::GUI::FrictionSettings\l::showHelp" alt="" coords="410,122,590,163"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_loading_window.html#acc087e971e8347f14011eaa787c8fc5e" title="RoR::GUI::LoadingWindow\l::setProgress" alt="" coords="409,422,591,463"/>
+<area shape="rect" id="node30" href="$class_ro_r_1_1_g_u_i_1_1_loading_window.html#afbe80d0309f58dcbcabd4c99de3cb6ff" title="RoR::GUI::LoadingWindow\l::setAutotrack" alt="" coords="1217,214,1399,255"/>
+<area shape="rect" id="node32" href="$class_ro_r_1_1_g_u_i_1_1_texture_tool_window.html#ae99f96751422895d21953af7e652040f" title="RoR::GUI::TextureToolWindow\l::updateControls" alt="" coords="397,487,603,529"/>
+<area shape="rect" id="node33" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#addbf2f7c7b987d76109c9ed95f966437" title="RoR::GUI::TopMenubar\l::addUserToMenu" alt="" coords="419,690,581,731"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#ad1fbdeef906f93ca1147193f857311a1" title="RoR::GUI::FrictionSettings\l::event_btn_MouseButtonClick" alt="" coords="658,122,859,163"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_friction_settings.html#a30be992e44b908881ce9e5ccbe691bf9" title="RoR::GUI::FrictionSettings\l::FrictionSettings" alt="" coords="942,122,1122,163"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="1475,348,1683,375"/>
+<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#a1610b21686ae680582623cde69b85f2b" title="RoRFrameListener::Cleanup\lAfterSimulation" alt="" coords="1485,718,1673,759"/>
+<area shape="rect" id="node15" href="$class_cache_system.html#a4439130b97404a54bca3ca9768586c48" title="CacheSystem::incremental\lCacheUpdate" alt="" coords="1218,586,1398,627"/>
+<area shape="rect" id="node19" href="$class_cache_system.html#ac6465dadeeecad40df66f76583fae492" title="CacheSystem::loadAllZips\lInResourceGroup" alt="" coords="670,422,847,463"/>
+<area shape="rect" id="node21" href="$class_cache_system.html#afa2911e77ee5652f6b1739a8b1f334c4" title="CacheSystem::loadAllDirectories\lInResourceGroup" alt="" coords="651,487,866,529"/>
+<area shape="rect" id="node22" href="$class_cache_system.html#a89beaf10bee2aa07b474fcc4b9c7782a" title="CacheSystem::checkForNew\lZipsInResourceGroup" alt="" coords="661,618,856,659"/>
+<area shape="rect" id="node24" href="$class_cache_system.html#ab2251b8c119efb98588c8c85f882aa3f" title="CacheSystem::checkForNew\lDirectoriesInResourceGroup" alt="" coords="661,553,856,594"/>
+<area shape="rect" id="node25" href="$class_terrain_geometry_manager.html#a3433648af8303236ea2d3435ab2b279b" title="TerrainGeometryManager\l::initTerrain" alt="" coords="674,239,843,281"/>
+<area shape="rect" id="node28" href="$class_terrain_object_manager.html#a45ccbf51f9c0ecac68927fed5e52eaa4" title="TerrainObjectManager\l::loadObjectConfigFile" alt="" coords="683,305,834,346"/>
+<area shape="rect" id="node10" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1739,348,2000,375"/>
+<area shape="rect" id="node11" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2355,544,2405,571"/>
+<area shape="rect" id="node12" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="2454,544,2527,571"/>
+<area shape="rect" id="node14" href="$class_ro_r_frame_listener.html#a9e239911ad148aa76c58202920090f76" title="RoRFrameListener::EnterGameplayLoop" alt="" coords="2048,641,2307,668"/>
+<area shape="rect" id="node16" href="$class_cache_system.html#a37e784da57c57f56a428f61a53b4d618" title="CacheSystem::generateCache" alt="" coords="1478,544,1679,571"/>
+<area shape="rect" id="node17" href="$class_cache_system.html#ae010322c2422bf8f8dbfce904257da31" title="CacheSystem::Startup" alt="" coords="1792,544,1947,571"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_content_manager.html#a861b35694f428e463a800052ac0e9f90" title="RoR::ContentManager\l::RegenCache" alt="" coords="2101,566,2254,607"/>
+<area shape="rect" id="node20" href="$class_cache_system.html#a2f2307345ec188913271a4cc5220c1bb" title="CacheSystem::loadAllZips" alt="" coords="943,495,1121,521"/>
+<area shape="rect" id="node23" href="$class_cache_system.html#ac30fff8eecfc197fc4ccca8c6cf06109" title="CacheSystem::checkForNew\lContent" alt="" coords="935,586,1129,627"/>
+<area shape="rect" id="node26" href="$class_terrain_geometry_manager.html#ac4467adecede14a9bf83a4bf871201d8" title="TerrainGeometryManager\l::loadOgreTerrainConfig" alt="" coords="947,239,1117,281"/>
+<area shape="rect" id="node27" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="1216,312,1400,339"/>
+<area shape="rect" id="node29" href="$class_terrain_manager.html#a4ad87b973cb6af52daaf530a5feff167" title="TerrainManager::loadTerrain\lObjects" alt="" coords="940,305,1124,346"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_main_menu.html#ab571dc971207c47c7bf6a0782c5d5eea" title="RoR::MainMenu::LeaveMultiplayer\lServer" alt="" coords="1467,237,1690,278"/>
+<area shape="rect" id="node34" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a70583f192ad3c430862d4e17afac2a2f" title="RoR::GUI::TopMenubar\l::vehiclesListUpdate" alt="" coords="678,797,839,838"/>
+<area shape="rect" id="node35" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a85cdceff2c0f1196726097bc04953567" title="RoR::GUI::TopMenubar\l::updatePositionUponMousePosition" alt="" coords="915,818,1149,859"/>
+<area shape="rect" id="node36" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="1203,785,1413,812"/>
+<area shape="rect" id="node37" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="1198,836,1418,863"/>
+<area shape="rect" id="node38" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="1227,887,1389,929"/>
+</map>

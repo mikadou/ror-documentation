@@ -1,0 +1,14 @@
+<map id="RoR::FlexFactory::SaveFlexbodiesToCache" name="RoR::FlexFactory::SaveFlexbodiesToCache">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_flex_body_file_i_o.html#a740a4ce57abf708b823cb5f3f196cc9a" title="RoR::FlexBodyFileIO\l::SaveFile" alt="" coords="280,266,427,307"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_flex_body_file_i_o.html#a0aef6c2ebcf56fe8c98d0dc9184b88dd" title="RoR::FlexBodyFileIO\l::OpenFile" alt="" coords="503,5,649,46"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_flex_body_file_i_o.html#a62fdad6745bd92d8bbef9ab2d92dffa5" title="RoR::FlexBodyFileIO\l::WriteSignature" alt="" coords="503,70,649,111"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_flex_body_file_i_o.html#ae6b4a0fdbf35ba2ddeaad753a214e6e4" title="RoR::FlexBodyFileIO\l::WriteMetadata" alt="" coords="503,135,649,177"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_flex_body_file_i_o.html#a478a250ca9d210f567429b8675aedc14" title="RoR::FlexBodyFileIO\l::WriteFlexbodyHeader" alt="" coords="498,201,654,242"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_flex_body_file_i_o.html#a53428a2ad22823ee92d1db5869e30129" title="RoR::FlexBodyFileIO\l::WriteFlexbodyLocatorList" alt="" coords="487,266,665,307"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_flex_body_file_i_o.html#aa6f408b01fa24e6cbda002e88ce46bcd" title="RoR::FlexBodyFileIO\l::WriteFlexbodyPositionsBuffer" alt="" coords="475,331,677,373"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_flex_body_file_i_o.html#a07b62047a96f0e90ac12703fa34c2562" title="RoR::FlexBodyFileIO\l::WriteFlexbodyNormalsBuffer" alt="" coords="477,397,675,438"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_flex_body_file_i_o.html#a71e5319b6ecddf77518f9bc45e36dc37" title="RoR::FlexBodyFileIO\l::WriteFlexbodyColorsBuffer" alt="" coords="483,462,669,503"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_flex_body_file_i_o.html#a035ffcc43e13e51e124730684a72a8a4" title="RoR::FlexBodyFileIO\l::CloseFile" alt="" coords="503,527,649,569"/>
+<area shape="rect" id="node4" href="$namespace_ro_r_1_1_app.html#af4bed02c5707facd24d4d30cb4d2c732" title="RoR::App::GetSysCacheDir" alt="" coords="725,12,912,39"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_flex_body_file_i_o.html#a420be871b6c8432ad39bdcb919b76b32" title="RoR::FlexBodyFileIO\l::WriteToFile" alt="" coords="745,266,892,307"/>
+</map>

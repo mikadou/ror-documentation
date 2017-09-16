@@ -1,0 +1,12 @@
+<map id="RoR::BeamFactory::getTrucks" name="RoR::BeamFactory::getTrucks">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="283,5,466,46"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="542,41,757,68"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#a57679664f6f2299add5b6ba7fcbb1b11" title="RoRFrameListener::ShowLoaderGUI" alt="" coords="257,121,493,148"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_scene_mouse.html#a4b6998ce12990478a6a2bf2e59b2eb1d" title="RoR::SceneMouse::mouseMoved" alt="" coords="813,172,1032,199"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#addbf2f7c7b987d76109c9ed95f966437" title="RoR::GUI::TopMenubar\l::addUserToMenu" alt="" coords="294,223,455,265"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a70583f192ad3c430862d4e17afac2a2f" title="RoR::GUI::TopMenubar\l::vehiclesListUpdate" alt="" coords="569,223,730,265"/>
+<area shape="rect" id="node6" href="$class_g_u_i_input_manager.html#a2f52a8c0b01fca8c55a954bdb7d2ab79" title="GUIInputManager::mouseMoved" alt="" coords="1093,173,1304,200"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#a85cdceff2c0f1196726097bc04953567" title="RoR::GUI::TopMenubar\l::updatePositionUponMousePosition" alt="" coords="806,223,1039,265"/>
+<area shape="rect" id="node10" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="1089,228,1309,255"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_top_menubar.html#aba4f8b1030da3a9d3b4394562d60a05a" title="RoR::GUI::TopMenubar\l::TopMenubar" alt="" coords="1118,279,1279,321"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="RoR::App::GetGfxWaterMode" name="RoR::App::GetGfxWaterMode">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#aca3931d7a75f2ad4b9d36c4fcd03a3c9" title="RoRFrameListener::SetupGameplayLoop" alt="" coords="1232,229,1493,256"/>
+<area shape="rect" id="node5" href="$class_water.html#a98d7cc8713ec87e65c7fa85775d13fc2" title="Water::processWater" alt="" coords="269,52,416,79"/>
+<area shape="rect" id="node7" href="$class_water.html#a13622d0f0f5a4c2c0504d4df580f1aa8" title="Water::moveTo" alt="" coords="287,103,399,129"/>
+<area shape="rect" id="node8" href="$class_water.html#a18fce2c0b2c45ee4ea8e413fcb4bdafa" title="Water::update" alt="" coords="291,153,395,180"/>
+<area shape="rect" id="node10" href="$class_terrain_manager.html#a2cdad8445ca98a9275d600d2fd2309ec" title="TerrainManager::initCamera" alt="" coords="251,204,434,231"/>
+<area shape="rect" id="node14" href="$class_terrain_manager.html#aa7c9434ece63d1313c840b632a3b0430" title="TerrainManager::initWater" alt="" coords="503,255,675,281"/>
+<area shape="rect" id="node15" href="$_settings_8cpp.html#a7f092b2ad8ee2eec2ce446459660d377" title="App__GfxWaterToStr" alt="" coords="516,305,663,332"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1541,261,1592,288"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1641,261,1714,288"/>
+<area shape="rect" id="node6" href="$class_water.html#a32d8f391b149a405008a606ceafa35ee" title="Water::Water" alt="" coords="539,52,639,79"/>
+<area shape="rect" id="node9" href="$class_water.html#ab3c688bc459bf677f8a235cd42c9daae" title="Water::framestep" alt="" coords="528,153,651,180"/>
+<area shape="rect" id="node11" href="$class_terrain_manager.html#a13e84f666b59e55f3c67ee345bda5873" title="TerrainManager::initSubSystems" alt="" coords="483,204,695,231"/>
+<area shape="rect" id="node12" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="744,229,928,256"/>
+<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#a9757c059e840019a3e2659d5ef63ea02" title="Reads GVar &#39;sim_terrain_pending&#39;. " alt="" coords="976,229,1184,256"/>
+<area shape="rect" id="node16" href="$class_settings.html#a19d1e2e2df8600f7e2cd1c64363fe60f" title="Settings::SaveSettings" alt="" coords="758,299,914,325"/>
+</map>

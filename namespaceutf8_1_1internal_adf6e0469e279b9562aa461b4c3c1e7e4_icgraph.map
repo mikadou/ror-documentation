@@ -1,0 +1,51 @@
+<map id="utf8::internal::mask8" name="utf8::internal::mask8">
+<area shape="rect" id="node2" href="$namespaceutf8_1_1internal.html#ab4820484159ba613b4901476ceb24516" title="utf8::internal::is\l_trail" alt="" coords="436,650,548,691"/>
+<area shape="rect" id="node31" href="$namespaceutf8_1_1internal.html#aadbe437cba7bfcc4df2638f633e9787c" title="utf8::internal::sequence\l_length" alt="" coords="195,755,354,797"/>
+<area shape="rect" id="node37" href="$namespaceutf8_1_1unchecked.html#ac5932c0cbb2498a111d53d26fd82f260" title="utf8::unchecked::next" alt="" coords="418,839,566,865"/>
+<area shape="rect" id="node45" href="$namespaceutf8_1_1internal.html#a6e5df73716136aec55e8fcf3309038b6" title="get_sequence_x functions decode utf&#45;8 sequences of the length x " alt="" coords="215,638,335,679"/>
+<area shape="rect" id="node46" href="$namespaceutf8_1_1internal.html#a9d641b9546be985f9f0fd4955ac42a24" title="utf8::internal::get\l_sequence_2" alt="" coords="215,442,335,483"/>
+<area shape="rect" id="node47" href="$namespaceutf8_1_1internal.html#ac1809a1fb3fa6983d64a0d3a39646008" title="utf8::internal::get\l_sequence_3" alt="" coords="215,507,335,549"/>
+<area shape="rect" id="node48" href="$namespaceutf8_1_1internal.html#ad1958e7c6746ba6b1fbb0d81b88b346c" title="utf8::internal::get\l_sequence_4" alt="" coords="215,573,335,614"/>
+<area shape="rect" id="node49" href="$namespaceutf8.html#a498c8e7d7a6fd92d4672ef05661dc783" title="utf8::starts_with_bom" alt="" coords="201,872,349,899"/>
+<area shape="rect" id="node50" href="$namespaceutf8.html#aed9555bcddc0fd46296bf4e5642229ed" title="utf8::is_bom" alt="" coords="227,923,322,949"/>
+<area shape="rect" id="node3" href="$namespaceutf8.html#a07dcd36a2185e5c9f0b19dd88859cd6c" title="utf8::replace_invalid" alt="" coords="652,569,791,596"/>
+<area shape="rect" id="node24" href="$namespaceutf8.html#a9a599fdd8a16ce65e3e72192db9d499b" title="utf8::prior" alt="" coords="683,687,760,713"/>
+<area shape="rect" id="node26" href="$namespaceutf8.html#aedaf9315740d4f25b43c188b02b5bcd0" title="Deprecated in versions that include &quot;prior&quot;. " alt="" coords="919,413,1020,440"/>
+<area shape="rect" id="node27" href="$namespaceutf8_1_1internal.html#a369641e705a3d7c91eb160868a6705f7" title="Helper for get_sequence_x. " alt="" coords="646,621,797,662"/>
+<area shape="rect" id="node28" href="$namespaceutf8_1_1unchecked.html#ad2c0e4b9693713ac18ee543e214b3ef9" title="utf8::unchecked::prior" alt="" coords="647,737,795,764"/>
+<area shape="rect" id="node4" href="$conf__file_8h.html#a153caa3fe3ddc7deff2c5e14d1dd4f71" title="SanitizeUtf8String" alt="" coords="905,464,1033,491"/>
+<area shape="rect" id="node20" href="$class_rig_def_1_1_parser.html#ad1920ba0a8dc23ac5043b2c270ef5f47" title="RigDef::Parser::ProcessRawLine" alt="" coords="861,581,1077,608"/>
+<area shape="rect" id="node22" href="$namespaceutf8.html#a13db09b6629724205302c623b76db028" title="utf8::replace_invalid" alt="" coords="900,632,1039,659"/>
+<area shape="rect" id="node23" href="$namespace_ro_r_1_1_utils.html#ac62ee4a4a513a67cba1bdc7d9eb9c7a4" title="RoR::Utils::SanitizeUtf8\lString" alt="" coords="887,515,1051,557"/>
+<area shape="rect" id="node5" href="$class_settings.html#a3610937cea22837c48e59a1c9493f295" title="Settings::loadSettings" alt="" coords="1154,5,1305,32"/>
+<area shape="rect" id="node6" href="$class_my_dialog.html#a3a49421662fe7600e722c3ca32b48a4d" title="MyDialog::LoadConfig" alt="" coords="1154,56,1305,83"/>
+<area shape="rect" id="node7" href="$class_character.html#a56efcb1702c8ea823659e5106cc03333" title="Character::receiveStreamData" alt="" coords="1130,107,1329,133"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_skin_manager.html#adeace12c6ab5f60f8c3ee860204d352c" title="RoR::SkinManager::parseScript" alt="" coords="1126,675,1333,701"/>
+<area shape="rect" id="node9" href="$class_torque_curve.html#a68e95142e6044ef86a4b0509fcecc1d3" title="TorqueCurve::loadDefault\lTorqueModels" alt="" coords="1144,726,1315,767"/>
+<area shape="rect" id="node10" href="$class_ro_r_1_1_skidmark_config.html#a2939c7181345ac52adaa2bc3c2fab3c3" title="RoR::SkidmarkConfig\l::loadDefaultModels" alt="" coords="1154,791,1305,833"/>
+<area shape="rect" id="node11" href="$class_cmd_key_inertia.html#a5fc5946c4e0023b8ce1fa7fd58fa9b23" title="CmdKeyInertia::loadDefault\lInertiaModels" alt="" coords="1138,209,1321,250"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_terrn2_parser.html#aaf74ce663f16609faf6f139d4bf256e4" title="RoR::Terrn2Parser::\lLoadTerrn2" alt="" coords="1382,398,1522,439"/>
+<area shape="rect" id="node13" href="$class_terrain_geometry_manager.html#a5d955662dda8b746d97fe586997f2471" title="TerrainGeometryManager\l::getPageHeightmap" alt="" coords="1145,274,1314,315"/>
+<area shape="rect" id="node14" href="$class_terrain_geometry_manager.html#ad130c4517d56ebd061d7c2d17d4308bb" title="TerrainGeometryManager\l::loadLayers" alt="" coords="1145,339,1314,381"/>
+<area shape="rect" id="node15" href="$class_terrain_object_manager.html#a62a108ad201e16585ab3115befedae60" title="TerrainObjectManager\l::loadObject" alt="" coords="1154,457,1305,498"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_config_file.html#abfd892376697c81b3636c52a19fd89a4" title="RoR::ConfigFile::GetStringEx" alt="" coords="1132,405,1327,432"/>
+<area shape="rect" id="node17" href="$class_settings.html#aa8257000628d4086aa8e792b26b35445" title="Settings::LoadSettings" alt="" coords="1152,523,1307,549"/>
+<area shape="rect" id="node18" href="$_utils_8h.html#aef4983bfed18d57951ada0cdaf1c4690" title="tryConvertUTF" alt="" coords="1175,573,1284,600"/>
+<area shape="rect" id="node19" href="$_utils_8cpp.html#aebe76599ecdd7fc4db8b64cba0beb94e" title="ANSI_TO_UTF" alt="" coords="1173,624,1285,651"/>
+<area shape="rect" id="node21" href="$class_rig_def_1_1_parser.html#ab08d0ba4ffb90b72cb351014bb7861bd" title="RigDef::Parser::ProcessOgre\lStream" alt="" coords="1133,909,1326,950"/>
+<area shape="rect" id="node25" href="$classutf8_1_1iterator.html#a7781099a85323b5a3ff4dc1015ca5af0" title="utf8::iterator::operator&#45;&#45;" alt="" coords="892,683,1047,709"/>
+<area shape="rect" id="node29" href="$namespaceutf8_1_1unchecked.html#a454cdd8f6b6771bd0425be1ccd94f788" title="utf8::unchecked::previous" alt="" coords="883,800,1055,827"/>
+<area shape="rect" id="node30" href="$classutf8_1_1unchecked_1_1iterator.html#a8b50b3a0d7b2c2506e135db73a636c7b" title="utf8::unchecked::iterator\l::operator&#45;&#45;" alt="" coords="888,734,1051,775"/>
+<area shape="rect" id="node32" href="$namespaceutf8_1_1internal.html#abe95547575fcc81911e381df03f8ebfe" title="utf8::internal::validate_next" alt="" coords="403,515,581,541"/>
+<area shape="rect" id="node40" href="$classutf8_1_1unchecked_1_1iterator.html#a0450ee39cf7eeed074d229fb9b6b22bc" title="utf8::unchecked::iterator\l::operator++" alt="" coords="888,977,1051,1018"/>
+<area shape="rect" id="node33" href="$namespaceutf8.html#afc093dfde66a6f52cb4a5caefe0e580d" title="utf8::next" alt="" coords="683,367,760,393"/>
+<area shape="rect" id="node35" href="$namespaceutf8_1_1internal.html#afd41668f94ce9f60f8e314d05804cecc" title="utf8::internal::validate_next" alt="" coords="632,417,811,444"/>
+<area shape="rect" id="node36" href="$namespaceutf8.html#ae29721faca762865e83ffea06605acc5" title="utf8::find_invalid" alt="" coords="663,468,780,495"/>
+<area shape="rect" id="node34" href="$class_rail_builder.html#a7a2bce672a41701e6908a9cea2139df6" title="RailBuilder::pushBack" alt="" coords="894,363,1045,389"/>
+<area shape="rect" id="node38" href="$namespaceutf8_1_1unchecked.html#aaf5ddbe24f8dbb83390e2d33d75b9ea1" title="utf8::unchecked::peek_next" alt="" coords="630,839,813,865"/>
+<area shape="rect" id="node39" href="$namespaceutf8_1_1unchecked.html#a66ea3b93a81a8f961e7a1700d13efc57" title="utf8::unchecked::advance" alt="" coords="635,788,807,815"/>
+<area shape="rect" id="node41" href="$namespaceutf8_1_1unchecked.html#a3796d7a15edc244a872a9ca559ea2693" title="utf8::unchecked::distance" alt="" coords="635,1007,807,1033"/>
+<area shape="rect" id="node42" href="$namespaceutf8_1_1unchecked.html#ae323b9faa6a47cb8d0aeaea44c1787eb" title="utf8::unchecked::utf8to16" alt="" coords="636,1057,807,1084"/>
+<area shape="rect" id="node43" href="$namespaceutf8_1_1unchecked.html#aa4b554922a06a7487118982ff41da590" title="utf8::unchecked::utf8to32" alt="" coords="636,889,807,916"/>
+<area shape="rect" id="node44" href="$classutf8_1_1unchecked_1_1iterator.html#a06b0df26a8570080c756f8d9a4cfdf76" title="utf8::unchecked::iterator\l::operator*" alt="" coords="640,941,803,982"/>
+</map>

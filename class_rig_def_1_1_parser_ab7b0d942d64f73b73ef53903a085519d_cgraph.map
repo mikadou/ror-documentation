@@ -1,0 +1,5 @@
+<map id="RigDef::Parser::ProcessGlobalDirective" name="RigDef::Parser::ProcessGlobalDirective">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#aa2f9091afe62e06be565fcab5d9bf11c" title="Reports warning message if we&#39;re not in root module. " alt="" coords="257,25,450,66"/>
+<area shape="rect" id="node3" href="$struct_rig_def_1_1_file.html#aecfdfd70221c860aebb6edf3f40d78d2" title="RigDef::File::KeywordToString" alt="" coords="499,5,699,32"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="502,60,695,87"/>
+</map>

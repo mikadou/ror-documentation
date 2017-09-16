@@ -1,0 +1,4 @@
+<map id="SurveyMapManager::toggleMapAlpha" name="SurveyMapManager::toggleMapAlpha">
+<area shape="rect" id="node2" href="$class_survey_map_manager.html#a406a7445a656a72a84f0a63c5f97eb16" title="SurveyMapManager::getAlpha" alt="" coords="235,5,432,32"/>
+<area shape="rect" id="node3" href="$class_survey_map_manager.html#a2a4a152b8fa45aeffcf759a0a0fa5f8c" title="SurveyMapManager::setAlpha" alt="" coords="235,56,432,83"/>
+</map>

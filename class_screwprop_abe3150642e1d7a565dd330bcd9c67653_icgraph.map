@@ -1,0 +1,5 @@
+<map id="Screwprop::getRudder" name="Screwprop::getRudder">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="231,5,414,46"/>
+<area shape="rect" id="node4" href="$class_overlay_wrapper.html#aac0eb0b030325b987c5085b0f12723ff" title="OverlayWrapper::UpdateMarineHUD" alt="" coords="205,71,440,97"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="489,12,703,39"/>
+</map>

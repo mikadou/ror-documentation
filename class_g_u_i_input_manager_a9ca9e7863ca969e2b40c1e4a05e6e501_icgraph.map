@@ -1,0 +1,10 @@
+<map id="GUIInputManager::SupressCursor" name="GUIInputManager::SupressCursor">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_manager.html#a2255f5dea7d2ba3c2ab3d2970765f642" title="RoR::GUIManager::SetMouse\lCursorVisible" alt="" coords="235,70,434,111"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#abbaeda3e7eb3f9f57145cbff0827f8a2" title="RoR::GUI::TeleportWindow\l::ShowAltmodeCursor" alt="" coords="483,70,666,111"/>
+<area shape="rect" id="node4" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#ac12c3b21c2d449c71b26173369aa3a38" title="RoR::GUI::TeleportWindow\l::MinimapGotFocus" alt="" coords="715,5,898,46"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#af5ee78f38d36e527dcf15acba2c1645d" title="RoR::GUI::TeleportWindow\l::MinimapLostFocus" alt="" coords="715,70,898,111"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a243abfa71535acbec366933a9c08c33b" title="RoR::GUI::TeleportWindow\l::EnableAltMode" alt="" coords="715,135,898,177"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a09839bd0d122825f6ae2fbd75cd8bfcb" title="RoR::GUI::TeleportWindow\l::TeleportWindow" alt="" coords="950,38,1133,79"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_g_u_i_1_1_teleport_window.html#a0068aab5f9d3800bb3e082509403e326" title="RoR::GUI::TeleportWindow\l::TeleportWindowFrameStep" alt="" coords="947,135,1135,177"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1185,143,1399,169"/>
+</map>

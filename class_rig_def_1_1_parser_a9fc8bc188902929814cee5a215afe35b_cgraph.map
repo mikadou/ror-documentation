@@ -1,0 +1,7 @@
+<map id="RigDef::Parser::ParseFileFormatVersion" name="RigDef::Parser::ParseFileFormatVersion">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_parser.html#a8397c243299359e21a84243c01ca43bf" title="RigDef::Parser::CheckNum\lArguments" alt="" coords="461,5,643,46"/>
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="Adds a message to parser report. " alt="" coords="694,71,887,97"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_parser.html#a73b9211dab9442e721e200ab3a774bed" title="RigDef::Parser::GetArgUint" alt="" coords="227,121,410,148"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_sequential_importer.html#a6943f152751785a5178658b11c65c84c" title="RigDef::SequentialImporter\l::Disable" alt="" coords="229,173,409,214"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a81784a06397ed377c39759981d6c700b" title="RigDef::Parser::GetArgLong" alt="" coords="459,121,645,148"/>
+</map>

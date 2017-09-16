@@ -1,0 +1,6 @@
+<map id="RoR::OgreSubsystem::GetMaterialByName" name="RoR::OgreSubsystem::GetMaterialByName">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_skin_manager.html#ac2351e0a7b403311eb6e283a72071b94" title="RoR::SkinManager::Replace\lMaterialTextures" alt="" coords="205,5,395,46"/>
+<area shape="rect" id="node4" href="$class_mesh_object.html#a2ecf1021e258cb843eecd7c0484dbe6d" title="MeshObject::loadMesh" alt="" coords="222,71,378,97"/>
+<area shape="rect" id="node3" href="$class_ro_r_1_1_skin_manager.html#afda0b477d9fc031a117148c3653aa672" title="RoR::SkinManager::ApplySkin\lTextureReplacements" alt="" coords="443,5,643,46"/>
+<area shape="rect" id="node5" href="$class_mesh_object.html#aa7f8cdf87e00f08e55eaa1528b6e51b5" title="MeshObject::MeshObject" alt="" coords="457,71,628,97"/>
+</map>

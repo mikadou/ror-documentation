@@ -1,0 +1,9 @@
+<map id="CameraManager::getCurrentBehavior" name="CameraManager::getCurrentBehavior">
+<area shape="rect" id="node2" href="$class_ro_r_frame_listener.html#afec2a0f00ed552c21d22aae76329bf38" title="RoRFrameListener::Update\lInputEvents" alt="" coords="537,18,719,59"/>
+<area shape="rect" id="node4" href="$class_ro_r_frame_listener.html#a519eb1268f9cc62d177d723bdb8190e1" title="RoRFrameListener::HideGUI" alt="" coords="259,33,450,60"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_scene_mouse.html#aac902676aecccabc972d8a2c4835535b" title="RoR::SceneMouse::mousePressed" alt="" coords="241,84,469,110"/>
+<area shape="rect" id="node7" href="$class_survey_map_manager.html#a49258bae8179a976b3c96b4b8daee682" title="SurveyMapManager::Update" alt="" coords="534,134,722,161"/>
+<area shape="rect" id="node8" href="$class_survey_map_manager.html#a51d80954d8fac255b9c88a60a120cbc3" title="SurveyMapManager::toggle\lMapView" alt="" coords="264,186,445,227"/>
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="787,80,1002,106"/>
+<area shape="rect" id="node6" href="$class_g_u_i_input_manager.html#a2e10c3db1bd7068fc87476ce1cceb7c6" title="GUIInputManager::mousePressed" alt="" coords="518,84,738,110"/>
+</map>

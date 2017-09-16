@@ -1,0 +1,4 @@
+<map id="ScriptAny_ReleaseAllHandles_Generic" name="ScriptAny_ReleaseAllHandles_Generic">
+<area shape="rect" id="node2" href="$class_c_script_any.html#aed0b83568bbe54b9578f1e966e81d6df" title="CScriptAny::ReleaseAllHandles" alt="" coords="251,12,459,39"/>
+<area shape="rect" id="node3" href="$class_c_script_any.html#a1219fbd83c442c3a4951642feed2a80f" title="CScriptAny::FreeObject" alt="" coords="507,12,669,39"/>
+</map>

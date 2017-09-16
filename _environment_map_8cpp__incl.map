@@ -1,0 +1,27 @@
+<map id="source/main/gfx/EnvironmentMap.cpp" name="source/main/gfx/EnvironmentMap.cpp">
+<area shape="rect" id="node2" href="$_environment_map_8h.html" title="EnvironmentMap.h" alt="" coords="400,544,529,571"/>
+<area shape="rect" id="node9" href="$_application_8h.html" title="Central state/object manager and communications hub. " alt="" coords="2054,320,2151,347"/>
+<area shape="rect" id="node26" href="$_settings_8h.html" title="Settings.h" alt="" coords="2110,395,2191,421"/>
+<area shape="rect" id="node28" href="$_beam_8h.html" title="Beam.h" alt="" coords="1649,96,1716,123"/>
+<area shape="rect" id="node46" href="$_sky_manager_8h.html" title="SkyManager.h" alt="" coords="2608,96,2715,123"/>
+<area shape="rect" id="node47" href="$_terrain_manager_8h.html" title="TerrainManager.h" alt="" coords="1043,469,1165,496"/>
+<area shape="rect" id="node3" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1554,693,1707,720"/>
+<area shape="rect" id="node10" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1928,544,2063,571"/>
+<area shape="rect" id="node21" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2275,619,2417,645"/>
+<area shape="rect" id="node22" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1911,619,2081,645"/>
+<area shape="rect" id="node23" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2833,619,2913,645"/>
+<area shape="rect" id="node27" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="2110,469,2196,496"/>
+<area shape="rect" id="node29" href="$_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="2117,171,2211,197"/>
+<area shape="rect" id="node39" href="$_gfx_actor_8h.html" title="Manager for all visuals belonging to a single actor. " alt="" coords="781,544,867,571"/>
+<area shape="rect" id="node42" href="$_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="1241,171,1428,197"/>
+<area shape="rect" id="node43" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="1453,171,1611,197"/>
+<area shape="rect" id="node30" href="$_ro_rnet_8h.html" title="RoRnet.h" alt="" coords="2686,320,2764,347"/>
+<area shape="rect" id="node31" href="$_slide_node_8h.html" title="SlideNode.h" alt="" coords="1688,469,1781,496"/>
+<area shape="rect" id="node32" href="$_beam_constants_8h.html" title="BeamConstants.h" alt="" coords="2101,245,2227,272"/>
+<area shape="rect" id="node33" href="$node__t_8h.html" title="datatypes/node_t.h" alt="" coords="2272,469,2405,496"/>
+<area shape="rect" id="node34" href="$shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="2251,245,2391,272"/>
+<area shape="rect" id="node35" href="$beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="2430,469,2567,496"/>
+<area shape="rect" id="node36" href="$wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="2592,469,2731,496"/>
+<area shape="rect" id="node37" href="$rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="1958,245,2076,272"/>
+<area shape="rect" id="node48" href="$_terrn2_fileformat_8h.html" title="Terrn2Fileformat.h" alt="" coords="217,544,345,571"/>
+</map>
